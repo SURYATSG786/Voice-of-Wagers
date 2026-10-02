@@ -1,0 +1,8 @@
+[Wage Verification]     40/40 synthetic ground-truth scenarios (provisional dataset)
+[Wage Prediction]       15/15 dataset scenarios; missing categories stay unavailable
+[Opportunity Score]     Deterministic; missing BOCW yields null, experimental formula caveat visible
+[Survival Guide]        5/5 city records complete; no placeholder phone numbers
+[Route Planner]         5/5 destinations match source dataset + composition; route estimates unverified
+[Migration Pulse]       Empty below 10 searches; ranking comes only from logged test requests
+[BOCW Data Integrity]   5/5 figures, metric types and dates unchanged; missing values remain null
+These checks validate implementation against the supplied data, not legal currency or extraction-model accuracy.

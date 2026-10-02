@@ -1,0 +1,189 @@
+{
+  "method": "Browser-rendered fixture activating the exact reduced-motion CSS declarations through an always-matching test media query; not operating-system preference emulation.",
+  "elements": [
+    {
+      "after": "none",
+      "animation": "none",
+      "before": "none",
+      "className": "hero-art",
+      "element": "DIV",
+      "transition": "0s"
+    },
+    {
+      "after": "none",
+      "animation": "none",
+      "before": "none",
+      "className": "saathi",
+      "element": "DIV",
+      "transition": "0s"
+    },
+    {
+      "after": "none",
+      "animation": "none",
+      "before": "none",
+      "className": null,
+      "element": "svg",
+      "transition": "0s"
+    },
+    {
+      "after": "none",
+      "animation": "none",
+      "before": "none",
+      "className": "saathi-eyes",
+      "element": "g",
+      "transition": "0s"
+    },
+    {
+      "after": "none",
+      "animation": "none",
+      "before": "none",
+      "className": null,
+      "element": "circle",
+      "transition": "0s"
+    },
+    {
+      "after": "none",
+      "animation": "none",
+      "before": "none",
+      "className": "hero-content",
+      "element": "DIV",
+      "transition": "0s"
+    },
+    {
+      "after": "none",
+      "animation": "none",
+      "before": "none",
+      "className": null,
+      "element": "H1",
+      "transition": "0s"
+    },
+    {
+      "after": "none",
+      "animation": "none",
+      "before": "none",
+      "className": "saathi-greeting",
+      "element": "DIV",
+      "transition": "0s"
+    },
+    {
+      "after": "none",
+      "animation": "none",
+      "before": "none",
+      "className": "panel result-panel result-enter attention-once",
+      "element": "SECTION",
+      "transition": "0s"
+    },
+    {
+      "after": "none",
+      "animation": "none",
+      "before": "none",
+      "className": null,
+      "element": "svg",
+      "transition": "0s"
+    },
+    {
+      "after": "none",
+      "animation": "none",
+      "before": "none",
+      "className": "saathi-star star-one",
+      "element": "path",
+      "transition": "0s"
+    },
+    {
+      "after": "none",
+      "animation": "none",
+      "before": "none",
+      "className": "skeleton",
+      "element": "DIV",
+      "transition": "0s"
+    },
+    {
+      "after": "none",
+      "animation": "none",
+      "before": "none",
+      "className": null,
+      "element": "I",
+      "transition": "0s"
+    },
+    {
+      "after": "none",
+      "animation": "none",
+      "before": "none",
+      "className": "score-track",
+      "element": "DIV",
+      "transition": "0s"
+    },
+    {
+      "after": "none",
+      "animation": "none",
+      "before": "none",
+      "className": null,
+      "element": "I",
+      "transition": "0s"
+    },
+    {
+      "after": "none",
+      "animation": "none",
+      "before": "none",
+      "className": "score-fill",
+      "element": "I",
+      "transition": "0s"
+    },
+    {
+      "after": "none",
+      "animation": "none",
+      "before": "none",
+      "className": "section-title",
+      "element": "DIV",
+      "transition": "0s"
+    },
+    {
+      "after": "none",
+      "animation": "none",
+      "before": "none",
+      "className": null,
+      "element": "H2",
+      "transition": "0s"
+    },
+    {
+      "after": "none",
+      "animation": "none",
+      "before": "none",
+      "className": null,
+      "element": "I",
+      "transition": "0s"
+    },
+    {
+      "after": "none",
+      "animation": "none",
+      "before": "none",
+      "className": "score-fill",
+      "element": "I",
+      "transition": "0s"
+    },
+    {
+      "after": "none",
+      "animation": "none",
+      "before": "none",
+      "className": null,
+      "element": "I",
+      "transition": "0s"
+    },
+    {
+      "after": "none",
+      "animation": "none",
+      "before": "none",
+      "className": "score-fill",
+      "element": "I",
+      "transition": "0s"
+    },
+    {
+      "after": "none",
+      "animation": "none",
+      "before": "none",
+      "className": "btn-primary",
+      "element": "BUTTON",
+      "transition": "0s"
+    }
+  ]
+}

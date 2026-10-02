@@ -1,0 +1,11 @@
+{
+  "lib/wageVerdict.js": true,
+  "lib/parser.js": true,
+  "lib/speech.js": true,
+  "client/src/speechPlayback.js": true,
+  "data/wage_table.json": true,
+  "data/bocw_registration.json": true,
+  "data/cost_of_living.json": true,
+  "data/survival_guide.json": true,
+  "data/distances.json": true
+}

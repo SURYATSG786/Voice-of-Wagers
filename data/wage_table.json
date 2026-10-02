@@ -1,0 +1,88 @@
+{
+  "last_verified": null,
+  "cities": [
+    {
+      "city": "Delhi",
+      "state": "Delhi NCT",
+      "sector": "Building and Construction",
+      "rates": {
+        "unskilled": 19846,
+        "semi_skilled": null,
+        "skilled": null
+      },
+      "unit": "monthly",
+      "effective_date": "2026 (current notification)",
+      "verification_note": "CONFLICTING SOURCES: some report Rs 18,456/month (Apr-2025 order), others Rs 19,846/month (claimed current 2026 figure). CONFIRM at labour.delhi.gov.in before demo. Supplied planning dataset; latest applicable notification has not been authenticated by this app. This is a provisional benchmark, not a legal determination.",
+      "source_url": "https://labour.delhi.gov.in/labour/current-minimum-wage-rate",
+      "verification_status": "requires_verification",
+      "daily_divisor": 26
+    },
+    {
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "sector": "All scheduled employments (state-wide, not construction-specific)",
+      "rates": {
+        "unskilled": 15220.71,
+        "semi_skilled": 16780.74,
+        "skilled": 18500.81,
+        "highly_skilled": 19425.85
+      },
+      "unit": "monthly",
+      "daily_divisor": 26,
+      "effective_date": "2026-04-01",
+      "source_url": "https://hrylabour.gov.in/",
+      "verification_note": "Well-corroborated across multiple sources. Haryana revises twice yearly (Jan/Jul) — check for a newer notification before demo. Supplied planning dataset; latest applicable notification has not been authenticated by this app. This is a provisional benchmark, not a legal determination.",
+      "verification_status": "requires_verification"
+    },
+    {
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "sector": "74 Scheduled Employments, Category I (Gautam Buddha Nagar / Ghaziabad)",
+      "rates": {
+        "unskilled": 13690,
+        "semi_skilled": 15059,
+        "skilled": 16868
+      },
+      "unit": "monthly",
+      "effective_date": "2026-04-01",
+      "source_url": "https://uplabour.gov.in/",
+      "verification_note": "Issued after labour unrest in Noida; UP revises Apr/Oct — check for an Oct-2026 revision before demo. Supplied planning dataset; latest applicable notification has not been authenticated by this app. This is a provisional benchmark, not a legal determination.",
+      "verification_status": "requires_verification",
+      "daily_divisor": 26
+    },
+    {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "sector": "Construction or Maintenance of Roads and Buildings",
+      "rates": {
+        "unskilled": null,
+        "semi_skilled": null,
+        "skilled": null,
+        "general_construction_daily": 609.3
+      },
+      "unit": "daily",
+      "effective_date": "2026-04-01",
+      "verification_note": "Tamil Nadu does not split this scheduled employment into unskilled/semi-skilled/skilled tiers the way other states do — it is a single composite rate (Basic Rs 117 + DA Rs 492.30/day). Reflect this honestly in the UI rather than forcing it into the same 3-tier shape as other cities. Supplied planning dataset; latest applicable notification has not been authenticated by this app. This is a provisional benchmark, not a legal determination.",
+      "source_url": "https://labour.tn.gov.in/",
+      "verification_status": "requires_verification",
+      "daily_divisor": 26
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "sector": "Zone I (Mumbai metro)",
+      "rates": {
+        "unskilled": 14638,
+        "semi_skilled": 16198,
+        "skilled": 17940
+      },
+      "unit": "monthly",
+      "effective_date": "2026 (current cycle)",
+      "verification_note": "Maharashtra revises Jan/Jul. One source gives a lower unskilled figure (Rs 14,066/month) for an earlier 2026 cycle — confirm which cycle is current before demo. Supplied planning dataset; latest applicable notification has not been authenticated by this app. This is a provisional benchmark, not a legal determination.",
+      "source_url": "https://mahakamgar.maharashtra.gov.in/",
+      "verification_status": "requires_verification",
+      "daily_divisor": 26
+    }
+  ],
+  "reviewed_on": "2026-10-02"
+}

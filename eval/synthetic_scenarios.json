@@ -1,0 +1,562 @@
+[
+  {
+    "input": {
+      "state": "Delhi",
+      "job_category": "unskilled",
+      "wage_amount": 19746.0,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "underpaid",
+      "legal_minimum": 19846.0,
+      "gap": 100,
+      "actual_wage_monthly_equivalent": 19746.0
+    }
+  },
+  {
+    "input": {
+      "state": "Delhi",
+      "job_category": "unskilled",
+      "wage_amount": 19946.0,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "above_minimum",
+      "legal_minimum": 19846.0,
+      "gap": 0,
+      "actual_wage_monthly_equivalent": 19946.0
+    }
+  },
+  {
+    "input": {
+      "state": "Delhi",
+      "job_category": "semi_skilled",
+      "wage_amount": 10000,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "unavailable",
+      "legal_minimum": null,
+      "gap": null,
+      "actual_wage_monthly_equivalent": 10000
+    }
+  },
+  {
+    "input": {
+      "state": "Delhi",
+      "job_category": "semi_skilled",
+      "wage_amount": 10000,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "unavailable",
+      "legal_minimum": null,
+      "gap": null,
+      "actual_wage_monthly_equivalent": 10000
+    }
+  },
+  {
+    "input": {
+      "state": "Delhi",
+      "job_category": "skilled",
+      "wage_amount": 10000,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "unavailable",
+      "legal_minimum": null,
+      "gap": null,
+      "actual_wage_monthly_equivalent": 10000
+    }
+  },
+  {
+    "input": {
+      "state": "Delhi",
+      "job_category": "skilled",
+      "wage_amount": 10000,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "unavailable",
+      "legal_minimum": null,
+      "gap": null,
+      "actual_wage_monthly_equivalent": 10000
+    }
+  },
+  {
+    "input": {
+      "state": "Gurgaon",
+      "job_category": "unskilled",
+      "wage_amount": 15120.71,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "underpaid",
+      "legal_minimum": 15220.71,
+      "gap": 100,
+      "actual_wage_monthly_equivalent": 15120.71
+    }
+  },
+  {
+    "input": {
+      "state": "Gurgaon",
+      "job_category": "unskilled",
+      "wage_amount": 15320.71,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "above_minimum",
+      "legal_minimum": 15220.71,
+      "gap": 0,
+      "actual_wage_monthly_equivalent": 15320.71
+    }
+  },
+  {
+    "input": {
+      "state": "Gurgaon",
+      "job_category": "semi_skilled",
+      "wage_amount": 16680.74,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "underpaid",
+      "legal_minimum": 16780.74,
+      "gap": 100,
+      "actual_wage_monthly_equivalent": 16680.74
+    }
+  },
+  {
+    "input": {
+      "state": "Gurgaon",
+      "job_category": "semi_skilled",
+      "wage_amount": 16880.74,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "above_minimum",
+      "legal_minimum": 16780.74,
+      "gap": 0,
+      "actual_wage_monthly_equivalent": 16880.74
+    }
+  },
+  {
+    "input": {
+      "state": "Gurgaon",
+      "job_category": "skilled",
+      "wage_amount": 18400.81,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "underpaid",
+      "legal_minimum": 18500.81,
+      "gap": 100,
+      "actual_wage_monthly_equivalent": 18400.81
+    }
+  },
+  {
+    "input": {
+      "state": "Gurgaon",
+      "job_category": "skilled",
+      "wage_amount": 18600.81,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "above_minimum",
+      "legal_minimum": 18500.81,
+      "gap": 0,
+      "actual_wage_monthly_equivalent": 18600.81
+    }
+  },
+  {
+    "input": {
+      "state": "Noida",
+      "job_category": "unskilled",
+      "wage_amount": 13590.0,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "underpaid",
+      "legal_minimum": 13690.0,
+      "gap": 100,
+      "actual_wage_monthly_equivalent": 13590.0
+    }
+  },
+  {
+    "input": {
+      "state": "Noida",
+      "job_category": "unskilled",
+      "wage_amount": 13790.0,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "above_minimum",
+      "legal_minimum": 13690.0,
+      "gap": 0,
+      "actual_wage_monthly_equivalent": 13790.0
+    }
+  },
+  {
+    "input": {
+      "state": "Noida",
+      "job_category": "semi_skilled",
+      "wage_amount": 14959.0,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "underpaid",
+      "legal_minimum": 15059.0,
+      "gap": 100,
+      "actual_wage_monthly_equivalent": 14959.0
+    }
+  },
+  {
+    "input": {
+      "state": "Noida",
+      "job_category": "semi_skilled",
+      "wage_amount": 15159.0,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "above_minimum",
+      "legal_minimum": 15059.0,
+      "gap": 0,
+      "actual_wage_monthly_equivalent": 15159.0
+    }
+  },
+  {
+    "input": {
+      "state": "Noida",
+      "job_category": "skilled",
+      "wage_amount": 16768.0,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "underpaid",
+      "legal_minimum": 16868.0,
+      "gap": 100,
+      "actual_wage_monthly_equivalent": 16768.0
+    }
+  },
+  {
+    "input": {
+      "state": "Noida",
+      "job_category": "skilled",
+      "wage_amount": 16968.0,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "above_minimum",
+      "legal_minimum": 16868.0,
+      "gap": 0,
+      "actual_wage_monthly_equivalent": 16968.0
+    }
+  },
+  {
+    "input": {
+      "state": "Chennai",
+      "job_category": "unskilled",
+      "wage_amount": 15741.8,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "underpaid",
+      "legal_minimum": 15841.8,
+      "gap": 100,
+      "actual_wage_monthly_equivalent": 15741.8
+    }
+  },
+  {
+    "input": {
+      "state": "Chennai",
+      "job_category": "unskilled",
+      "wage_amount": 15941.8,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "above_minimum",
+      "legal_minimum": 15841.8,
+      "gap": 0,
+      "actual_wage_monthly_equivalent": 15941.8
+    }
+  },
+  {
+    "input": {
+      "state": "Chennai",
+      "job_category": "semi_skilled",
+      "wage_amount": 15741.8,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "underpaid",
+      "legal_minimum": 15841.8,
+      "gap": 100,
+      "actual_wage_monthly_equivalent": 15741.8
+    }
+  },
+  {
+    "input": {
+      "state": "Chennai",
+      "job_category": "semi_skilled",
+      "wage_amount": 15941.8,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "above_minimum",
+      "legal_minimum": 15841.8,
+      "gap": 0,
+      "actual_wage_monthly_equivalent": 15941.8
+    }
+  },
+  {
+    "input": {
+      "state": "Chennai",
+      "job_category": "skilled",
+      "wage_amount": 15741.8,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "underpaid",
+      "legal_minimum": 15841.8,
+      "gap": 100,
+      "actual_wage_monthly_equivalent": 15741.8
+    }
+  },
+  {
+    "input": {
+      "state": "Chennai",
+      "job_category": "skilled",
+      "wage_amount": 15941.8,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "above_minimum",
+      "legal_minimum": 15841.8,
+      "gap": 0,
+      "actual_wage_monthly_equivalent": 15941.8
+    }
+  },
+  {
+    "input": {
+      "state": "Mumbai",
+      "job_category": "unskilled",
+      "wage_amount": 14538.0,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "underpaid",
+      "legal_minimum": 14638.0,
+      "gap": 100,
+      "actual_wage_monthly_equivalent": 14538.0
+    }
+  },
+  {
+    "input": {
+      "state": "Mumbai",
+      "job_category": "unskilled",
+      "wage_amount": 14738.0,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "above_minimum",
+      "legal_minimum": 14638.0,
+      "gap": 0,
+      "actual_wage_monthly_equivalent": 14738.0
+    }
+  },
+  {
+    "input": {
+      "state": "Mumbai",
+      "job_category": "semi_skilled",
+      "wage_amount": 16098.0,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "underpaid",
+      "legal_minimum": 16198.0,
+      "gap": 100,
+      "actual_wage_monthly_equivalent": 16098.0
+    }
+  },
+  {
+    "input": {
+      "state": "Mumbai",
+      "job_category": "semi_skilled",
+      "wage_amount": 16298.0,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "above_minimum",
+      "legal_minimum": 16198.0,
+      "gap": 0,
+      "actual_wage_monthly_equivalent": 16298.0
+    }
+  },
+  {
+    "input": {
+      "state": "Mumbai",
+      "job_category": "skilled",
+      "wage_amount": 17840.0,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "underpaid",
+      "legal_minimum": 17940.0,
+      "gap": 100,
+      "actual_wage_monthly_equivalent": 17840.0
+    }
+  },
+  {
+    "input": {
+      "state": "Mumbai",
+      "job_category": "skilled",
+      "wage_amount": 18040.0,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "above_minimum",
+      "legal_minimum": 17940.0,
+      "gap": 0,
+      "actual_wage_monthly_equivalent": 18040.0
+    }
+  },
+  {
+    "input": {
+      "state": "Delhi",
+      "job_category": "unskilled",
+      "wage_amount": 19846.0,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "fair",
+      "legal_minimum": 19846.0,
+      "gap": 0,
+      "actual_wage_monthly_equivalent": 19846.0
+    }
+  },
+  {
+    "input": {
+      "state": "Delhi",
+      "job_category": "unskilled",
+      "wage_amount": 763.31,
+      "wage_period": "daily"
+    },
+    "expected": {
+      "status": "above_minimum",
+      "legal_minimum": 19846.0,
+      "gap": 0.0,
+      "actual_wage_monthly_equivalent": 19846.06
+    }
+  },
+  {
+    "input": {
+      "state": "Gurgaon",
+      "job_category": "unskilled",
+      "wage_amount": 15220.71,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "fair",
+      "legal_minimum": 15220.71,
+      "gap": 0,
+      "actual_wage_monthly_equivalent": 15220.71
+    }
+  },
+  {
+    "input": {
+      "state": "Gurgaon",
+      "job_category": "unskilled",
+      "wage_amount": 585.41,
+      "wage_period": "daily"
+    },
+    "expected": {
+      "status": "underpaid",
+      "legal_minimum": 15220.71,
+      "gap": 0.05,
+      "actual_wage_monthly_equivalent": 15220.66
+    }
+  },
+  {
+    "input": {
+      "state": "Noida",
+      "job_category": "unskilled",
+      "wage_amount": 13690.0,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "fair",
+      "legal_minimum": 13690.0,
+      "gap": 0,
+      "actual_wage_monthly_equivalent": 13690.0
+    }
+  },
+  {
+    "input": {
+      "state": "Noida",
+      "job_category": "unskilled",
+      "wage_amount": 526.54,
+      "wage_period": "daily"
+    },
+    "expected": {
+      "status": "above_minimum",
+      "legal_minimum": 13690.0,
+      "gap": 0.0,
+      "actual_wage_monthly_equivalent": 13690.04
+    }
+  },
+  {
+    "input": {
+      "state": "Chennai",
+      "job_category": "unskilled",
+      "wage_amount": 15841.8,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "fair",
+      "legal_minimum": 15841.8,
+      "gap": 0,
+      "actual_wage_monthly_equivalent": 15841.8
+    }
+  },
+  {
+    "input": {
+      "state": "Chennai",
+      "job_category": "unskilled",
+      "wage_amount": 609.3,
+      "wage_period": "daily"
+    },
+    "expected": {
+      "status": "fair",
+      "legal_minimum": 15841.8,
+      "gap": 0.0,
+      "actual_wage_monthly_equivalent": 15841.8
+    }
+  },
+  {
+    "input": {
+      "state": "Mumbai",
+      "job_category": "unskilled",
+      "wage_amount": 14638.0,
+      "wage_period": "monthly"
+    },
+    "expected": {
+      "status": "fair",
+      "legal_minimum": 14638.0,
+      "gap": 0,
+      "actual_wage_monthly_equivalent": 14638.0
+    }
+  },
+  {
+    "input": {
+      "state": "Mumbai",
+      "job_category": "unskilled",
+      "wage_amount": 563.0,
+      "wage_period": "daily"
+    },
+    "expected": {
+      "status": "fair",
+      "legal_minimum": 14638.0,
+      "gap": 0.0,
+      "actual_wage_monthly_equivalent": 14638.0
+    }
+  }
+]

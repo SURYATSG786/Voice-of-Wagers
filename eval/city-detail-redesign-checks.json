@@ -1,0 +1,2444 @@
+[
+  {
+    "language": "en",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 673,
+        "href": "/predict?city=Chennai",
+        "text": "My WageKnow what your work is worth."
+      },
+      {
+        "bottom": 673,
+        "href": "/route?city=Chennai",
+        "text": "My RoutePlan your journey."
+      },
+      {
+        "bottom": 673,
+        "href": "/guide?city=Chennai",
+        "text": "ArrivalKnow where to go and who can help."
+      }
+    ],
+    "detailBottom": 738,
+    "detailHeight": 175,
+    "document": [
+      1366,
+      768
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      1366,
+      768
+    ],
+    "work": [
+      608,
+      608
+    ]
+  },
+  {
+    "language": "en",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 673,
+        "href": "/predict?city=Gurgaon",
+        "text": "My WageKnow what your work is worth."
+      },
+      {
+        "bottom": 673,
+        "href": "/route?city=Gurgaon",
+        "text": "My RoutePlan your journey."
+      },
+      {
+        "bottom": 673,
+        "href": "/guide?city=Gurgaon",
+        "text": "ArrivalKnow where to go and who can help."
+      }
+    ],
+    "detailBottom": 738,
+    "detailHeight": 175,
+    "document": [
+      1366,
+      768
+    ],
+    "record": "43,903",
+    "viewport": [
+      1366,
+      768
+    ],
+    "work": [
+      608,
+      608
+    ]
+  },
+  {
+    "language": "hi",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 673,
+        "href": "/predict?city=Chennai",
+        "text": "मेरी मज़दूरीअपने काम की मज़दूरी जानें।"
+      },
+      {
+        "bottom": 673,
+        "href": "/route?city=Chennai",
+        "text": "मेरा रास्ताअपनी यात्रा की योजना बनाएँ।"
+      },
+      {
+        "bottom": 673,
+        "href": "/guide?city=Chennai",
+        "text": "पहुँचने परजानें, कहाँ जाएँ और कौन मदद कर सकता है।"
+      }
+    ],
+    "detailBottom": 738,
+    "detailHeight": 175,
+    "document": [
+      1366,
+      768
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      1366,
+      768
+    ],
+    "work": [
+      608,
+      608
+    ]
+  },
+  {
+    "language": "hi",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 673,
+        "href": "/predict?city=Gurgaon",
+        "text": "मेरी मज़दूरीअपने काम की मज़दूरी जानें।"
+      },
+      {
+        "bottom": 673,
+        "href": "/route?city=Gurgaon",
+        "text": "मेरा रास्ताअपनी यात्रा की योजना बनाएँ।"
+      },
+      {
+        "bottom": 673,
+        "href": "/guide?city=Gurgaon",
+        "text": "पहुँचने परजानें, कहाँ जाएँ और कौन मदद कर सकता है।"
+      }
+    ],
+    "detailBottom": 738,
+    "detailHeight": 175,
+    "document": [
+      1366,
+      768
+    ],
+    "record": "43,903",
+    "viewport": [
+      1366,
+      768
+    ],
+    "work": [
+      608,
+      608
+    ]
+  },
+  {
+    "language": "bn",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 673,
+        "href": "/predict?city=Chennai",
+        "text": "আমার মজুরিআপনার কাজের মজুরি জানুন।"
+      },
+      {
+        "bottom": 673,
+        "href": "/route?city=Chennai",
+        "text": "আমার পথআপনার যাত্রার পরিকল্পনা করুন।"
+      },
+      {
+        "bottom": 673,
+        "href": "/guide?city=Chennai",
+        "text": "পৌঁছানোর পরজানুন কোথায় যাবেন আর কে সাহায্য করতে পারেন।"
+      }
+    ],
+    "detailBottom": 738,
+    "detailHeight": 175,
+    "document": [
+      1366,
+      768
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      1366,
+      768
+    ],
+    "work": [
+      608,
+      608
+    ]
+  },
+  {
+    "language": "bn",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 673,
+        "href": "/predict?city=Gurgaon",
+        "text": "আমার মজুরিআপনার কাজের মজুরি জানুন।"
+      },
+      {
+        "bottom": 673,
+        "href": "/route?city=Gurgaon",
+        "text": "আমার পথআপনার যাত্রার পরিকল্পনা করুন।"
+      },
+      {
+        "bottom": 673,
+        "href": "/guide?city=Gurgaon",
+        "text": "পৌঁছানোর পরজানুন কোথায় যাবেন আর কে সাহায্য করতে পারেন।"
+      }
+    ],
+    "detailBottom": 738,
+    "detailHeight": 175,
+    "document": [
+      1366,
+      768
+    ],
+    "record": "43,903",
+    "viewport": [
+      1366,
+      768
+    ],
+    "work": [
+      608,
+      608
+    ]
+  },
+  {
+    "language": "mr",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 673,
+        "href": "/predict?city=Chennai",
+        "text": "माझी मजुरीतुमच्या कामाची मजुरी जाणून घ्या."
+      },
+      {
+        "bottom": 673,
+        "href": "/route?city=Chennai",
+        "text": "माझा मार्गतुमच्या प्रवासाची योजना करा."
+      },
+      {
+        "bottom": 673,
+        "href": "/guide?city=Chennai",
+        "text": "पोहोचल्यावरकुठे जायचे आणि कोण मदत करू शकते ते जाणून घ्या."
+      }
+    ],
+    "detailBottom": 738,
+    "detailHeight": 175,
+    "document": [
+      1366,
+      768
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      1366,
+      768
+    ],
+    "work": [
+      608,
+      608
+    ]
+  },
+  {
+    "language": "mr",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 673,
+        "href": "/predict?city=Gurgaon",
+        "text": "माझी मजुरीतुमच्या कामाची मजुरी जाणून घ्या."
+      },
+      {
+        "bottom": 673,
+        "href": "/route?city=Gurgaon",
+        "text": "माझा मार्गतुमच्या प्रवासाची योजना करा."
+      },
+      {
+        "bottom": 673,
+        "href": "/guide?city=Gurgaon",
+        "text": "पोहोचल्यावरकुठे जायचे आणि कोण मदत करू शकते ते जाणून घ्या."
+      }
+    ],
+    "detailBottom": 738,
+    "detailHeight": 175,
+    "document": [
+      1366,
+      768
+    ],
+    "record": "43,903",
+    "viewport": [
+      1366,
+      768
+    ],
+    "work": [
+      608,
+      608
+    ]
+  },
+  {
+    "language": "te",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 673,
+        "href": "/predict?city=Chennai",
+        "text": "నా కూలిమీ పనికి ఎంత కూలి వస్తుందో తెలుసుకోండి."
+      },
+      {
+        "bottom": 673,
+        "href": "/route?city=Chennai",
+        "text": "నా ప్రయాణంమీ ప్రయాణం ప్లాన్ చేసుకోండి."
+      },
+      {
+        "bottom": 673,
+        "href": "/guide?city=Chennai",
+        "text": "చేరుకున్నాకఎక్కడికి వెళ్లాలి, ఎవరు సాయం చేయగలరో తెలుసుకోండి."
+      }
+    ],
+    "detailBottom": 738,
+    "detailHeight": 175,
+    "document": [
+      1366,
+      768
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      1366,
+      768
+    ],
+    "work": [
+      608,
+      608
+    ]
+  },
+  {
+    "language": "te",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 673,
+        "href": "/predict?city=Gurgaon",
+        "text": "నా కూలిమీ పనికి ఎంత కూలి వస్తుందో తెలుసుకోండి."
+      },
+      {
+        "bottom": 673,
+        "href": "/route?city=Gurgaon",
+        "text": "నా ప్రయాణంమీ ప్రయాణం ప్లాన్ చేసుకోండి."
+      },
+      {
+        "bottom": 673,
+        "href": "/guide?city=Gurgaon",
+        "text": "చేరుకున్నాకఎక్కడికి వెళ్లాలి, ఎవరు సాయం చేయగలరో తెలుసుకోండి."
+      }
+    ],
+    "detailBottom": 738,
+    "detailHeight": 175,
+    "document": [
+      1366,
+      768
+    ],
+    "record": "43,903",
+    "viewport": [
+      1366,
+      768
+    ],
+    "work": [
+      608,
+      608
+    ]
+  },
+  {
+    "language": "ta",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 690,
+        "href": "/predict?city=Chennai",
+        "text": "என் கூலிஉங்கள் வேலைக்கான கூலியைத் தெரிந்துகொள்ளுங்கள்."
+      },
+      {
+        "bottom": 690,
+        "href": "/route?city=Chennai",
+        "text": "என் பயண வழிஉங்கள் பயணத்தைத் திட்டமிடுங்கள்."
+      },
+      {
+        "bottom": 690,
+        "href": "/guide?city=Chennai",
+        "text": "வந்துசேர்ந்ததும்எங்கே செல்வது, யார் உதவுவார்கள் என்று தெரிந்துகொள்ளுங்கள்."
+      }
+    ],
+    "detailBottom": 755,
+    "detailHeight": 175,
+    "document": [
+      1366,
+      768
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      1366,
+      768
+    ],
+    "work": [
+      608,
+      608
+    ]
+  },
+  {
+    "language": "ta",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 690,
+        "href": "/predict?city=Gurgaon",
+        "text": "என் கூலிஉங்கள் வேலைக்கான கூலியைத் தெரிந்துகொள்ளுங்கள்."
+      },
+      {
+        "bottom": 690,
+        "href": "/route?city=Gurgaon",
+        "text": "என் பயண வழிஉங்கள் பயணத்தைத் திட்டமிடுங்கள்."
+      },
+      {
+        "bottom": 690,
+        "href": "/guide?city=Gurgaon",
+        "text": "வந்துசேர்ந்ததும்எங்கே செல்வது, யார் உதவுவார்கள் என்று தெரிந்துகொள்ளுங்கள்."
+      }
+    ],
+    "detailBottom": 755,
+    "detailHeight": 175,
+    "document": [
+      1366,
+      768
+    ],
+    "record": "43,903",
+    "viewport": [
+      1366,
+      768
+    ],
+    "work": [
+      608,
+      608
+    ]
+  },
+  {
+    "language": "gu",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 690,
+        "href": "/predict?city=Chennai",
+        "text": "મારી મજૂરીતમારા કામની મજૂરી જાણો."
+      },
+      {
+        "bottom": 690,
+        "href": "/route?city=Chennai",
+        "text": "મારો રસ્તોતમારી મુસાફરીની યોજના બનાવો."
+      },
+      {
+        "bottom": 690,
+        "href": "/guide?city=Chennai",
+        "text": "પહોંચ્યા પછીક્યાં જવું અને કોણ મદદ કરી શકે તે જાણો."
+      }
+    ],
+    "detailBottom": 755,
+    "detailHeight": 175,
+    "document": [
+      1366,
+      768
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      1366,
+      768
+    ],
+    "work": [
+      608,
+      608
+    ]
+  },
+  {
+    "language": "gu",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 690,
+        "href": "/predict?city=Gurgaon",
+        "text": "મારી મજૂરીતમારા કામની મજૂરી જાણો."
+      },
+      {
+        "bottom": 690,
+        "href": "/route?city=Gurgaon",
+        "text": "મારો રસ્તોતમારી મુસાફરીની યોજના બનાવો."
+      },
+      {
+        "bottom": 690,
+        "href": "/guide?city=Gurgaon",
+        "text": "પહોંચ્યા પછીક્યાં જવું અને કોણ મદદ કરી શકે તે જાણો."
+      }
+    ],
+    "detailBottom": 755,
+    "detailHeight": 175,
+    "document": [
+      1366,
+      768
+    ],
+    "record": "43,903",
+    "viewport": [
+      1366,
+      768
+    ],
+    "work": [
+      608,
+      608
+    ]
+  },
+  {
+    "language": "ur",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 678,
+        "href": "/predict?city=Chennai",
+        "text": "میری مزدوریاپنے کام کی مزدوری جانیں۔"
+      },
+      {
+        "bottom": 678,
+        "href": "/route?city=Chennai",
+        "text": "میرا راستہاپنے سفر کی تیاری کریں۔"
+      },
+      {
+        "bottom": 678,
+        "href": "/guide?city=Chennai",
+        "text": "پہنچنے پرجانیں، کہاں جائیں اور کون مدد کر سکتا ہے۔"
+      }
+    ],
+    "detailBottom": 742,
+    "detailHeight": 175,
+    "document": [
+      1366,
+      768
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      1366,
+      768
+    ],
+    "work": [
+      608,
+      608
+    ]
+  },
+  {
+    "language": "ur",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 678,
+        "href": "/predict?city=Gurgaon",
+        "text": "میری مزدوریاپنے کام کی مزدوری جانیں۔"
+      },
+      {
+        "bottom": 678,
+        "href": "/route?city=Gurgaon",
+        "text": "میرا راستہاپنے سفر کی تیاری کریں۔"
+      },
+      {
+        "bottom": 678,
+        "href": "/guide?city=Gurgaon",
+        "text": "پہنچنے پرجانیں، کہاں جائیں اور کون مدد کر سکتا ہے۔"
+      }
+    ],
+    "detailBottom": 742,
+    "detailHeight": 175,
+    "document": [
+      1366,
+      768
+    ],
+    "record": "43,903",
+    "viewport": [
+      1366,
+      768
+    ],
+    "work": [
+      608,
+      608
+    ]
+  },
+  {
+    "language": "kn",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 690,
+        "href": "/predict?city=Chennai",
+        "text": "ನನ್ನ ಕೂಲಿನಿಮ್ಮ ಕೆಲಸದ ಕೂಲಿ ತಿಳಿದುಕೊಳ್ಳಿ."
+      },
+      {
+        "bottom": 690,
+        "href": "/route?city=Chennai",
+        "text": "ನನ್ನ ಪ್ರಯಾಣನಿಮ್ಮ ಪ್ರಯಾಣದ ಯೋಜನೆ ಮಾಡಿ."
+      },
+      {
+        "bottom": 690,
+        "href": "/guide?city=Chennai",
+        "text": "ತಲುಪಿದ ಮೇಲೆಎಲ್ಲಿ ಹೋಗಬೇಕು, ಯಾರು ಸಹಾಯ ಮಾಡಬಹುದು ಎಂದು ತಿಳಿಯಿರಿ."
+      }
+    ],
+    "detailBottom": 755,
+    "detailHeight": 175,
+    "document": [
+      1366,
+      768
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      1366,
+      768
+    ],
+    "work": [
+      608,
+      608
+    ]
+  },
+  {
+    "language": "kn",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 690,
+        "href": "/predict?city=Gurgaon",
+        "text": "ನನ್ನ ಕೂಲಿನಿಮ್ಮ ಕೆಲಸದ ಕೂಲಿ ತಿಳಿದುಕೊಳ್ಳಿ."
+      },
+      {
+        "bottom": 690,
+        "href": "/route?city=Gurgaon",
+        "text": "ನನ್ನ ಪ್ರಯಾಣನಿಮ್ಮ ಪ್ರಯಾಣದ ಯೋಜನೆ ಮಾಡಿ."
+      },
+      {
+        "bottom": 690,
+        "href": "/guide?city=Gurgaon",
+        "text": "ತಲುಪಿದ ಮೇಲೆಎಲ್ಲಿ ಹೋಗಬೇಕು, ಯಾರು ಸಹಾಯ ಮಾಡಬಹುದು ಎಂದು ತಿಳಿಯಿರಿ."
+      }
+    ],
+    "detailBottom": 755,
+    "detailHeight": 175,
+    "document": [
+      1366,
+      768
+    ],
+    "record": "43,903",
+    "viewport": [
+      1366,
+      768
+    ],
+    "work": [
+      608,
+      608
+    ]
+  },
+  {
+    "language": "or",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 673,
+        "href": "/predict?city=Chennai",
+        "text": "ମୋ ମଜୁରିଆପଣଙ୍କ କାମର ମଜୁରି ଜାଣନ୍ତୁ।"
+      },
+      {
+        "bottom": 673,
+        "href": "/route?city=Chennai",
+        "text": "ମୋ ଯାତ୍ରାପଥଆପଣଙ୍କ ଯାତ୍ରାର ଯୋଜନା କରନ୍ତୁ।"
+      },
+      {
+        "bottom": 673,
+        "href": "/guide?city=Chennai",
+        "text": "ପହଞ୍ଚିବା ପରେକେଉଁଠି ଯିବେ ଓ କିଏ ସାହାଯ୍ୟ କରିପାରିବେ ଜାଣନ୍ତୁ।"
+      }
+    ],
+    "detailBottom": 738,
+    "detailHeight": 175,
+    "document": [
+      1366,
+      768
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      1366,
+      768
+    ],
+    "work": [
+      608,
+      608
+    ]
+  },
+  {
+    "language": "or",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 673,
+        "href": "/predict?city=Gurgaon",
+        "text": "ମୋ ମଜୁରିଆପଣଙ୍କ କାମର ମଜୁରି ଜାଣନ୍ତୁ।"
+      },
+      {
+        "bottom": 673,
+        "href": "/route?city=Gurgaon",
+        "text": "ମୋ ଯାତ୍ରାପଥଆପଣଙ୍କ ଯାତ୍ରାର ଯୋଜନା କରନ୍ତୁ।"
+      },
+      {
+        "bottom": 673,
+        "href": "/guide?city=Gurgaon",
+        "text": "ପହଞ୍ଚିବା ପରେକେଉଁଠି ଯିବେ ଓ କିଏ ସାହାଯ୍ୟ କରିପାରିବେ ଜାଣନ୍ତୁ।"
+      }
+    ],
+    "detailBottom": 738,
+    "detailHeight": 175,
+    "document": [
+      1366,
+      768
+    ],
+    "record": "43,903",
+    "viewport": [
+      1366,
+      768
+    ],
+    "work": [
+      608,
+      608
+    ]
+  },
+  {
+    "language": "ml",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 690,
+        "href": "/predict?city=Chennai",
+        "text": "എന്റെ കൂലിനിങ്ങളുടെ ജോലിയുടെ കൂലി അറിയൂ."
+      },
+      {
+        "bottom": 690,
+        "href": "/route?city=Chennai",
+        "text": "എന്റെ യാത്രനിങ്ങളുടെ യാത്രയ്ക്ക് തയ്യാറാകൂ."
+      },
+      {
+        "bottom": 690,
+        "href": "/guide?city=Chennai",
+        "text": "എത്തിയ ശേഷംഎവിടെ പോകണം, ആരോട് സഹായം ചോദിക്കാം എന്ന് അറിയൂ."
+      }
+    ],
+    "detailBottom": 755,
+    "detailHeight": 175,
+    "document": [
+      1366,
+      768
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      1366,
+      768
+    ],
+    "work": [
+      608,
+      608
+    ]
+  },
+  {
+    "language": "ml",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 690,
+        "href": "/predict?city=Gurgaon",
+        "text": "എന്റെ കൂലിനിങ്ങളുടെ ജോലിയുടെ കൂലി അറിയൂ."
+      },
+      {
+        "bottom": 690,
+        "href": "/route?city=Gurgaon",
+        "text": "എന്റെ യാത്രനിങ്ങളുടെ യാത്രയ്ക്ക് തയ്യാറാകൂ."
+      },
+      {
+        "bottom": 690,
+        "href": "/guide?city=Gurgaon",
+        "text": "എത്തിയ ശേഷംഎവിടെ പോകണം, ആരോട് സഹായം ചോദിക്കാം എന്ന് അറിയൂ."
+      }
+    ],
+    "detailBottom": 755,
+    "detailHeight": 175,
+    "document": [
+      1366,
+      768
+    ],
+    "record": "43,903",
+    "viewport": [
+      1366,
+      768
+    ],
+    "work": [
+      608,
+      608
+    ]
+  },
+  {
+    "language": "en",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 686,
+        "href": "/predict?city=Chennai",
+        "text": "My WageKnow what your work is worth."
+      },
+      {
+        "bottom": 686,
+        "href": "/route?city=Chennai",
+        "text": "My RoutePlan your journey."
+      },
+      {
+        "bottom": 686,
+        "href": "/guide?city=Chennai",
+        "text": "ArrivalKnow where to go and who can help."
+      }
+    ],
+    "detailBottom": 750,
+    "detailHeight": 181,
+    "document": [
+      1280,
+      900
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      1280,
+      900
+    ],
+    "work": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "en",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 686,
+        "href": "/predict?city=Gurgaon",
+        "text": "My WageKnow what your work is worth."
+      },
+      {
+        "bottom": 686,
+        "href": "/route?city=Gurgaon",
+        "text": "My RoutePlan your journey."
+      },
+      {
+        "bottom": 686,
+        "href": "/guide?city=Gurgaon",
+        "text": "ArrivalKnow where to go and who can help."
+      }
+    ],
+    "detailBottom": 750,
+    "detailHeight": 181,
+    "document": [
+      1280,
+      900
+    ],
+    "record": "43,903",
+    "viewport": [
+      1280,
+      900
+    ],
+    "work": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "hi",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 686,
+        "href": "/predict?city=Chennai",
+        "text": "मेरी मज़दूरीअपने काम की मज़दूरी जानें।"
+      },
+      {
+        "bottom": 686,
+        "href": "/route?city=Chennai",
+        "text": "मेरा रास्ताअपनी यात्रा की योजना बनाएँ।"
+      },
+      {
+        "bottom": 686,
+        "href": "/guide?city=Chennai",
+        "text": "पहुँचने परजानें, कहाँ जाएँ और कौन मदद कर सकता है।"
+      }
+    ],
+    "detailBottom": 750,
+    "detailHeight": 181,
+    "document": [
+      1280,
+      900
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      1280,
+      900
+    ],
+    "work": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "hi",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 686,
+        "href": "/predict?city=Gurgaon",
+        "text": "मेरी मज़दूरीअपने काम की मज़दूरी जानें।"
+      },
+      {
+        "bottom": 686,
+        "href": "/route?city=Gurgaon",
+        "text": "मेरा रास्ताअपनी यात्रा की योजना बनाएँ।"
+      },
+      {
+        "bottom": 686,
+        "href": "/guide?city=Gurgaon",
+        "text": "पहुँचने परजानें, कहाँ जाएँ और कौन मदद कर सकता है।"
+      }
+    ],
+    "detailBottom": 750,
+    "detailHeight": 181,
+    "document": [
+      1280,
+      900
+    ],
+    "record": "43,903",
+    "viewport": [
+      1280,
+      900
+    ],
+    "work": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "bn",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 686,
+        "href": "/predict?city=Chennai",
+        "text": "আমার মজুরিআপনার কাজের মজুরি জানুন।"
+      },
+      {
+        "bottom": 686,
+        "href": "/route?city=Chennai",
+        "text": "আমার পথআপনার যাত্রার পরিকল্পনা করুন।"
+      },
+      {
+        "bottom": 686,
+        "href": "/guide?city=Chennai",
+        "text": "পৌঁছানোর পরজানুন কোথায় যাবেন আর কে সাহায্য করতে পারেন।"
+      }
+    ],
+    "detailBottom": 750,
+    "detailHeight": 181,
+    "document": [
+      1280,
+      900
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      1280,
+      900
+    ],
+    "work": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "bn",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 686,
+        "href": "/predict?city=Gurgaon",
+        "text": "আমার মজুরিআপনার কাজের মজুরি জানুন।"
+      },
+      {
+        "bottom": 686,
+        "href": "/route?city=Gurgaon",
+        "text": "আমার পথআপনার যাত্রার পরিকল্পনা করুন।"
+      },
+      {
+        "bottom": 686,
+        "href": "/guide?city=Gurgaon",
+        "text": "পৌঁছানোর পরজানুন কোথায় যাবেন আর কে সাহায্য করতে পারেন।"
+      }
+    ],
+    "detailBottom": 750,
+    "detailHeight": 181,
+    "document": [
+      1280,
+      900
+    ],
+    "record": "43,903",
+    "viewport": [
+      1280,
+      900
+    ],
+    "work": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "mr",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 686,
+        "href": "/predict?city=Chennai",
+        "text": "माझी मजुरीतुमच्या कामाची मजुरी जाणून घ्या."
+      },
+      {
+        "bottom": 686,
+        "href": "/route?city=Chennai",
+        "text": "माझा मार्गतुमच्या प्रवासाची योजना करा."
+      },
+      {
+        "bottom": 686,
+        "href": "/guide?city=Chennai",
+        "text": "पोहोचल्यावरकुठे जायचे आणि कोण मदत करू शकते ते जाणून घ्या."
+      }
+    ],
+    "detailBottom": 750,
+    "detailHeight": 181,
+    "document": [
+      1280,
+      900
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      1280,
+      900
+    ],
+    "work": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "mr",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 686,
+        "href": "/predict?city=Gurgaon",
+        "text": "माझी मजुरीतुमच्या कामाची मजुरी जाणून घ्या."
+      },
+      {
+        "bottom": 686,
+        "href": "/route?city=Gurgaon",
+        "text": "माझा मार्गतुमच्या प्रवासाची योजना करा."
+      },
+      {
+        "bottom": 686,
+        "href": "/guide?city=Gurgaon",
+        "text": "पोहोचल्यावरकुठे जायचे आणि कोण मदत करू शकते ते जाणून घ्या."
+      }
+    ],
+    "detailBottom": 750,
+    "detailHeight": 181,
+    "document": [
+      1280,
+      900
+    ],
+    "record": "43,903",
+    "viewport": [
+      1280,
+      900
+    ],
+    "work": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "te",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 686,
+        "href": "/predict?city=Chennai",
+        "text": "నా కూలిమీ పనికి ఎంత కూలి వస్తుందో తెలుసుకోండి."
+      },
+      {
+        "bottom": 686,
+        "href": "/route?city=Chennai",
+        "text": "నా ప్రయాణంమీ ప్రయాణం ప్లాన్ చేసుకోండి."
+      },
+      {
+        "bottom": 686,
+        "href": "/guide?city=Chennai",
+        "text": "చేరుకున్నాకఎక్కడికి వెళ్లాలి, ఎవరు సాయం చేయగలరో తెలుసుకోండి."
+      }
+    ],
+    "detailBottom": 750,
+    "detailHeight": 181,
+    "document": [
+      1280,
+      900
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      1280,
+      900
+    ],
+    "work": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "te",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 686,
+        "href": "/predict?city=Gurgaon",
+        "text": "నా కూలిమీ పనికి ఎంత కూలి వస్తుందో తెలుసుకోండి."
+      },
+      {
+        "bottom": 686,
+        "href": "/route?city=Gurgaon",
+        "text": "నా ప్రయాణంమీ ప్రయాణం ప్లాన్ చేసుకోండి."
+      },
+      {
+        "bottom": 686,
+        "href": "/guide?city=Gurgaon",
+        "text": "చేరుకున్నాకఎక్కడికి వెళ్లాలి, ఎవరు సాయం చేయగలరో తెలుసుకోండి."
+      }
+    ],
+    "detailBottom": 750,
+    "detailHeight": 181,
+    "document": [
+      1280,
+      900
+    ],
+    "record": "43,903",
+    "viewport": [
+      1280,
+      900
+    ],
+    "work": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "ta",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 702,
+        "href": "/predict?city=Chennai",
+        "text": "என் கூலிஉங்கள் வேலைக்கான கூலியைத் தெரிந்துகொள்ளுங்கள்."
+      },
+      {
+        "bottom": 702,
+        "href": "/route?city=Chennai",
+        "text": "என் பயண வழிஉங்கள் பயணத்தைத் திட்டமிடுங்கள்."
+      },
+      {
+        "bottom": 702,
+        "href": "/guide?city=Chennai",
+        "text": "வந்துசேர்ந்ததும்எங்கே செல்வது, யார் உதவுவார்கள் என்று தெரிந்துகொள்ளுங்கள்."
+      }
+    ],
+    "detailBottom": 767,
+    "detailHeight": 181,
+    "document": [
+      1280,
+      900
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      1280,
+      900
+    ],
+    "work": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "ta",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 702,
+        "href": "/predict?city=Gurgaon",
+        "text": "என் கூலிஉங்கள் வேலைக்கான கூலியைத் தெரிந்துகொள்ளுங்கள்."
+      },
+      {
+        "bottom": 702,
+        "href": "/route?city=Gurgaon",
+        "text": "என் பயண வழிஉங்கள் பயணத்தைத் திட்டமிடுங்கள்."
+      },
+      {
+        "bottom": 702,
+        "href": "/guide?city=Gurgaon",
+        "text": "வந்துசேர்ந்ததும்எங்கே செல்வது, யார் உதவுவார்கள் என்று தெரிந்துகொள்ளுங்கள்."
+      }
+    ],
+    "detailBottom": 767,
+    "detailHeight": 181,
+    "document": [
+      1280,
+      900
+    ],
+    "record": "43,903",
+    "viewport": [
+      1280,
+      900
+    ],
+    "work": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "gu",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 702,
+        "href": "/predict?city=Chennai",
+        "text": "મારી મજૂરીતમારા કામની મજૂરી જાણો."
+      },
+      {
+        "bottom": 702,
+        "href": "/route?city=Chennai",
+        "text": "મારો રસ્તોતમારી મુસાફરીની યોજના બનાવો."
+      },
+      {
+        "bottom": 702,
+        "href": "/guide?city=Chennai",
+        "text": "પહોંચ્યા પછીક્યાં જવું અને કોણ મદદ કરી શકે તે જાણો."
+      }
+    ],
+    "detailBottom": 767,
+    "detailHeight": 181,
+    "document": [
+      1280,
+      900
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      1280,
+      900
+    ],
+    "work": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "gu",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 702,
+        "href": "/predict?city=Gurgaon",
+        "text": "મારી મજૂરીતમારા કામની મજૂરી જાણો."
+      },
+      {
+        "bottom": 702,
+        "href": "/route?city=Gurgaon",
+        "text": "મારો રસ્તોતમારી મુસાફરીની યોજના બનાવો."
+      },
+      {
+        "bottom": 702,
+        "href": "/guide?city=Gurgaon",
+        "text": "પહોંચ્યા પછીક્યાં જવું અને કોણ મદદ કરી શકે તે જાણો."
+      }
+    ],
+    "detailBottom": 767,
+    "detailHeight": 181,
+    "document": [
+      1280,
+      900
+    ],
+    "record": "43,903",
+    "viewport": [
+      1280,
+      900
+    ],
+    "work": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "ur",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 691,
+        "href": "/predict?city=Chennai",
+        "text": "میری مزدوریاپنے کام کی مزدوری جانیں۔"
+      },
+      {
+        "bottom": 691,
+        "href": "/route?city=Chennai",
+        "text": "میرا راستہاپنے سفر کی تیاری کریں۔"
+      },
+      {
+        "bottom": 691,
+        "href": "/guide?city=Chennai",
+        "text": "پہنچنے پرجانیں، کہاں جائیں اور کون مدد کر سکتا ہے۔"
+      }
+    ],
+    "detailBottom": 755,
+    "detailHeight": 181,
+    "document": [
+      1280,
+      900
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      1280,
+      900
+    ],
+    "work": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "ur",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 691,
+        "href": "/predict?city=Gurgaon",
+        "text": "میری مزدوریاپنے کام کی مزدوری جانیں۔"
+      },
+      {
+        "bottom": 691,
+        "href": "/route?city=Gurgaon",
+        "text": "میرا راستہاپنے سفر کی تیاری کریں۔"
+      },
+      {
+        "bottom": 691,
+        "href": "/guide?city=Gurgaon",
+        "text": "پہنچنے پرجانیں، کہاں جائیں اور کون مدد کر سکتا ہے۔"
+      }
+    ],
+    "detailBottom": 755,
+    "detailHeight": 181,
+    "document": [
+      1280,
+      900
+    ],
+    "record": "43,903",
+    "viewport": [
+      1280,
+      900
+    ],
+    "work": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "kn",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 702,
+        "href": "/predict?city=Chennai",
+        "text": "ನನ್ನ ಕೂಲಿನಿಮ್ಮ ಕೆಲಸದ ಕೂಲಿ ತಿಳಿದುಕೊಳ್ಳಿ."
+      },
+      {
+        "bottom": 702,
+        "href": "/route?city=Chennai",
+        "text": "ನನ್ನ ಪ್ರಯಾಣನಿಮ್ಮ ಪ್ರಯಾಣದ ಯೋಜನೆ ಮಾಡಿ."
+      },
+      {
+        "bottom": 702,
+        "href": "/guide?city=Chennai",
+        "text": "ತಲುಪಿದ ಮೇಲೆಎಲ್ಲಿ ಹೋಗಬೇಕು, ಯಾರು ಸಹಾಯ ಮಾಡಬಹುದು ಎಂದು ತಿಳಿಯಿರಿ."
+      }
+    ],
+    "detailBottom": 767,
+    "detailHeight": 181,
+    "document": [
+      1280,
+      900
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      1280,
+      900
+    ],
+    "work": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "kn",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 702,
+        "href": "/predict?city=Gurgaon",
+        "text": "ನನ್ನ ಕೂಲಿನಿಮ್ಮ ಕೆಲಸದ ಕೂಲಿ ತಿಳಿದುಕೊಳ್ಳಿ."
+      },
+      {
+        "bottom": 702,
+        "href": "/route?city=Gurgaon",
+        "text": "ನನ್ನ ಪ್ರಯಾಣನಿಮ್ಮ ಪ್ರಯಾಣದ ಯೋಜನೆ ಮಾಡಿ."
+      },
+      {
+        "bottom": 702,
+        "href": "/guide?city=Gurgaon",
+        "text": "ತಲುಪಿದ ಮೇಲೆಎಲ್ಲಿ ಹೋಗಬೇಕು, ಯಾರು ಸಹಾಯ ಮಾಡಬಹುದು ಎಂದು ತಿಳಿಯಿರಿ."
+      }
+    ],
+    "detailBottom": 767,
+    "detailHeight": 181,
+    "document": [
+      1280,
+      900
+    ],
+    "record": "43,903",
+    "viewport": [
+      1280,
+      900
+    ],
+    "work": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "or",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 686,
+        "href": "/predict?city=Chennai",
+        "text": "ମୋ ମଜୁରିଆପଣଙ୍କ କାମର ମଜୁରି ଜାଣନ୍ତୁ।"
+      },
+      {
+        "bottom": 686,
+        "href": "/route?city=Chennai",
+        "text": "ମୋ ଯାତ୍ରାପଥଆପଣଙ୍କ ଯାତ୍ରାର ଯୋଜନା କରନ୍ତୁ।"
+      },
+      {
+        "bottom": 686,
+        "href": "/guide?city=Chennai",
+        "text": "ପହଞ୍ଚିବା ପରେକେଉଁଠି ଯିବେ ଓ କିଏ ସାହାଯ୍ୟ କରିପାରିବେ ଜାଣନ୍ତୁ।"
+      }
+    ],
+    "detailBottom": 750,
+    "detailHeight": 181,
+    "document": [
+      1280,
+      900
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      1280,
+      900
+    ],
+    "work": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "or",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 686,
+        "href": "/predict?city=Gurgaon",
+        "text": "ମୋ ମଜୁରିଆପଣଙ୍କ କାମର ମଜୁରି ଜାଣନ୍ତୁ।"
+      },
+      {
+        "bottom": 686,
+        "href": "/route?city=Gurgaon",
+        "text": "ମୋ ଯାତ୍ରାପଥଆପଣଙ୍କ ଯାତ୍ରାର ଯୋଜନା କରନ୍ତୁ।"
+      },
+      {
+        "bottom": 686,
+        "href": "/guide?city=Gurgaon",
+        "text": "ପହଞ୍ଚିବା ପରେକେଉଁଠି ଯିବେ ଓ କିଏ ସାହାଯ୍ୟ କରିପାରିବେ ଜାଣନ୍ତୁ।"
+      }
+    ],
+    "detailBottom": 750,
+    "detailHeight": 181,
+    "document": [
+      1280,
+      900
+    ],
+    "record": "43,903",
+    "viewport": [
+      1280,
+      900
+    ],
+    "work": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "ml",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 719,
+        "href": "/predict?city=Chennai",
+        "text": "എന്റെ കൂലിനിങ്ങളുടെ ജോലിയുടെ കൂലി അറിയൂ."
+      },
+      {
+        "bottom": 719,
+        "href": "/route?city=Chennai",
+        "text": "എന്റെ യാത്രനിങ്ങളുടെ യാത്രയ്ക്ക് തയ്യാറാകൂ."
+      },
+      {
+        "bottom": 719,
+        "href": "/guide?city=Chennai",
+        "text": "എത്തിയ ശേഷംഎവിടെ പോകണം, ആരോട് സഹായം ചോദിക്കാം എന്ന് അറിയൂ."
+      }
+    ],
+    "detailBottom": 784,
+    "detailHeight": 181,
+    "document": [
+      1280,
+      900
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      1280,
+      900
+    ],
+    "work": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "ml",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 719,
+        "href": "/predict?city=Gurgaon",
+        "text": "എന്റെ കൂലിനിങ്ങളുടെ ജോലിയുടെ കൂലി അറിയൂ."
+      },
+      {
+        "bottom": 719,
+        "href": "/route?city=Gurgaon",
+        "text": "എന്റെ യാത്രനിങ്ങളുടെ യാത്രയ്ക്ക് തയ്യാറാകൂ."
+      },
+      {
+        "bottom": 719,
+        "href": "/guide?city=Gurgaon",
+        "text": "എത്തിയ ശേഷംഎവിടെ പോകണം, ആരോട് സഹായം ചോദിക്കാം എന്ന് അറിയൂ."
+      }
+    ],
+    "detailBottom": 784,
+    "detailHeight": 181,
+    "document": [
+      1280,
+      900
+    ],
+    "record": "43,903",
+    "viewport": [
+      1280,
+      900
+    ],
+    "work": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "en",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 1375,
+        "href": "/predict?city=Chennai",
+        "text": "My WageKnow what your work is worth."
+      },
+      {
+        "bottom": 1449,
+        "href": "/route?city=Chennai",
+        "text": "My RoutePlan your journey."
+      },
+      {
+        "bottom": 1523,
+        "href": "/guide?city=Chennai",
+        "text": "ArrivalKnow where to go and who can help."
+      }
+    ],
+    "detailBottom": 1670,
+    "detailHeight": 434,
+    "document": [
+      390,
+      1898
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      390,
+      844
+    ],
+    "work": [
+      1649,
+      1649
+    ]
+  },
+  {
+    "language": "en",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 1023,
+        "href": "/predict?city=Gurgaon",
+        "text": "My WageKnow what your work is worth."
+      },
+      {
+        "bottom": 1097,
+        "href": "/route?city=Gurgaon",
+        "text": "My RoutePlan your journey."
+      },
+      {
+        "bottom": 1171,
+        "href": "/guide?city=Gurgaon",
+        "text": "ArrivalKnow where to go and who can help."
+      }
+    ],
+    "detailBottom": 1318,
+    "detailHeight": 434,
+    "document": [
+      390,
+      1898
+    ],
+    "record": "43,903",
+    "viewport": [
+      390,
+      844
+    ],
+    "work": [
+      1649,
+      1649
+    ]
+  },
+  {
+    "language": "hi",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 1375,
+        "href": "/predict?city=Chennai",
+        "text": "मेरी मज़दूरीअपने काम की मज़दूरी जानें।"
+      },
+      {
+        "bottom": 1449,
+        "href": "/route?city=Chennai",
+        "text": "मेरा रास्ताअपनी यात्रा की योजना बनाएँ।"
+      },
+      {
+        "bottom": 1523,
+        "href": "/guide?city=Chennai",
+        "text": "पहुँचने परजानें, कहाँ जाएँ और कौन मदद कर सकता है।"
+      }
+    ],
+    "detailBottom": 1670,
+    "detailHeight": 434,
+    "document": [
+      390,
+      1898
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      390,
+      844
+    ],
+    "work": [
+      1649,
+      1649
+    ]
+  },
+  {
+    "language": "hi",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 1023,
+        "href": "/predict?city=Gurgaon",
+        "text": "मेरी मज़दूरीअपने काम की मज़दूरी जानें।"
+      },
+      {
+        "bottom": 1097,
+        "href": "/route?city=Gurgaon",
+        "text": "मेरा रास्ताअपनी यात्रा की योजना बनाएँ।"
+      },
+      {
+        "bottom": 1171,
+        "href": "/guide?city=Gurgaon",
+        "text": "पहुँचने परजानें, कहाँ जाएँ और कौन मदद कर सकता है।"
+      }
+    ],
+    "detailBottom": 1318,
+    "detailHeight": 434,
+    "document": [
+      390,
+      1898
+    ],
+    "record": "43,903",
+    "viewport": [
+      390,
+      844
+    ],
+    "work": [
+      1649,
+      1649
+    ]
+  },
+  {
+    "language": "bn",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 1375,
+        "href": "/predict?city=Chennai",
+        "text": "আমার মজুরিআপনার কাজের মজুরি জানুন।"
+      },
+      {
+        "bottom": 1449,
+        "href": "/route?city=Chennai",
+        "text": "আমার পথআপনার যাত্রার পরিকল্পনা করুন।"
+      },
+      {
+        "bottom": 1523,
+        "href": "/guide?city=Chennai",
+        "text": "পৌঁছানোর পরজানুন কোথায় যাবেন আর কে সাহায্য করতে পারেন।"
+      }
+    ],
+    "detailBottom": 1670,
+    "detailHeight": 434,
+    "document": [
+      390,
+      1898
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      390,
+      844
+    ],
+    "work": [
+      1649,
+      1649
+    ]
+  },
+  {
+    "language": "bn",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 1023,
+        "href": "/predict?city=Gurgaon",
+        "text": "আমার মজুরিআপনার কাজের মজুরি জানুন।"
+      },
+      {
+        "bottom": 1097,
+        "href": "/route?city=Gurgaon",
+        "text": "আমার পথআপনার যাত্রার পরিকল্পনা করুন।"
+      },
+      {
+        "bottom": 1171,
+        "href": "/guide?city=Gurgaon",
+        "text": "পৌঁছানোর পরজানুন কোথায় যাবেন আর কে সাহায্য করতে পারেন।"
+      }
+    ],
+    "detailBottom": 1318,
+    "detailHeight": 434,
+    "document": [
+      390,
+      1898
+    ],
+    "record": "43,903",
+    "viewport": [
+      390,
+      844
+    ],
+    "work": [
+      1649,
+      1649
+    ]
+  },
+  {
+    "language": "mr",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 1375,
+        "href": "/predict?city=Chennai",
+        "text": "माझी मजुरीतुमच्या कामाची मजुरी जाणून घ्या."
+      },
+      {
+        "bottom": 1449,
+        "href": "/route?city=Chennai",
+        "text": "माझा मार्गतुमच्या प्रवासाची योजना करा."
+      },
+      {
+        "bottom": 1523,
+        "href": "/guide?city=Chennai",
+        "text": "पोहोचल्यावरकुठे जायचे आणि कोण मदत करू शकते ते जाणून घ्या."
+      }
+    ],
+    "detailBottom": 1670,
+    "detailHeight": 434,
+    "document": [
+      390,
+      1898
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      390,
+      844
+    ],
+    "work": [
+      1649,
+      1649
+    ]
+  },
+  {
+    "language": "mr",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 1023,
+        "href": "/predict?city=Gurgaon",
+        "text": "माझी मजुरीतुमच्या कामाची मजुरी जाणून घ्या."
+      },
+      {
+        "bottom": 1097,
+        "href": "/route?city=Gurgaon",
+        "text": "माझा मार्गतुमच्या प्रवासाची योजना करा."
+      },
+      {
+        "bottom": 1171,
+        "href": "/guide?city=Gurgaon",
+        "text": "पोहोचल्यावरकुठे जायचे आणि कोण मदत करू शकते ते जाणून घ्या."
+      }
+    ],
+    "detailBottom": 1318,
+    "detailHeight": 434,
+    "document": [
+      390,
+      1898
+    ],
+    "record": "43,903",
+    "viewport": [
+      390,
+      844
+    ],
+    "work": [
+      1649,
+      1649
+    ]
+  },
+  {
+    "language": "te",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 1376,
+        "href": "/predict?city=Chennai",
+        "text": "నా కూలిమీ పనికి ఎంత కూలి వస్తుందో తెలుసుకోండి."
+      },
+      {
+        "bottom": 1450,
+        "href": "/route?city=Chennai",
+        "text": "నా ప్రయాణంమీ ప్రయాణం ప్లాన్ చేసుకోండి."
+      },
+      {
+        "bottom": 1540,
+        "href": "/guide?city=Chennai",
+        "text": "చేరుకున్నాకఎక్కడికి వెళ్లాలి, ఎవరు సాయం చేయగలరో తెలుసుకోండి."
+      }
+    ],
+    "detailBottom": 1687,
+    "detailHeight": 451,
+    "document": [
+      390,
+      1929
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      390,
+      844
+    ],
+    "work": [
+      1679,
+      1679
+    ]
+  },
+  {
+    "language": "te",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 1023,
+        "href": "/predict?city=Gurgaon",
+        "text": "నా కూలిమీ పనికి ఎంత కూలి వస్తుందో తెలుసుకోండి."
+      },
+      {
+        "bottom": 1097,
+        "href": "/route?city=Gurgaon",
+        "text": "నా ప్రయాణంమీ ప్రయాణం ప్లాన్ చేసుకోండి."
+      },
+      {
+        "bottom": 1187,
+        "href": "/guide?city=Gurgaon",
+        "text": "చేరుకున్నాకఎక్కడికి వెళ్లాలి, ఎవరు సాయం చేయగలరో తెలుసుకోండి."
+      }
+    ],
+    "detailBottom": 1334,
+    "detailHeight": 451,
+    "document": [
+      390,
+      1929
+    ],
+    "record": "43,903",
+    "viewport": [
+      390,
+      844
+    ],
+    "work": [
+      1679,
+      1679
+    ]
+  },
+  {
+    "language": "ta",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 1477,
+        "href": "/predict?city=Chennai",
+        "text": "என் கூலிஉங்கள் வேலைக்கான கூலியைத் தெரிந்துகொள்ளுங்கள்."
+      },
+      {
+        "bottom": 1551,
+        "href": "/route?city=Chennai",
+        "text": "என் பயண வழிஉங்கள் பயணத்தைத் திட்டமிடுங்கள்."
+      },
+      {
+        "bottom": 1641,
+        "href": "/guide?city=Chennai",
+        "text": "வந்துசேர்ந்ததும்எங்கே செல்வது, யார் உதவுவார்கள் என்று தெரிந்துகொள்ளுங்கள்."
+      }
+    ],
+    "detailBottom": 1788,
+    "detailHeight": 467,
+    "document": [
+      390,
+      2063
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      390,
+      844
+    ],
+    "work": [
+      1814,
+      1814
+    ]
+  },
+  {
+    "language": "ta",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 1091,
+        "href": "/predict?city=Gurgaon",
+        "text": "என் கூலிஉங்கள் வேலைக்கான கூலியைத் தெரிந்துகொள்ளுங்கள்."
+      },
+      {
+        "bottom": 1165,
+        "href": "/route?city=Gurgaon",
+        "text": "என் பயண வழிஉங்கள் பயணத்தைத் திட்டமிடுங்கள்."
+      },
+      {
+        "bottom": 1255,
+        "href": "/guide?city=Gurgaon",
+        "text": "வந்துசேர்ந்ததும்எங்கே செல்வது, யார் உதவுவார்கள் என்று தெரிந்துகொள்ளுங்கள்."
+      }
+    ],
+    "detailBottom": 1402,
+    "detailHeight": 467,
+    "document": [
+      390,
+      2063
+    ],
+    "record": "43,903",
+    "viewport": [
+      390,
+      844
+    ],
+    "work": [
+      1814,
+      1814
+    ]
+  },
+  {
+    "language": "gu",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 1375,
+        "href": "/predict?city=Chennai",
+        "text": "મારી મજૂરીતમારા કામની મજૂરી જાણો."
+      },
+      {
+        "bottom": 1449,
+        "href": "/route?city=Chennai",
+        "text": "મારો રસ્તોતમારી મુસાફરીની યોજના બનાવો."
+      },
+      {
+        "bottom": 1523,
+        "href": "/guide?city=Chennai",
+        "text": "પહોંચ્યા પછીક્યાં જવું અને કોણ મદદ કરી શકે તે જાણો."
+      }
+    ],
+    "detailBottom": 1670,
+    "detailHeight": 434,
+    "document": [
+      390,
+      1898
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      390,
+      844
+    ],
+    "work": [
+      1649,
+      1649
+    ]
+  },
+  {
+    "language": "gu",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 1023,
+        "href": "/predict?city=Gurgaon",
+        "text": "મારી મજૂરીતમારા કામની મજૂરી જાણો."
+      },
+      {
+        "bottom": 1097,
+        "href": "/route?city=Gurgaon",
+        "text": "મારો રસ્તોતમારી મુસાફરીની યોજના બનાવો."
+      },
+      {
+        "bottom": 1171,
+        "href": "/guide?city=Gurgaon",
+        "text": "પહોંચ્યા પછીક્યાં જવું અને કોણ મદદ કરી શકે તે જાણો."
+      }
+    ],
+    "detailBottom": 1318,
+    "detailHeight": 434,
+    "document": [
+      390,
+      1898
+    ],
+    "record": "43,903",
+    "viewport": [
+      390,
+      844
+    ],
+    "work": [
+      1649,
+      1649
+    ]
+  },
+  {
+    "language": "ur",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 1384,
+        "href": "/predict?city=Chennai",
+        "text": "میری مزدوریاپنے کام کی مزدوری جانیں۔"
+      },
+      {
+        "bottom": 1458,
+        "href": "/route?city=Chennai",
+        "text": "میرا راستہاپنے سفر کی تیاری کریں۔"
+      },
+      {
+        "bottom": 1532,
+        "href": "/guide?city=Chennai",
+        "text": "پہنچنے پرجانیں، کہاں جائیں اور کون مدد کر سکتا ہے۔"
+      }
+    ],
+    "detailBottom": 1679,
+    "detailHeight": 434,
+    "document": [
+      390,
+      1911
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      390,
+      844
+    ],
+    "work": [
+      1662,
+      1662
+    ]
+  },
+  {
+    "language": "ur",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 1027,
+        "href": "/predict?city=Gurgaon",
+        "text": "میری مزدوریاپنے کام کی مزدوری جانیں۔"
+      },
+      {
+        "bottom": 1101,
+        "href": "/route?city=Gurgaon",
+        "text": "میرا راستہاپنے سفر کی تیاری کریں۔"
+      },
+      {
+        "bottom": 1175,
+        "href": "/guide?city=Gurgaon",
+        "text": "پہنچنے پرجانیں، کہاں جائیں اور کون مدد کر سکتا ہے۔"
+      }
+    ],
+    "detailBottom": 1322,
+    "detailHeight": 434,
+    "document": [
+      390,
+      1911
+    ],
+    "record": "43,903",
+    "viewport": [
+      390,
+      844
+    ],
+    "work": [
+      1662,
+      1662
+    ]
+  },
+  {
+    "language": "kn",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 1376,
+        "href": "/predict?city=Chennai",
+        "text": "ನನ್ನ ಕೂಲಿನಿಮ್ಮ ಕೆಲಸದ ಕೂಲಿ ತಿಳಿದುಕೊಳ್ಳಿ."
+      },
+      {
+        "bottom": 1450,
+        "href": "/route?city=Chennai",
+        "text": "ನನ್ನ ಪ್ರಯಾಣನಿಮ್ಮ ಪ್ರಯಾಣದ ಯೋಜನೆ ಮಾಡಿ."
+      },
+      {
+        "bottom": 1540,
+        "href": "/guide?city=Chennai",
+        "text": "ತಲುಪಿದ ಮೇಲೆಎಲ್ಲಿ ಹೋಗಬೇಕು, ಯಾರು ಸಹಾಯ ಮಾಡಬಹುದು ಎಂದು ತಿಳಿಯಿರಿ."
+      }
+    ],
+    "detailBottom": 1687,
+    "detailHeight": 451,
+    "document": [
+      390,
+      1929
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      390,
+      844
+    ],
+    "work": [
+      1679,
+      1679
+    ]
+  },
+  {
+    "language": "kn",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 1023,
+        "href": "/predict?city=Gurgaon",
+        "text": "ನನ್ನ ಕೂಲಿನಿಮ್ಮ ಕೆಲಸದ ಕೂಲಿ ತಿಳಿದುಕೊಳ್ಳಿ."
+      },
+      {
+        "bottom": 1097,
+        "href": "/route?city=Gurgaon",
+        "text": "ನನ್ನ ಪ್ರಯಾಣನಿಮ್ಮ ಪ್ರಯಾಣದ ಯೋಜನೆ ಮಾಡಿ."
+      },
+      {
+        "bottom": 1187,
+        "href": "/guide?city=Gurgaon",
+        "text": "ತಲುಪಿದ ಮೇಲೆಎಲ್ಲಿ ಹೋಗಬೇಕು, ಯಾರು ಸಹಾಯ ಮಾಡಬಹುದು ಎಂದು ತಿಳಿಯಿರಿ."
+      }
+    ],
+    "detailBottom": 1334,
+    "detailHeight": 451,
+    "document": [
+      390,
+      1929
+    ],
+    "record": "43,903",
+    "viewport": [
+      390,
+      844
+    ],
+    "work": [
+      1679,
+      1679
+    ]
+  },
+  {
+    "language": "or",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 1375,
+        "href": "/predict?city=Chennai",
+        "text": "ମୋ ମଜୁରିଆପଣଙ୍କ କାମର ମଜୁରି ଜାଣନ୍ତୁ।"
+      },
+      {
+        "bottom": 1449,
+        "href": "/route?city=Chennai",
+        "text": "ମୋ ଯାତ୍ରାପଥଆପଣଙ୍କ ଯାତ୍ରାର ଯୋଜନା କରନ୍ତୁ।"
+      },
+      {
+        "bottom": 1523,
+        "href": "/guide?city=Chennai",
+        "text": "ପହଞ୍ଚିବା ପରେକେଉଁଠି ଯିବେ ଓ କିଏ ସାହାଯ୍ୟ କରିପାରିବେ ଜାଣନ୍ତୁ।"
+      }
+    ],
+    "detailBottom": 1670,
+    "detailHeight": 434,
+    "document": [
+      390,
+      1898
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      390,
+      844
+    ],
+    "work": [
+      1649,
+      1649
+    ]
+  },
+  {
+    "language": "or",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 1023,
+        "href": "/predict?city=Gurgaon",
+        "text": "ମୋ ମଜୁରିଆପଣଙ୍କ କାମର ମଜୁରି ଜାଣନ୍ତୁ।"
+      },
+      {
+        "bottom": 1097,
+        "href": "/route?city=Gurgaon",
+        "text": "ମୋ ଯାତ୍ରାପଥଆପଣଙ୍କ ଯାତ୍ରାର ଯୋଜନା କରନ୍ତୁ।"
+      },
+      {
+        "bottom": 1171,
+        "href": "/guide?city=Gurgaon",
+        "text": "ପହଞ୍ଚିବା ପରେକେଉଁଠି ଯିବେ ଓ କିଏ ସାହାଯ୍ୟ କରିପାରିବେ ଜାଣନ୍ତୁ।"
+      }
+    ],
+    "detailBottom": 1318,
+    "detailHeight": 434,
+    "document": [
+      390,
+      1898
+    ],
+    "record": "43,903",
+    "viewport": [
+      390,
+      844
+    ],
+    "work": [
+      1649,
+      1649
+    ]
+  },
+  {
+    "language": "ml",
+    "city": "Chennai",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 1409,
+        "href": "/predict?city=Chennai",
+        "text": "എന്റെ കൂലിനിങ്ങളുടെ ജോലിയുടെ കൂലി അറിയൂ."
+      },
+      {
+        "bottom": 1483,
+        "href": "/route?city=Chennai",
+        "text": "എന്റെ യാത്രനിങ്ങളുടെ യാത്രയ്ക്ക് തയ്യാറാകൂ."
+      },
+      {
+        "bottom": 1573,
+        "href": "/guide?city=Chennai",
+        "text": "എത്തിയ ശേഷംഎവിടെ പോകണം, ആരോട് സഹായം ചോദിക്കാം എന്ന് അറിയൂ."
+      }
+    ],
+    "detailBottom": 1720,
+    "detailHeight": 451,
+    "document": [
+      390,
+      1979
+    ],
+    "record": "26,56,663",
+    "viewport": [
+      390,
+      844
+    ],
+    "work": [
+      1730,
+      1730
+    ]
+  },
+  {
+    "language": "ml",
+    "city": "Gurgaon",
+    "actionCount": 3,
+    "actions": [
+      {
+        "bottom": 1040,
+        "href": "/predict?city=Gurgaon",
+        "text": "എന്റെ കൂലിനിങ്ങളുടെ ജോലിയുടെ കൂലി അറിയൂ."
+      },
+      {
+        "bottom": 1114,
+        "href": "/route?city=Gurgaon",
+        "text": "എന്റെ യാത്രനിങ്ങളുടെ യാത്രയ്ക്ക് തയ്യാറാകൂ."
+      },
+      {
+        "bottom": 1204,
+        "href": "/guide?city=Gurgaon",
+        "text": "എത്തിയ ശേഷംഎവിടെ പോകണം, ആരോട് സഹായം ചോദിക്കാം എന്ന് അറിയൂ."
+      }
+    ],
+    "detailBottom": 1351,
+    "detailHeight": 451,
+    "document": [
+      390,
+      1979
+    ],
+    "record": "43,903",
+    "viewport": [
+      390,
+      844
+    ],
+    "work": [
+      1730,
+      1730
+    ]
+  }
+]

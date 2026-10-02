@@ -1,0 +1,92 @@
+[
+  {
+    "caption": "Chennai",
+    "city": "Chennai",
+    "image": "/assets/cities/chennai.png",
+    "page": "/predict"
+  },
+  {
+    "caption": "Mumbai",
+    "city": "Mumbai",
+    "image": "/assets/cities/mumbai.png",
+    "page": "/predict"
+  },
+  {
+    "caption": "Delhi",
+    "city": "Delhi",
+    "image": "/assets/cities/delhi.png",
+    "page": "/predict"
+  },
+  {
+    "caption": "Noida",
+    "city": "Noida",
+    "image": "/assets/cities/noida.png",
+    "page": "/predict"
+  },
+  {
+    "caption": "Gurgaon",
+    "city": "Gurgaon",
+    "image": "/assets/cities/gurgaon.png",
+    "page": "/predict"
+  },
+  {
+    "caption": "Chennai",
+    "city": "Chennai",
+    "image": "/assets/cities/chennai.png",
+    "page": "/check"
+  },
+  {
+    "caption": "Mumbai",
+    "city": "Mumbai",
+    "image": "/assets/cities/mumbai.png",
+    "page": "/check"
+  },
+  {
+    "caption": "Delhi",
+    "city": "Delhi",
+    "image": "/assets/cities/delhi.png",
+    "page": "/check"
+  },
+  {
+    "caption": "Noida",
+    "city": "Noida",
+    "image": "/assets/cities/noida.png",
+    "page": "/check"
+  },
+  {
+    "caption": "Gurgaon",
+    "city": "Gurgaon",
+    "image": "/assets/cities/gurgaon.png",
+    "page": "/check"
+  },
+  {
+    "caption": "Chennai",
+    "city": "Chennai",
+    "image": "/assets/cities/chennai.png",
+    "page": "/guide"
+  },
+  {
+    "caption": "Mumbai",
+    "city": "Mumbai",
+    "image": "/assets/cities/mumbai.png",
+    "page": "/guide"
+  },
+  {
+    "caption": "Delhi",
+    "city": "Delhi",
+    "image": "/assets/cities/delhi.png",
+    "page": "/guide"
+  },
+  {
+    "caption": "Noida",
+    "city": "Noida",
+    "image": "/assets/cities/noida.png",
+    "page": "/guide"
+  },
+  {
+    "caption": "Gurgaon",
+    "city": "Gurgaon",
+    "image": "/assets/cities/gurgaon.png",
+    "page": "/guide"
+  }
+]

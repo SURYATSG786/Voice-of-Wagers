@@ -1,0 +1,244 @@
+{
+  "cities": [
+    {
+      "city": "Delhi",
+      "labour_office": {
+        "name": "Office of the Labour Commissioner, 5 Sham Nath Marg",
+        "url": "https://labour.delhi.gov.in/",
+        "distance_note": "Confirm current address and office hours on the official portal before visiting."
+      },
+      "government_hospital": "Lok Nayak Hospital",
+      "hospital_note": "Confirm the location, available services and opening hours before visiting.",
+      "worker_helpline": "155214",
+      "helpline_source": "https://labour.delhi.gov.in/labour/current-minimum-wage-rate",
+      "emergency": "112",
+      "emergency_source": "https://112.gov.in/",
+      "housing": [
+        "Shared rooms near your workplace — general option, not a verified listing.",
+        "Ask the local welfare board about registered hostels.",
+        "Visit before paying; request a receipt and avoid advance broker fees."
+      ],
+      "documentation": [
+        {
+          "name": "eShram registration",
+          "url": "https://eshram.gov.in/"
+        },
+        {
+          "name": "Jan Dhan basic bank account",
+          "url": "https://pmjdy.gov.in/"
+        },
+        {
+          "name": "State construction worker welfare board",
+          "url": "https://bocw.delhi.gov.in/"
+        }
+      ],
+      "useful_phrases": [
+        {
+          "local": "मेरा पैसा कब मिलेगा?",
+          "meaning": "When will I receive my pay?"
+        },
+        {
+          "local": "मुझे मदद चाहिए।",
+          "meaning": "I need help."
+        }
+      ],
+      "checklist": [
+        "Agree on pay, working hours and payment date in writing.",
+        "Keep copies of identity documents and emergency contacts.",
+        "Keep wage slips and your own record of days worked."
+      ]
+    },
+    {
+      "city": "Gurgaon",
+      "labour_office": {
+        "name": "Haryana Labour Department — Gurugram regional office",
+        "url": "https://hrylabour.gov.in/",
+        "distance_note": "Confirm current address and office hours on the official portal before visiting."
+      },
+      "government_hospital": "Civil Hospital, Gurugram",
+      "hospital_note": "Confirm the location, available services and opening hours before visiting.",
+      "worker_helpline": null,
+      "helpline_source": null,
+      "emergency": "112",
+      "emergency_source": "https://112.gov.in/",
+      "housing": [
+        "Shared rooms near your workplace — general option, not a verified listing.",
+        "Ask the local welfare board about registered hostels.",
+        "Visit before paying; request a receipt and avoid advance broker fees."
+      ],
+      "documentation": [
+        {
+          "name": "eShram registration",
+          "url": "https://eshram.gov.in/"
+        },
+        {
+          "name": "Jan Dhan basic bank account",
+          "url": "https://pmjdy.gov.in/"
+        },
+        {
+          "name": "State construction worker welfare board",
+          "url": "https://hrylabour.gov.in/"
+        }
+      ],
+      "useful_phrases": [
+        {
+          "local": "काम के घंटे कितने हैं?",
+          "meaning": "What are the working hours?"
+        },
+        {
+          "local": "मुझे मदद चाहिए।",
+          "meaning": "I need help."
+        }
+      ],
+      "checklist": [
+        "Agree on pay, working hours and payment date in writing.",
+        "Keep copies of identity documents and emergency contacts.",
+        "Keep wage slips and your own record of days worked."
+      ]
+    },
+    {
+      "city": "Noida",
+      "labour_office": {
+        "name": "Assistant Labour Commissioner — Gautam Buddha Nagar",
+        "url": "https://gbnagar.nic.in/",
+        "distance_note": "Confirm current address and office hours on the official portal before visiting."
+      },
+      "government_hospital": "District Combined Hospital, Noida",
+      "hospital_note": "Confirm the location, available services and opening hours before visiting.",
+      "worker_helpline": null,
+      "helpline_source": null,
+      "emergency": "112",
+      "emergency_source": "https://112.gov.in/",
+      "housing": [
+        "Shared rooms near your workplace — general option, not a verified listing.",
+        "Ask the local welfare board about registered hostels.",
+        "Visit before paying; request a receipt and avoid advance broker fees."
+      ],
+      "documentation": [
+        {
+          "name": "eShram registration",
+          "url": "https://eshram.gov.in/"
+        },
+        {
+          "name": "Jan Dhan basic bank account",
+          "url": "https://pmjdy.gov.in/"
+        },
+        {
+          "name": "State construction worker welfare board",
+          "url": "https://upbocw.in/"
+        }
+      ],
+      "useful_phrases": [
+        {
+          "local": "मुझे लिखित वेतन पर्ची चाहिए।",
+          "meaning": "I need a written wage slip."
+        },
+        {
+          "local": "मुझे मदद चाहिए।",
+          "meaning": "I need help."
+        }
+      ],
+      "checklist": [
+        "Agree on pay, working hours and payment date in writing.",
+        "Keep copies of identity documents and emergency contacts.",
+        "Keep wage slips and your own record of days worked."
+      ]
+    },
+    {
+      "city": "Chennai",
+      "labour_office": {
+        "name": "Tamil Nadu Labour Department — Chennai regional office",
+        "url": "https://labour.tn.gov.in/",
+        "distance_note": "Confirm current address and office hours on the official portal before visiting."
+      },
+      "government_hospital": "Rajiv Gandhi Government General Hospital",
+      "hospital_note": "Confirm the location, available services and opening hours before visiting.",
+      "worker_helpline": null,
+      "helpline_source": null,
+      "emergency": "112",
+      "emergency_source": "https://112.gov.in/",
+      "housing": [
+        "Shared rooms near your workplace — general option, not a verified listing.",
+        "Ask the local welfare board about registered hostels.",
+        "Visit before paying; request a receipt and avoid advance broker fees."
+      ],
+      "documentation": [
+        {
+          "name": "eShram registration",
+          "url": "https://eshram.gov.in/"
+        },
+        {
+          "name": "Jan Dhan basic bank account",
+          "url": "https://pmjdy.gov.in/"
+        },
+        {
+          "name": "State construction worker welfare board",
+          "url": "https://labour.tn.gov.in/"
+        }
+      ],
+      "useful_phrases": [
+        {
+          "local": "எனது சம்பளம் எப்போது கிடைக்கும்?",
+          "meaning": "When will I receive my pay?"
+        },
+        {
+          "local": "मुझे मदद चाहिए।",
+          "meaning": "I need help."
+        }
+      ],
+      "checklist": [
+        "Agree on pay, working hours and payment date in writing.",
+        "Keep copies of identity documents and emergency contacts.",
+        "Keep wage slips and your own record of days worked."
+      ]
+    },
+    {
+      "city": "Mumbai",
+      "labour_office": {
+        "name": "Maharashtra Labour Department — Mumbai office",
+        "url": "https://mahakamgar.maharashtra.gov.in/",
+        "distance_note": "Confirm current address and office hours on the official portal before visiting."
+      },
+      "government_hospital": "Sir J. J. Group of Hospitals",
+      "hospital_note": "Confirm the location, available services and opening hours before visiting.",
+      "worker_helpline": null,
+      "helpline_source": null,
+      "emergency": "112",
+      "emergency_source": "https://112.gov.in/",
+      "housing": [
+        "Shared rooms near your workplace — general option, not a verified listing.",
+        "Ask the local welfare board about registered hostels.",
+        "Visit before paying; request a receipt and avoid advance broker fees."
+      ],
+      "documentation": [
+        {
+          "name": "eShram registration",
+          "url": "https://eshram.gov.in/"
+        },
+        {
+          "name": "Jan Dhan basic bank account",
+          "url": "https://pmjdy.gov.in/"
+        },
+        {
+          "name": "State construction worker welfare board",
+          "url": "https://mahabocw.in/"
+        }
+      ],
+      "useful_phrases": [
+        {
+          "local": "माझा पगार कधी मिळेल?",
+          "meaning": "When will I receive my pay?"
+        },
+        {
+          "local": "मुझे मदद चाहिए।",
+          "meaning": "I need help."
+        }
+      ],
+      "checklist": [
+        "Agree on pay, working hours and payment date in writing.",
+        "Keep copies of identity documents and emergency contacts.",
+        "Keep wage slips and your own record of days worked."
+      ]
+    }
+  ]
+}

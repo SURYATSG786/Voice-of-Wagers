@@ -1,0 +1,66 @@
+{
+  "stages": [
+    {
+      "stage": 1,
+      "tests": 108,
+      "failures": 0,
+      "evaluation": "[Wage Verification]     40/40 synthetic ground-truth scenarios (provisional dataset)\n[Wage Prediction]       15/15 dataset scenarios; missing categories stay unavailable\n[Opportunity Score]     Deterministic; missing BOCW yields null, experimental formula caveat visible\n[Survival Guide]        5/5 city records complete; no placeholder phone numbers\n[Route Planner]         5/5 destinations match source dataset + composition; route estimates unverified\n[Migration Pulse]       Empty below 10 searches; ranking comes only from logged test requests\n[BOCW Data Integrity]   5/5 figures, metric types and dates unchanged; missing values remain null\nThese checks validate implementation against the supplied data, not legal currency or extraction-model accuracy.\n"
+    },
+    {
+      "stage": 2,
+      "tests": 108,
+      "failures": 0,
+      "evaluation": "[Wage Verification]     40/40 synthetic ground-truth scenarios (provisional dataset)\n[Wage Prediction]       15/15 dataset scenarios; missing categories stay unavailable\n[Opportunity Score]     Deterministic; missing BOCW yields null, experimental formula caveat visible\n[Survival Guide]        5/5 city records complete; no placeholder phone numbers\n[Route Planner]         5/5 destinations match source dataset + composition; route estimates unverified\n[Migration Pulse]       Empty below 10 searches; ranking comes only from logged test requests\n[BOCW Data Integrity]   5/5 figures, metric types and dates unchanged; missing values remain null\nThese checks validate implementation against the supplied data, not legal currency or extraction-model accuracy.\n"
+    },
+    {
+      "stage": 3,
+      "tests": 108,
+      "failures": 0,
+      "evaluation": "[Wage Verification]     40/40 synthetic ground-truth scenarios (provisional dataset)\n[Wage Prediction]       15/15 dataset scenarios; missing categories stay unavailable\n[Opportunity Score]     Deterministic; missing BOCW yields null, experimental formula caveat visible\n[Survival Guide]        5/5 city records complete; no placeholder phone numbers\n[Route Planner]         5/5 destinations match source dataset + composition; route estimates unverified\n[Migration Pulse]       Empty below 10 searches; ranking comes only from logged test requests\n[BOCW Data Integrity]   5/5 figures, metric types and dates unchanged; missing values remain null\nThese checks validate implementation against the supplied data, not legal currency or extraction-model accuracy.\n"
+    },
+    {
+      "stage": 4,
+      "tests": 108,
+      "failures": 0,
+      "evaluation": "[Wage Verification]     40/40 synthetic ground-truth scenarios (provisional dataset)\n[Wage Prediction]       15/15 dataset scenarios; missing categories stay unavailable\n[Opportunity Score]     Deterministic; missing BOCW yields null, experimental formula caveat visible\n[Survival Guide]        5/5 city records complete; no placeholder phone numbers\n[Route Planner]         5/5 destinations match source dataset + composition; route estimates unverified\n[Migration Pulse]       Empty below 10 searches; ranking comes only from logged test requests\n[BOCW Data Integrity]   5/5 figures, metric types and dates unchanged; missing values remain null\nThese checks validate implementation against the supplied data, not legal currency or extraction-model accuracy.\n"
+    },
+    {
+      "stage": 5,
+      "tests": 108,
+      "failures": 0,
+      "evaluation": "[Wage Verification]     40/40 synthetic ground-truth scenarios (provisional dataset)\n[Wage Prediction]       15/15 dataset scenarios; missing categories stay unavailable\n[Opportunity Score]     Deterministic; missing BOCW yields null, experimental formula caveat visible\n[Survival Guide]        5/5 city records complete; no placeholder phone numbers\n[Route Planner]         5/5 destinations match source dataset + composition; route estimates unverified\n[Migration Pulse]       Empty below 10 searches; ranking comes only from logged test requests\n[BOCW Data Integrity]   5/5 figures, metric types and dates unchanged; missing values remain null\nThese checks validate implementation against the supplied data, not legal currency or extraction-model accuracy.\n"
+    },
+    {
+      "stage": 6,
+      "tests": 108,
+      "failures": 0,
+      "evaluation": "[Wage Verification]     40/40 synthetic ground-truth scenarios (provisional dataset)\n[Wage Prediction]       15/15 dataset scenarios; missing categories stay unavailable\n[Opportunity Score]     Deterministic; missing BOCW yields null, experimental formula caveat visible\n[Survival Guide]        5/5 city records complete; no placeholder phone numbers\n[Route Planner]         5/5 destinations match source dataset + composition; route estimates unverified\n[Migration Pulse]       Empty below 10 searches; ranking comes only from logged test requests\n[BOCW Data Integrity]   5/5 figures, metric types and dates unchanged; missing values remain null\nThese checks validate implementation against the supplied data, not legal currency or extraction-model accuracy.\n",
+      "additional_verification": "Repeated after correcting Tamil heading wrapping on narrow phones."
+    }
+  ],
+  "unchanged_protected_files": [
+    "lib/wageVerdict.js",
+    "lib/speech.js",
+    "lib/parser.js",
+    "lib/i18n.js",
+    "lib/opportunityScore.js",
+    "data/distances.json",
+    "data/translations.json",
+    "data/survival_guide.json",
+    "data/bocw_registration.json",
+    "data/cost_of_living.json",
+    "data/pulse_counts.json",
+    "data/wage_table.json",
+    "server/speech-requirements.txt",
+    "server/index.js",
+    "server/neural_speech.py",
+    "server/dev.js",
+    "server/speech_models.py",
+    "server/app.js",
+    "package.json",
+    "package-lock.json",
+    "client/src/api.js",
+    "client/src/speechPlayback.js"
+  ],
+  "microcopy_audit": "Existing active action labels retained; no translations or data-honesty labels changed."
+}

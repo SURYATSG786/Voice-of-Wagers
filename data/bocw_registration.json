@@ -1,0 +1,65 @@
+{
+  "last_verified": null,
+  "states": [
+    {
+      "state": "Delhi NCT",
+      "cities_covered": [
+        "Delhi"
+      ],
+      "figure": 552843,
+      "metric_type": "registered_construction_workers",
+      "as_of_date": "2022-11-10",
+      "source_url": "https://bocw.delhi.gov.in/",
+      "verification_note": "Confirmed, dated figure from the Board's own public notice. Check the portal for a more recent published list before demo.",
+      "verification_status": "historical_spec_record_not_independently_authenticated"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "cities_covered": [
+        "Noida"
+      ],
+      "figure": 9701000,
+      "metric_type": "aadhaar_verified_registered_labourers_cumulative",
+      "as_of_date": "2022-23 (portal dashboard, year as published)",
+      "source_url": "https://upbocw.in/",
+      "verification_note": "This is a cumulative/dashboard figure, not a single-date snapshot like Delhi's — different metric shape, flag this in the UI rather than placing it in a column that implies equivalence.",
+      "verification_status": "historical_spec_record_not_independently_authenticated"
+    },
+    {
+      "state": "Maharashtra",
+      "cities_covered": [
+        "Mumbai"
+      ],
+      "figure": 102000,
+      "metric_type": "registered_establishments",
+      "as_of_date": "2015-16 (Economic Survey of Maharashtra)",
+      "source_url": "https://mahabocw.in/",
+      "verification_note": "This is an ESTABLISHMENT count, not a worker count like Delhi/UP — do not compare this figure directly against the other two without converting to the same metric_type or clearly labelling the mismatch. Also the oldest figure in this set — try to find a more recent mahabocw.in figure before demo.",
+      "verification_status": "historical_spec_record_not_independently_authenticated"
+    },
+    {
+      "state": "Haryana",
+      "cities_covered": [
+        "Gurgaon"
+      ],
+      "figure": null,
+      "metric_type": null,
+      "as_of_date": null,
+      "source_url": "https://hrylabour.gov.in/",
+      "verification_note": "NOT FOUND in research for this spec. The Board exists and runs 23 welfare schemes, but no public aggregate registration figure was located. Check the portal directly — if nothing is found before demo, show Haryana as 'registration data not publicly available' rather than inventing a number or silently omitting the state.",
+      "verification_status": "not_publicly_available_in_supplied_dataset"
+    },
+    {
+      "state": "Tamil Nadu",
+      "cities_covered": [
+        "Chennai"
+      ],
+      "figure": null,
+      "metric_type": null,
+      "as_of_date": null,
+      "source_url": "https://labour.tn.gov.in/",
+      "verification_note": "NOT FOUND in research for this spec. Search the Tamil Nadu Construction Workers Welfare Board directly — if nothing is found before demo, show Tamil Nadu as 'registration data not publicly available' rather than inventing a number or silently omitting the state.",
+      "verification_status": "not_publicly_available_in_supplied_dataset"
+    }
+  ]
+}

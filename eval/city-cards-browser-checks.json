@@ -1,0 +1,2444 @@
+[
+  {
+    "language": "en",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 665,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 707,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 749,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      312,
+      312
+    ],
+    "document": [
+      1280,
+      900
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      1280,
+      900
+    ],
+    "workspace": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "en",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 665,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 707,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 749,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      312,
+      312
+    ],
+    "document": [
+      1280,
+      900
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      1280,
+      900
+    ],
+    "workspace": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "hi",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 665,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 707,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 749,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      312,
+      312
+    ],
+    "document": [
+      1280,
+      900
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      1280,
+      900
+    ],
+    "workspace": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "hi",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 665,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 707,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 749,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      312,
+      312
+    ],
+    "document": [
+      1280,
+      900
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      1280,
+      900
+    ],
+    "workspace": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "bn",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 665,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 707,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 749,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      312,
+      312
+    ],
+    "document": [
+      1280,
+      900
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      1280,
+      900
+    ],
+    "workspace": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "bn",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 665,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 707,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 749,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      312,
+      312
+    ],
+    "document": [
+      1280,
+      900
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      1280,
+      900
+    ],
+    "workspace": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "mr",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 665,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 707,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 749,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      312,
+      312
+    ],
+    "document": [
+      1280,
+      900
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      1280,
+      900
+    ],
+    "workspace": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "mr",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 665,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 707,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 749,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      312,
+      312
+    ],
+    "document": [
+      1280,
+      900
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      1280,
+      900
+    ],
+    "workspace": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "te",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 665,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 707,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 749,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      312,
+      312
+    ],
+    "document": [
+      1280,
+      900
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      1280,
+      900
+    ],
+    "workspace": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "te",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 665,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 707,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 749,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      312,
+      312
+    ],
+    "document": [
+      1280,
+      900
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      1280,
+      900
+    ],
+    "workspace": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "ta",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 681,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 723,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 765,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      296,
+      296
+    ],
+    "document": [
+      1280,
+      900
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      1280,
+      900
+    ],
+    "workspace": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "ta",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 681,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 723,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 765,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      296,
+      296
+    ],
+    "document": [
+      1280,
+      900
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      1280,
+      900
+    ],
+    "workspace": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "gu",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 681,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 723,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 765,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      296,
+      296
+    ],
+    "document": [
+      1280,
+      900
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      1280,
+      900
+    ],
+    "workspace": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "gu",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 681,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 723,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 765,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      296,
+      296
+    ],
+    "document": [
+      1280,
+      900
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      1280,
+      900
+    ],
+    "workspace": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "ur",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 670,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 712,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 754,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      307,
+      307
+    ],
+    "document": [
+      1280,
+      900
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      1280,
+      900
+    ],
+    "workspace": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "ur",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 670,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 712,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 754,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      307,
+      307
+    ],
+    "document": [
+      1280,
+      900
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      1280,
+      900
+    ],
+    "workspace": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "kn",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 681,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 723,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 765,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      296,
+      296
+    ],
+    "document": [
+      1280,
+      900
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      1280,
+      900
+    ],
+    "workspace": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "kn",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 681,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 723,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 765,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      296,
+      296
+    ],
+    "document": [
+      1280,
+      900
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      1280,
+      900
+    ],
+    "workspace": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "or",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 665,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 707,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 749,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      312,
+      312
+    ],
+    "document": [
+      1280,
+      900
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      1280,
+      900
+    ],
+    "workspace": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "or",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 665,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 707,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 749,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      312,
+      312
+    ],
+    "document": [
+      1280,
+      900
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      1280,
+      900
+    ],
+    "workspace": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "ml",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 698,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 740,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 782,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      279,
+      279
+    ],
+    "document": [
+      1280,
+      900
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      1280,
+      900
+    ],
+    "workspace": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "ml",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 698,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 740,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 782,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      279,
+      279
+    ],
+    "document": [
+      1280,
+      900
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      1280,
+      900
+    ],
+    "workspace": [
+      740,
+      740
+    ]
+  },
+  {
+    "language": "en",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 1536,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 1578,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 1620,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      399,
+      399
+    ],
+    "document": [
+      390,
+      1863
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      390,
+      844
+    ],
+    "workspace": [
+      1613,
+      1613
+    ]
+  },
+  {
+    "language": "en",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 1183,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 1225,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 1267,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      399,
+      399
+    ],
+    "document": [
+      390,
+      1863
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      390,
+      844
+    ],
+    "workspace": [
+      1613,
+      1613
+    ]
+  },
+  {
+    "language": "hi",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 1536,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 1578,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 1620,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      399,
+      399
+    ],
+    "document": [
+      390,
+      1863
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      390,
+      844
+    ],
+    "workspace": [
+      1613,
+      1613
+    ]
+  },
+  {
+    "language": "hi",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 1183,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 1225,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 1267,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      399,
+      399
+    ],
+    "document": [
+      390,
+      1863
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      390,
+      844
+    ],
+    "workspace": [
+      1613,
+      1613
+    ]
+  },
+  {
+    "language": "bn",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 1536,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 1578,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 1620,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      399,
+      399
+    ],
+    "document": [
+      390,
+      1863
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      390,
+      844
+    ],
+    "workspace": [
+      1613,
+      1613
+    ]
+  },
+  {
+    "language": "bn",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 1183,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 1225,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 1267,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      399,
+      399
+    ],
+    "document": [
+      390,
+      1863
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      390,
+      844
+    ],
+    "workspace": [
+      1613,
+      1613
+    ]
+  },
+  {
+    "language": "mr",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 1536,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 1578,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 1620,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      399,
+      399
+    ],
+    "document": [
+      390,
+      1863
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      390,
+      844
+    ],
+    "workspace": [
+      1613,
+      1613
+    ]
+  },
+  {
+    "language": "mr",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 1183,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 1225,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 1267,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      399,
+      399
+    ],
+    "document": [
+      390,
+      1863
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      390,
+      844
+    ],
+    "workspace": [
+      1613,
+      1613
+    ]
+  },
+  {
+    "language": "te",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 1536,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 1578,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 1620,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      399,
+      399
+    ],
+    "document": [
+      390,
+      1877
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      390,
+      844
+    ],
+    "workspace": [
+      1628,
+      1628
+    ]
+  },
+  {
+    "language": "te",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 1184,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 1226,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 1268,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      399,
+      399
+    ],
+    "document": [
+      390,
+      1877
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      390,
+      844
+    ],
+    "workspace": [
+      1628,
+      1628
+    ]
+  },
+  {
+    "language": "ta",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 1636,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 1678,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 1720,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      414,
+      414
+    ],
+    "document": [
+      390,
+      2011
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      390,
+      844
+    ],
+    "workspace": [
+      1762,
+      1762
+    ]
+  },
+  {
+    "language": "ta",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 1250,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 1292,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 1334,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      414,
+      414
+    ],
+    "document": [
+      390,
+      2011
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      390,
+      844
+    ],
+    "workspace": [
+      1762,
+      1762
+    ]
+  },
+  {
+    "language": "gu",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 1536,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 1578,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 1620,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      399,
+      399
+    ],
+    "document": [
+      390,
+      1863
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      390,
+      844
+    ],
+    "workspace": [
+      1613,
+      1613
+    ]
+  },
+  {
+    "language": "gu",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 1183,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 1225,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 1267,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      399,
+      399
+    ],
+    "document": [
+      390,
+      1863
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      390,
+      844
+    ],
+    "workspace": [
+      1613,
+      1613
+    ]
+  },
+  {
+    "language": "ur",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 1545,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 1587,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 1629,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      399,
+      399
+    ],
+    "document": [
+      390,
+      1875
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      390,
+      844
+    ],
+    "workspace": [
+      1626,
+      1626
+    ]
+  },
+  {
+    "language": "ur",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 1188,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 1230,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 1272,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      399,
+      399
+    ],
+    "document": [
+      390,
+      1875
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      390,
+      844
+    ],
+    "workspace": [
+      1626,
+      1626
+    ]
+  },
+  {
+    "language": "kn",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 1552,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 1594,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 1636,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      414,
+      414
+    ],
+    "document": [
+      390,
+      1892
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      390,
+      844
+    ],
+    "workspace": [
+      1643,
+      1643
+    ]
+  },
+  {
+    "language": "kn",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 1199,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 1241,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 1283,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      414,
+      414
+    ],
+    "document": [
+      390,
+      1892
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      390,
+      844
+    ],
+    "workspace": [
+      1643,
+      1643
+    ]
+  },
+  {
+    "language": "or",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 1536,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 1578,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 1620,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      399,
+      399
+    ],
+    "document": [
+      390,
+      1863
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      390,
+      844
+    ],
+    "workspace": [
+      1613,
+      1613
+    ]
+  },
+  {
+    "language": "or",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 1183,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 1225,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 1267,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      399,
+      399
+    ],
+    "document": [
+      390,
+      1863
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      390,
+      844
+    ],
+    "workspace": [
+      1613,
+      1613
+    ]
+  },
+  {
+    "language": "ml",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 1585,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 1627,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 1669,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      414,
+      414
+    ],
+    "document": [
+      390,
+      1943
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      390,
+      844
+    ],
+    "workspace": [
+      1694,
+      1694
+    ]
+  },
+  {
+    "language": "ml",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 1216,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 1258,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 1300,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      414,
+      414
+    ],
+    "document": [
+      390,
+      1943
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      390,
+      844
+    ],
+    "workspace": [
+      1694,
+      1694
+    ]
+  },
+  {
+    "language": "en",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 638,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 680,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 722,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      193,
+      193
+    ],
+    "document": [
+      1366,
+      768
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      1366,
+      768
+    ],
+    "workspace": [
+      608,
+      614
+    ]
+  },
+  {
+    "language": "en",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 638,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 680,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 722,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      193,
+      193
+    ],
+    "document": [
+      1366,
+      768
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      1366,
+      768
+    ],
+    "workspace": [
+      608,
+      614
+    ]
+  },
+  {
+    "language": "hi",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 638,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 680,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 722,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      193,
+      193
+    ],
+    "document": [
+      1366,
+      768
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      1366,
+      768
+    ],
+    "workspace": [
+      608,
+      614
+    ]
+  },
+  {
+    "language": "hi",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 638,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 680,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 722,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      193,
+      193
+    ],
+    "document": [
+      1366,
+      768
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      1366,
+      768
+    ],
+    "workspace": [
+      608,
+      614
+    ]
+  },
+  {
+    "language": "bn",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 638,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 680,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 722,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      193,
+      193
+    ],
+    "document": [
+      1366,
+      768
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      1366,
+      768
+    ],
+    "workspace": [
+      608,
+      614
+    ]
+  },
+  {
+    "language": "bn",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 638,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 680,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 722,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      193,
+      193
+    ],
+    "document": [
+      1366,
+      768
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      1366,
+      768
+    ],
+    "workspace": [
+      608,
+      614
+    ]
+  },
+  {
+    "language": "mr",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 638,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 680,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 722,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      193,
+      193
+    ],
+    "document": [
+      1366,
+      768
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      1366,
+      768
+    ],
+    "workspace": [
+      608,
+      614
+    ]
+  },
+  {
+    "language": "mr",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 638,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 680,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 722,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      193,
+      193
+    ],
+    "document": [
+      1366,
+      768
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      1366,
+      768
+    ],
+    "workspace": [
+      608,
+      614
+    ]
+  },
+  {
+    "language": "te",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 638,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 680,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 722,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      193,
+      193
+    ],
+    "document": [
+      1366,
+      768
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      1366,
+      768
+    ],
+    "workspace": [
+      608,
+      614
+    ]
+  },
+  {
+    "language": "te",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 638,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 680,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 722,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      193,
+      193
+    ],
+    "document": [
+      1366,
+      768
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      1366,
+      768
+    ],
+    "workspace": [
+      608,
+      614
+    ]
+  },
+  {
+    "language": "ta",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 638,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 680,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 722,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      193,
+      193
+    ],
+    "document": [
+      1366,
+      768
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      1366,
+      768
+    ],
+    "workspace": [
+      608,
+      631
+    ]
+  },
+  {
+    "language": "ta",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 638,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 680,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 722,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      193,
+      193
+    ],
+    "document": [
+      1366,
+      768
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      1366,
+      768
+    ],
+    "workspace": [
+      608,
+      631
+    ]
+  },
+  {
+    "language": "gu",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 638,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 680,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 722,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      193,
+      193
+    ],
+    "document": [
+      1366,
+      768
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      1366,
+      768
+    ],
+    "workspace": [
+      608,
+      631
+    ]
+  },
+  {
+    "language": "gu",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 638,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 680,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 722,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      193,
+      193
+    ],
+    "document": [
+      1366,
+      768
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      1366,
+      768
+    ],
+    "workspace": [
+      608,
+      631
+    ]
+  },
+  {
+    "language": "ur",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 638,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 680,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 722,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      193,
+      193
+    ],
+    "document": [
+      1366,
+      768
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      1366,
+      768
+    ],
+    "workspace": [
+      608,
+      619
+    ]
+  },
+  {
+    "language": "ur",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 638,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 680,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 722,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      193,
+      193
+    ],
+    "document": [
+      1366,
+      768
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      1366,
+      768
+    ],
+    "workspace": [
+      608,
+      619
+    ]
+  },
+  {
+    "language": "kn",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 638,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 680,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 722,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      193,
+      193
+    ],
+    "document": [
+      1366,
+      768
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      1366,
+      768
+    ],
+    "workspace": [
+      608,
+      631
+    ]
+  },
+  {
+    "language": "kn",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 638,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 680,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 722,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      193,
+      193
+    ],
+    "document": [
+      1366,
+      768
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      1366,
+      768
+    ],
+    "workspace": [
+      608,
+      631
+    ]
+  },
+  {
+    "language": "or",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 638,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 680,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 722,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      193,
+      193
+    ],
+    "document": [
+      1366,
+      768
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      1366,
+      768
+    ],
+    "workspace": [
+      608,
+      614
+    ]
+  },
+  {
+    "language": "or",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 638,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 680,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 722,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      193,
+      193
+    ],
+    "document": [
+      1366,
+      768
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      1366,
+      768
+    ],
+    "workspace": [
+      608,
+      614
+    ]
+  },
+  {
+    "language": "ml",
+    "city": "Chennai",
+    "actions": [
+      {
+        "bottom": 638,
+        "href": "/predict?city=Chennai"
+      },
+      {
+        "bottom": 680,
+        "href": "/route?city=Chennai"
+      },
+      {
+        "bottom": 722,
+        "href": "/guide?city=Chennai"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      193,
+      193
+    ],
+    "document": [
+      1366,
+      768
+    ],
+    "record": "26,56,663",
+    "tables": 0,
+    "viewport": [
+      1366,
+      768
+    ],
+    "workspace": [
+      608,
+      631
+    ]
+  },
+  {
+    "language": "ml",
+    "city": "Gurgaon",
+    "actions": [
+      {
+        "bottom": 638,
+        "href": "/predict?city=Gurgaon"
+      },
+      {
+        "bottom": 680,
+        "href": "/route?city=Gurgaon"
+      },
+      {
+        "bottom": 722,
+        "href": "/guide?city=Gurgaon"
+      }
+    ],
+    "cards": 5,
+    "detail": [
+      193,
+      193
+    ],
+    "document": [
+      1366,
+      768
+    ],
+    "record": "43,903",
+    "tables": 0,
+    "viewport": [
+      1366,
+      768
+    ],
+    "workspace": [
+      608,
+      631
+    ]
+  }
+]

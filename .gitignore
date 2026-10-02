@@ -1,0 +1,14 @@
+node_modules/
+client/dist/
+.env
+.env.*
+!.env.example
+.runtime/
+*.log
+.speech-env/
+.speech-models/
+.speech-cache/
+__pycache__/
+*.pyc
+.DS_Store
+*.zip

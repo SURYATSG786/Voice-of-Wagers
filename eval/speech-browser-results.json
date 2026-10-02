@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-02",
+  "speech": [
+    {
+      "language": "ml",
+      "context": "welcome",
+      "first": {
+        "duration": 22.899229,
+        "locale": "ml-IN",
+        "paused": false,
+        "time": 0.144898
+      },
+      "next": {
+        "paused": false,
+        "time": 0.198302
+      },
+      "stopped": {
+        "hidden": true,
+        "paused": true,
+        "src": null
+      }
+    },
+    {
+      "language": "or",
+      "context": "welcome",
+      "first": {
+        "duration": 23.491066,
+        "locale": "or-IN",
+        "paused": false,
+        "time": 0.057729
+      },
+      "next": {
+        "paused": false,
+        "time": 0.166727
+      },
+      "stopped": {
+        "hidden": true,
+        "paused": true,
+        "src": null
+      }
+    },
+    {
+      "language": "ml",
+      "context": "predict",
+      "first": {
+        "duration": 43.495374,
+        "locale": "ml-IN",
+        "paused": false,
+        "time": 0.107007
+      },
+      "next": {
+        "paused": false,
+        "time": 0.174047
+      },
+      "stopPassed": true
+    },
+    {
+      "language": "ml",
+      "context": "check",
+      "first": {
+        "duration": 47.732925,
+        "locale": "ml-IN",
+        "paused": false,
+        "time": 0.107269
+      },
+      "next": {
+        "paused": false,
+        "time": 0.148404
+      },
+      "stopPassed": true
+    },
+    {
+      "language": "ml",
+      "context": "guide",
+      "first": {
+        "duration": 50.601088,
+        "locale": "ml-IN",
+        "paused": false,
+        "time": 0.038905
+      },
+      "next": {
+        "paused": false,
+        "time": 0.057017
+      },
+      "stopPassed": true
+    },
+    {
+      "language": "or",
+      "context": "predict",
+      "first": {
+        "duration": 39.735601,
+        "locale": "or-IN",
+        "paused": false,
+        "time": 0.118461
+      },
+      "next": {
+        "paused": false,
+        "time": 0.167355
+      },
+      "stopPassed": true
+    },
+    {
+      "language": "or",
+      "context": "check",
+      "first": {
+        "duration": 42.80254,
+        "locale": "or-IN",
+        "paused": false,
+        "time": 0.030421
+      },
+      "next": {
+        "paused": false,
+        "time": 0.041219
+      },
+      "stopPassed": true
+    },
+    {
+      "language": "or",
+      "context": "guide",
+      "first": {
+        "duration": 56.403946,
+        "locale": "or-IN",
+        "paused": false,
+        "time": 0.092344
+      },
+      "next": {
+        "paused": false,
+        "time": 0.181452
+      },
+      "stopPassed": true
+    }
+  ],
+  "mobile": [
+    {
+      "language": "ml",
+      "passed": true
+    },
+    {
+      "language": "or",
+      "passed": true
+    }
+  ],
+  "languageSwitchStopsPrevious": true,
+  "tamilNativeRegression": true,
+  "consoleErrors": []
+}

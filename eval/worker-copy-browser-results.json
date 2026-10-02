@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-02",
+  "languages": [
+    "en",
+    "hi",
+    "bn",
+    "mr",
+    "te",
+    "ta",
+    "gu",
+    "ur",
+    "kn",
+    "or",
+    "ml"
+  ],
+  "desktop": {
+    "viewport": "1280x900",
+    "page_language_combinations": 77,
+    "routes": [
+      "/",
+      "/predict",
+      "/opportunities",
+      "/route",
+      "/guide",
+      "/check",
+      "/escalate"
+    ],
+    "broken_pages": 0,
+    "document_overflow": 0,
+    "old_app_name_visible": false,
+    "technical_english_in_main_pages": false
+  },
+  "phone": {
+    "Malayalam_Fair_Pay": "390x844 screenshot and DOM inspected; no document overflow",
+    "batch_check": "Browser tool timed out before the batch completed. Full mobile certification is not claimed."
+  },
+  "linguistic_review": "Copy manually rewritten for simple local wording; no independent native-speaker certification."
+}

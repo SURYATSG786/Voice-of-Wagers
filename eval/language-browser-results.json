@@ -1,0 +1,372 @@
+{
+  "date": "2026-10-02",
+  "desktop": {
+    "width": 1280,
+    "height": 900
+  },
+  "mobile": [
+    {
+      "code": "hi",
+      "homeOverflow": false,
+      "wageOverflow": false,
+      "preferencePersists": true,
+      "consentedLocalCase": true
+    },
+    {
+      "code": "bn",
+      "homeOverflow": false,
+      "wageOverflow": false,
+      "preferencePersists": true,
+      "consentedLocalCase": true
+    },
+    {
+      "code": "mr",
+      "homeOverflow": false,
+      "wageOverflow": false,
+      "preferencePersists": true,
+      "consentedLocalCase": true
+    },
+    {
+      "code": "te",
+      "homeOverflow": false,
+      "wageOverflow": false,
+      "preferencePersists": true,
+      "consentedLocalCase": true
+    },
+    {
+      "code": "ta",
+      "homeOverflow": false,
+      "wageOverflow": false,
+      "preferencePersists": true,
+      "consentedLocalCase": true
+    },
+    {
+      "code": "gu",
+      "homeOverflow": false,
+      "wageOverflow": false,
+      "preferencePersists": true,
+      "consentedLocalCase": true
+    },
+    {
+      "code": "ur",
+      "homeOverflow": false,
+      "wageOverflow": false,
+      "preferencePersists": true,
+      "consentedLocalCase": true
+    },
+    {
+      "code": "kn",
+      "homeOverflow": false,
+      "wageOverflow": false,
+      "preferencePersists": true,
+      "consentedLocalCase": true
+    },
+    {
+      "code": "or",
+      "homeOverflow": false,
+      "wageOverflow": false,
+      "preferencePersists": true,
+      "consentedLocalCase": true
+    },
+    {
+      "code": "ml",
+      "homeOverflow": false,
+      "wageOverflow": false,
+      "preferencePersists": true,
+      "consentedLocalCase": true
+    }
+  ],
+  "wage": [
+    {
+      "language": "Hindi",
+      "code": "hi",
+      "wageFlow": true,
+      "dir": "ltr",
+      "desktopOverflow": false
+    },
+    {
+      "language": "Bengali",
+      "code": "bn",
+      "wageFlow": true,
+      "dir": "ltr",
+      "desktopOverflow": false
+    },
+    {
+      "language": "Marathi",
+      "code": "mr",
+      "wageFlow": true,
+      "dir": "ltr",
+      "desktopOverflow": false
+    },
+    {
+      "language": "Telugu",
+      "code": "te",
+      "wageFlow": true,
+      "dir": "ltr",
+      "desktopOverflow": false
+    },
+    {
+      "language": "Tamil",
+      "code": "ta",
+      "wageFlow": true,
+      "dir": "ltr",
+      "desktopOverflow": false
+    },
+    {
+      "language": "Gujarati",
+      "code": "gu",
+      "wageFlow": true,
+      "dir": "ltr",
+      "desktopOverflow": false
+    },
+    {
+      "language": "Urdu",
+      "code": "ur",
+      "wageFlow": true,
+      "dir": "rtl",
+      "desktopOverflow": false
+    },
+    {
+      "language": "Kannada",
+      "code": "kn",
+      "wageFlow": true,
+      "dir": "ltr",
+      "desktopOverflow": false
+    },
+    {
+      "language": "Odia",
+      "code": "or",
+      "wageFlow": true,
+      "dir": "ltr",
+      "desktopOverflow": false
+    },
+    {
+      "language": "Malayalam",
+      "code": "ml",
+      "wageFlow": true,
+      "dir": "ltr",
+      "desktopOverflow": false
+    }
+  ],
+  "routes": [
+    {
+      "code": "hi",
+      "prediction": true,
+      "route": true,
+      "guide": true,
+      "compare": true
+    },
+    {
+      "code": "bn",
+      "prediction": true,
+      "route": true,
+      "guide": true,
+      "compare": true
+    },
+    {
+      "code": "mr",
+      "prediction": true,
+      "route": true,
+      "guide": true,
+      "compare": true
+    },
+    {
+      "code": "te",
+      "prediction": true,
+      "route": true,
+      "guide": true,
+      "compare": true
+    },
+    {
+      "code": "ta",
+      "prediction": true,
+      "route": true,
+      "guide": true,
+      "compare": true
+    },
+    {
+      "code": "gu",
+      "prediction": true,
+      "route": true,
+      "guide": true,
+      "compare": true
+    },
+    {
+      "code": "ur",
+      "prediction": true,
+      "route": true,
+      "guide": true,
+      "compare": true
+    },
+    {
+      "code": "kn",
+      "prediction": true,
+      "route": true,
+      "guide": true,
+      "compare": true
+    },
+    {
+      "code": "or",
+      "prediction": true,
+      "route": true,
+      "guide": true,
+      "compare": true
+    },
+    {
+      "code": "ml",
+      "prediction": true,
+      "route": true,
+      "guide": true,
+      "compare": true
+    }
+  ],
+  "mobileRoutes": [
+    {
+      "code": "hi",
+      "checks": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "code": "bn",
+      "checks": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "code": "mr",
+      "checks": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "code": "te",
+      "checks": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "code": "ta",
+      "checks": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "code": "gu",
+      "checks": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "code": "ur",
+      "checks": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "code": "kn",
+      "checks": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "code": "or",
+      "checks": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "code": "ml",
+      "checks": [
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  ],
+  "nativeDigits": [
+    {
+      "code": "hi",
+      "digits": "४००",
+      "passed": true
+    },
+    {
+      "code": "bn",
+      "digits": "৪০০",
+      "passed": true
+    },
+    {
+      "code": "mr",
+      "digits": "४००",
+      "passed": true
+    },
+    {
+      "code": "te",
+      "digits": "౪౦౦",
+      "passed": true
+    },
+    {
+      "code": "ta",
+      "digits": "௪௦௦",
+      "passed": true
+    },
+    {
+      "code": "gu",
+      "digits": "૪૦૦",
+      "passed": true
+    },
+    {
+      "code": "ur",
+      "digits": "۴۰۰",
+      "passed": true
+    },
+    {
+      "code": "kn",
+      "digits": "೪೦೦",
+      "passed": true
+    },
+    {
+      "code": "or",
+      "digits": "୪୦୦",
+      "passed": true
+    },
+    {
+      "code": "ml",
+      "digits": "൪൦൦",
+      "passed": true
+    }
+  ],
+  "consoleErrors": [],
+  "mobileViewport": {
+    "width": 390,
+    "height": 844
+  }
+}

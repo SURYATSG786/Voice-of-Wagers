@@ -1,0 +1,37 @@
+{
+  "origin": "Patna",
+  "source_note": "Values preserved from supplied plan. Distance type has not been independently verified; these are planning estimates, not navigable road distances. Noida and Gurgaon are offset estimates. Check a maps provider for actual route and travel time.",
+  "routes": [
+    {
+      "destination": "Delhi",
+      "road_km": 851,
+      "confidence": "sourced",
+      "verification_status": "unverified_planning_distance"
+    },
+    {
+      "destination": "Noida",
+      "road_km": 830,
+      "confidence": "estimated_from_delhi",
+      "verification_status": "unverified_planning_distance"
+    },
+    {
+      "destination": "Gurgaon",
+      "road_km": 880,
+      "confidence": "estimated_from_delhi",
+      "verification_status": "unverified_planning_distance"
+    },
+    {
+      "destination": "Chennai",
+      "road_km": 1481,
+      "confidence": "sourced",
+      "verification_status": "unverified_planning_distance"
+    },
+    {
+      "destination": "Mumbai",
+      "road_km": 1452,
+      "confidence": "sourced",
+      "verification_status": "unverified_planning_distance"
+    }
+  ],
+  "source_url": "https://www.distancefromto.net/distance-from-patna-in-to-delhi-in"
+}

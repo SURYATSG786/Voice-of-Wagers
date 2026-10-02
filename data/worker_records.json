@@ -1,0 +1,33 @@
+{
+  "checked_on": "2026-10-02",
+  "records": [
+    {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "figure": 2656663,
+      "metric_type": "cumulative_board_registrations",
+      "label": "Total registrations since the board began",
+      "period": "2025–26",
+      "scope": "state",
+      "source_url": "https://labour.tn.gov.in/pdf/policy_note_lwsd_e_pn_2025_26.pdf#page=49",
+      "source_title": "Tamil Nadu Labour Welfare and Skill Development Policy Note 2025–2026",
+      "printed_page": 46,
+      "pdf_page": 49,
+      "verification_note": "Table 3 reports cumulative construction-board registrations since inception. This is a Tamil Nadu total, not a Chennai count or an active-member count."
+    },
+    {
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "figure": 43903,
+      "metric_type": "new_online_board_registrations_in_period",
+      "label": "New registrations during this period",
+      "period": "2025–26 · 31/12/2025",
+      "scope": "state",
+      "source_url": "https://cdnbbsr.s3waas.gov.in/s32b0f658cbffd284984fb11d90254081f/uploads/2026/04/2026041756492302.pdf#page=184",
+      "source_title": "Economic Survey of Haryana 2025–26",
+      "printed_page": 177,
+      "pdf_page": 184,
+      "verification_note": "Section 8.60 reports online registrations during FY 2025–26 up to 31 December 2025. This is a Haryana flow count, not a Gurgaon count or cumulative membership. The separate 2,213 migrated offline records are not added."
+    }
+  ]
+}

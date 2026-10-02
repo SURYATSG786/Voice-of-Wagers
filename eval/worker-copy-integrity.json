@@ -1,0 +1,38 @@
+{
+  "data/distances.json": {
+    "before": "47a84e6784e577268a323976dcf50c2bb9db693959cdf3720bec165fd2ea1106",
+    "after": "47a84e6784e577268a323976dcf50c2bb9db693959cdf3720bec165fd2ea1106"
+  },
+  "data/survival_guide.json": {
+    "before": "1f56a90a07ea2eaf5b47d7028c74e50cba2633bef8ece8ecdad82f9ea1f73dac",
+    "after": "1f56a90a07ea2eaf5b47d7028c74e50cba2633bef8ece8ecdad82f9ea1f73dac"
+  },
+  "data/bocw_registration.json": {
+    "before": "e23a864b31966463287c3cd0eaa6e3fc6fe15d73a4d1270d892d00e9b397bea1",
+    "after": "e23a864b31966463287c3cd0eaa6e3fc6fe15d73a4d1270d892d00e9b397bea1"
+  },
+  "data/cost_of_living.json": {
+    "before": "e885a97a80ddb1425a168cdbe254148f508550993c9219941341099463155cfe",
+    "after": "e885a97a80ddb1425a168cdbe254148f508550993c9219941341099463155cfe"
+  },
+  "data/pulse_counts.json": {
+    "before": "c400ee5b9a4716d9f40a8a3610a5f194d41a31d5dbd05e45100aaee34b3edcf6",
+    "after": "c400ee5b9a4716d9f40a8a3610a5f194d41a31d5dbd05e45100aaee34b3edcf6"
+  },
+  "data/wage_table.json": {
+    "before": "d1b551319b755e23515c0b4269c2878e7cc924243b74962b3e01d4000952c019",
+    "after": "d1b551319b755e23515c0b4269c2878e7cc924243b74962b3e01d4000952c019"
+  },
+  "lib/wageVerdict.js": {
+    "before": "ce9e461c89dc132d7f853557b3ce05d0ed5178b3bc8daf12d493d14247788390",
+    "after": "ce9e461c89dc132d7f853557b3ce05d0ed5178b3bc8daf12d493d14247788390"
+  },
+  "lib/opportunityScore.js": {
+    "before": "f48fc3f090820e1eddbf4e17ad823be9330b2e37cb84b8c971f87630401f63c4",
+    "after": "f48fc3f090820e1eddbf4e17ad823be9330b2e37cb84b8c971f87630401f63c4"
+  },
+  "server/app.js": {
+    "before": "a2fa6560bcfb31eebf9ed3fcd7001bd8510a43e7966f927f0cf721f764216fa9",
+    "after": "a2fa6560bcfb31eebf9ed3fcd7001bd8510a43e7966f927f0cf721f764216fa9"
+  }
+}

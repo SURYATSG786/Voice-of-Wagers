@@ -1,0 +1,4204 @@
+[
+  {
+    "language": "en",
+    "page": "/",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "en",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 760,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "en",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "en",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 615,
+        "height": 340,
+        "scroll": 340
+      },
+      {
+        "bottom": 615,
+        "height": 340,
+        "scroll": 340
+      },
+      {
+        "bottom": 615,
+        "height": 340,
+        "scroll": 340
+      },
+      {
+        "bottom": 615,
+        "height": 340,
+        "scroll": 340
+      },
+      {
+        "bottom": 707,
+        "height": 78,
+        "scroll": 78
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "en",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 732
+      },
+      {
+        "bottom": 760,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "en",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "en",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 700,
+        "height": 412,
+        "scroll": 430
+      },
+      {
+        "bottom": 700,
+        "height": 462,
+        "scroll": 462
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "hi",
+    "page": "/",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "hi",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 760,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "hi",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "hi",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 610,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 610,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 610,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 610,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 702,
+        "height": 78,
+        "scroll": 78
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "hi",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 732
+      },
+      {
+        "bottom": 761,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "hi",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "hi",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 700,
+        "height": 412,
+        "scroll": 412
+      },
+      {
+        "bottom": 700,
+        "height": 462,
+        "scroll": 462
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "bn",
+    "page": "/",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "bn",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 760,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "bn",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "bn",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 610,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 610,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 610,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 610,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 702,
+        "height": 78,
+        "scroll": 78
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "bn",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 732
+      },
+      {
+        "bottom": 760,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "bn",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "bn",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 700,
+        "height": 412,
+        "scroll": 412
+      },
+      {
+        "bottom": 700,
+        "height": 462,
+        "scroll": 462
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "mr",
+    "page": "/",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "mr",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 760,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "mr",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "mr",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 610,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 610,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 610,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 610,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 702,
+        "height": 78,
+        "scroll": 78
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "mr",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 732
+      },
+      {
+        "bottom": 760,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "mr",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "mr",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 700,
+        "height": 412,
+        "scroll": 412
+      },
+      {
+        "bottom": 700,
+        "height": 462,
+        "scroll": 462
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "te",
+    "page": "/",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "te",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 760,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "te",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "te",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 610,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 610,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 610,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 610,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 702,
+        "height": 78,
+        "scroll": 78
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "te",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 714
+      },
+      {
+        "bottom": 760,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "te",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "te",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 700,
+        "height": 412,
+        "scroll": 412
+      },
+      {
+        "bottom": 700,
+        "height": 462,
+        "scroll": 462
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "ta",
+    "page": "/",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "ta",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 760,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "ta",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "ta",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 615,
+        "height": 340,
+        "scroll": 340
+      },
+      {
+        "bottom": 615,
+        "height": 340,
+        "scroll": 340
+      },
+      {
+        "bottom": 615,
+        "height": 340,
+        "scroll": 340
+      },
+      {
+        "bottom": 615,
+        "height": 340,
+        "scroll": 340
+      },
+      {
+        "bottom": 707,
+        "height": 78,
+        "scroll": 78
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "ta",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 768
+      },
+      {
+        "bottom": 761,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "ta",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "ta",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 700,
+        "height": 412,
+        "scroll": 523
+      },
+      {
+        "bottom": 700,
+        "height": 462,
+        "scroll": 462
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "gu",
+    "page": "/",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "gu",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 760,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "gu",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "gu",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 598,
+        "height": 323,
+        "scroll": 323
+      },
+      {
+        "bottom": 598,
+        "height": 323,
+        "scroll": 323
+      },
+      {
+        "bottom": 598,
+        "height": 323,
+        "scroll": 323
+      },
+      {
+        "bottom": 598,
+        "height": 323,
+        "scroll": 323
+      },
+      {
+        "bottom": 690,
+        "height": 78,
+        "scroll": 78
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "gu",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 732
+      },
+      {
+        "bottom": 761,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "gu",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "gu",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 700,
+        "height": 412,
+        "scroll": 412
+      },
+      {
+        "bottom": 700,
+        "height": 462,
+        "scroll": 462
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "ur",
+    "page": "/",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "ur",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 762,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "ur",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "ur",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 611,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 611,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 611,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 611,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 703,
+        "height": 78,
+        "scroll": 78
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "ur",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 714
+      },
+      {
+        "bottom": 762,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "ur",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "ur",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 700,
+        "height": 412,
+        "scroll": 412
+      },
+      {
+        "bottom": 700,
+        "height": 462,
+        "scroll": 462
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "kn",
+    "page": "/",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "kn",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 760,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "kn",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "kn",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 610,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 610,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 610,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 610,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 702,
+        "height": 78,
+        "scroll": 78
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "kn",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 732
+      },
+      {
+        "bottom": 760,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "kn",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "kn",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 700,
+        "height": 412,
+        "scroll": 416
+      },
+      {
+        "bottom": 700,
+        "height": 462,
+        "scroll": 462
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "or",
+    "page": "/",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "or",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 760,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "or",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "or",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 610,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 610,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 610,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 610,
+        "height": 335,
+        "scroll": 335
+      },
+      {
+        "bottom": 702,
+        "height": 78,
+        "scroll": 78
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "or",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 714
+      },
+      {
+        "bottom": 760,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "or",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "or",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 700,
+        "height": 412,
+        "scroll": 412
+      },
+      {
+        "bottom": 700,
+        "height": 462,
+        "scroll": 462
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "ml",
+    "page": "/",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "ml",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 762,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "ml",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "ml",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 651,
+        "height": 376,
+        "scroll": 376
+      },
+      {
+        "bottom": 651,
+        "height": 376,
+        "scroll": 376
+      },
+      {
+        "bottom": 651,
+        "height": 376,
+        "scroll": 376
+      },
+      {
+        "bottom": 651,
+        "height": 376,
+        "scroll": 376
+      },
+      {
+        "bottom": 743,
+        "height": 78,
+        "scroll": 78
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "ml",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 750
+      },
+      {
+        "bottom": 760,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "ml",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      },
+      {
+        "bottom": 756,
+        "height": 606,
+        "scroll": 606
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "ml",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      1366,
+      768
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "panels": [
+      {
+        "bottom": 700,
+        "height": 412,
+        "scroll": 477
+      },
+      {
+        "bottom": 700,
+        "height": 462,
+        "scroll": 462
+      }
+    ],
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  {
+    "language": "en",
+    "page": "/",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "en",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "en",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "en",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "en",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "en",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "en",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "hi",
+    "page": "/",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "hi",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "hi",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "hi",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "hi",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "hi",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "hi",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "bn",
+    "page": "/",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "bn",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "bn",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "bn",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "bn",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "bn",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "bn",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "mr",
+    "page": "/",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "mr",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "mr",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "mr",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "mr",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "mr",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "mr",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "te",
+    "page": "/",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "te",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "te",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "te",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "te",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "te",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "te",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "ta",
+    "page": "/",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "ta",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "ta",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "ta",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "ta",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "ta",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "ta",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "gu",
+    "page": "/",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "gu",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "gu",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "gu",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "gu",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "gu",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "gu",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "ur",
+    "page": "/",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "ur",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "ur",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "ur",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "ur",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "ur",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "ur",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "kn",
+    "page": "/",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "kn",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "kn",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "kn",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "kn",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "kn",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "kn",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "or",
+    "page": "/",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "or",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "or",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "or",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "or",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "or",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "or",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "ml",
+    "page": "/",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "ml",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "ml",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "ml",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "ml",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "ml",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "ml",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      1280,
+      900
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      1280,
+      900
+    ]
+  },
+  {
+    "language": "en",
+    "page": "/",
+    "populated": true,
+    "document": [
+      390,
+      1312
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "en",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      390,
+      1183
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "en",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      390,
+      1521
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "en",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      390,
+      2192
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "en",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      390,
+      1540
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "en",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      390,
+      1017
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "en",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      390,
+      1535
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "hi",
+    "page": "/",
+    "populated": true,
+    "document": [
+      390,
+      1274
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "hi",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      390,
+      1183
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "hi",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      390,
+      1504
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "hi",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      390,
+      2071
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "hi",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      390,
+      1461
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "hi",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      390,
+      1006
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "hi",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      390,
+      1452
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "bn",
+    "page": "/",
+    "populated": true,
+    "document": [
+      390,
+      1294
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "bn",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      390,
+      1202
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "bn",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      390,
+      1537
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "bn",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      390,
+      2091
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "bn",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      390,
+      1527
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "bn",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      390,
+      1042
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "bn",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      390,
+      1470
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "mr",
+    "page": "/",
+    "populated": true,
+    "document": [
+      390,
+      1292
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "mr",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      390,
+      1183
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "mr",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      390,
+      1504
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "mr",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      390,
+      2071
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "mr",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      390,
+      1489
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "mr",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      390,
+      997
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "mr",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      390,
+      1470
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "te",
+    "page": "/",
+    "populated": true,
+    "document": [
+      390,
+      1321
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "te",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      390,
+      1228
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "te",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      390,
+      1504
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "te",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      390,
+      2111
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "te",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      390,
+      1489
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "te",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      390,
+      1043
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "te",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      390,
+      1506
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "ta",
+    "page": "/",
+    "populated": true,
+    "document": [
+      390,
+      1422
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "ta",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      390,
+      1245
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "ta",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      390,
+      1609
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "ta",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      390,
+      2230
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "ta",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      390,
+      1622
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "ta",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      390,
+      1119
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "ta",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      390,
+      1644
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "gu",
+    "page": "/",
+    "populated": true,
+    "document": [
+      390,
+      1294
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "gu",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      390,
+      1202
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "gu",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      390,
+      1504
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "gu",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      390,
+      2076
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "gu",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      390,
+      1488
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "gu",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      390,
+      1006
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "gu",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      390,
+      1470
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "ur",
+    "page": "/",
+    "populated": true,
+    "document": [
+      390,
+      1249
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "ur",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      390,
+      1174
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "ur",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      390,
+      1504
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "ur",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      390,
+      2069
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "ur",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      390,
+      1461
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "ur",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      390,
+      980
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "ur",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      390,
+      1452
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "kn",
+    "page": "/",
+    "populated": true,
+    "document": [
+      390,
+      1317
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "kn",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      390,
+      1202
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "kn",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      390,
+      1537
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "kn",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      390,
+      2192
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "kn",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      390,
+      1560
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "kn",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      390,
+      1062
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "kn",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      390,
+      1549
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "or",
+    "page": "/",
+    "populated": true,
+    "document": [
+      390,
+      1274
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "or",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      390,
+      1202
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "or",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      390,
+      1504
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "or",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      390,
+      2091
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "or",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      390,
+      1471
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "or",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      390,
+      1023
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "or",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      390,
+      1470
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "ml",
+    "page": "/",
+    "populated": true,
+    "document": [
+      390,
+      1415
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "ml",
+    "page": "/predict",
+    "populated": true,
+    "document": [
+      390,
+      1238
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "ml",
+    "page": "/route",
+    "populated": true,
+    "document": [
+      390,
+      1593
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "ml",
+    "page": "/guide",
+    "populated": true,
+    "document": [
+      390,
+      2230
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "ml",
+    "page": "/check",
+    "populated": true,
+    "document": [
+      390,
+      1651
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "ml",
+    "page": "/escalate",
+    "populated": true,
+    "document": [
+      390,
+      1081
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "language": "ml",
+    "page": "/opportunities",
+    "populated": true,
+    "document": [
+      390,
+      1641
+    ],
+    "font": "\"DM Sans\", Arial, sans-serif",
+    "viewport": [
+      390,
+      844
+    ]
+  }
+]

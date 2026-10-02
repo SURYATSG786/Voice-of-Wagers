@@ -1,0 +1,27 @@
+{
+  "name": "shram-saathi",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server/dev.js",
+    "start": "node server/index.js",
+    "build": "vite build --config client/vite.config.js",
+    "test": "node --test eval/*.test.js",
+    "eval": "python3 eval/run_eval_v2.py",
+    "setup:speech": "node scripts/setup-speech.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.468.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.6.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.0",
+    "tailwindcss": "^4.1.0",
+    "vite": "^7.0.0"
+  }
+}

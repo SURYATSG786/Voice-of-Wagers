@@ -1,0 +1,44 @@
+[
+  {
+    "destination": "Delhi",
+    "distance": "996.3 km",
+    "origin": "Patna",
+    "status": "Road route for a car. Check your bus or train separately.",
+    "tiles": 6
+  },
+  {
+    "destination": "Delhi",
+    "distance": "27.7 km",
+    "origin": "Noida",
+    "status": "Road route for a car. Check your bus or train separately.",
+    "tiles": 6
+  },
+  {
+    "destination": "Delhi",
+    "distance": "2,116.2 km",
+    "origin": "Chennai",
+    "status": "Road route for a car. Check your bus or train separately.",
+    "tiles": 6
+  },
+  {
+    "destination": "Delhi",
+    "distance": "0 km",
+    "origin": "Delhi",
+    "status": "Road route for a car. Check your bus or train separately.",
+    "tiles": 6
+  },
+  {
+    "destination": "Delhi",
+    "distance": "28.3 km",
+    "origin": "Gurgaon",
+    "status": "Road route for a car. Check your bus or train separately.",
+    "tiles": 6
+  },
+  {
+    "destination": "Delhi",
+    "distance": "1,324.9 km",
+    "origin": "Mumbai",
+    "status": "Road route for a car. Check your bus or train separately.",
+    "tiles": 6
+  }
+]

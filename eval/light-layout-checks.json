@@ -1,0 +1,1388 @@
+[
+  {
+    "viewport": "desktop",
+    "language": "en",
+    "route": "/",
+    "heading": "A better tomorrowstarts with you.",
+    "illustration": "Chennai",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "en",
+    "route": "/predict",
+    "heading": "Know what your work is worth.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "en",
+    "route": "/opportunities",
+    "heading": "Choose your city.",
+    "illustration": "Delhi",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "en",
+    "route": "/route",
+    "heading": "Plan your journey.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "en",
+    "route": "/guide",
+    "heading": "When you arrive.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "en",
+    "route": "/check",
+    "heading": "Is your pay fair?",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "en",
+    "route": "/escalate",
+    "heading": "Check your pay first.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "hi",
+    "route": "/",
+    "heading": "एक बेहतर कलकी शुरुआत आपसे होती है।",
+    "illustration": "Chennai",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "hi",
+    "route": "/predict",
+    "heading": "अपने काम की मज़दूरी जानें।",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "hi",
+    "route": "/opportunities",
+    "heading": "अपना शहर चुनें।",
+    "illustration": "Delhi",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "hi",
+    "route": "/route",
+    "heading": "अपनी यात्रा की योजना बनाएँ।",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "hi",
+    "route": "/guide",
+    "heading": "जब आप पहुँचें।",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "hi",
+    "route": "/check",
+    "heading": "क्या आपकी मज़दूरी सही है?",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "hi",
+    "route": "/escalate",
+    "heading": "पहले अपनी मज़दूरी जाँचें।",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "bn",
+    "route": "/",
+    "heading": "এক সুন্দর আগামীশুরু হয় আপনাকে নিয়ে।",
+    "illustration": "Chennai",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "bn",
+    "route": "/predict",
+    "heading": "আপনার কাজের মজুরি জানুন।",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "bn",
+    "route": "/opportunities",
+    "heading": "আপনার শহর বাছুন।",
+    "illustration": "Delhi",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "bn",
+    "route": "/route",
+    "heading": "আপনার যাত্রার পরিকল্পনা করুন।",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "bn",
+    "route": "/guide",
+    "heading": "আপনি পৌঁছানোর পর।",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "bn",
+    "route": "/check",
+    "heading": "আপনার মজুরি কি ন্যায্য?",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "bn",
+    "route": "/escalate",
+    "heading": "আগে আপনার মজুরি দেখুন।",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "mr",
+    "route": "/",
+    "heading": "एक चांगला उद्यातुमच्यापासून सुरू होतो.",
+    "illustration": "Chennai",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "mr",
+    "route": "/predict",
+    "heading": "तुमच्या कामाची मजुरी जाणून घ्या.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "mr",
+    "route": "/opportunities",
+    "heading": "तुमचे शहर निवडा.",
+    "illustration": "Delhi",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "mr",
+    "route": "/route",
+    "heading": "तुमच्या प्रवासाची योजना करा.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "mr",
+    "route": "/guide",
+    "heading": "तुम्ही पोहोचल्यावर.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "mr",
+    "route": "/check",
+    "heading": "तुमची मजुरी योग्य आहे का?",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "mr",
+    "route": "/escalate",
+    "heading": "आधी तुमची मजुरी तपासा.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "te",
+    "route": "/",
+    "heading": "మంచి రేపటి రోజుమీతోనే మొదలవుతుంది.",
+    "illustration": "Chennai",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "te",
+    "route": "/predict",
+    "heading": "మీ పనికి ఎంత కూలి వస్తుందో తెలుసుకోండి.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "te",
+    "route": "/opportunities",
+    "heading": "మీ నగరం ఎంచుకోండి.",
+    "illustration": "Delhi",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "te",
+    "route": "/route",
+    "heading": "మీ ప్రయాణం ప్లాన్ చేసుకోండి.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "te",
+    "route": "/guide",
+    "heading": "మీరు చేరుకున్నాక.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "te",
+    "route": "/check",
+    "heading": "మీకు తగిన కూలి వస్తోందా?",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "te",
+    "route": "/escalate",
+    "heading": "ముందుగా మీ కూలి చూడండి.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "ta",
+    "route": "/",
+    "heading": "நல்ல நாளைஉங்களிடமிருந்து தொடங்குகிறது.",
+    "illustration": "Chennai",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "ta",
+    "route": "/predict",
+    "heading": "உங்கள் வேலைக்கான கூலியைத் தெரிந்துகொள்ளுங்கள்.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "ta",
+    "route": "/opportunities",
+    "heading": "உங்கள் நகரத்தைத் தேர்ந்தெடுங்கள்.",
+    "illustration": "Delhi",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "ta",
+    "route": "/route",
+    "heading": "உங்கள் பயணத்தைத் திட்டமிடுங்கள்.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "ta",
+    "route": "/guide",
+    "heading": "நீங்கள் வந்துசேர்ந்ததும்.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "ta",
+    "route": "/check",
+    "heading": "உங்களுக்கு நியாயமான கூலி கிடைக்கிறதா?",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "ta",
+    "route": "/escalate",
+    "heading": "முதலில் உங்கள் கூலியைப் பாருங்கள்.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "gu",
+    "route": "/",
+    "heading": "વધુ સારો આવતીકાલતમારાથી શરૂ થાય છે.",
+    "illustration": "Chennai",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "gu",
+    "route": "/predict",
+    "heading": "તમારા કામની મજૂરી જાણો.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "gu",
+    "route": "/opportunities",
+    "heading": "તમારું શહેર પસંદ કરો.",
+    "illustration": "Delhi",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "gu",
+    "route": "/route",
+    "heading": "તમારી મુસાફરીની યોજના બનાવો.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "gu",
+    "route": "/guide",
+    "heading": "તમે પહોંચો ત્યારે.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "gu",
+    "route": "/check",
+    "heading": "શું તમારી મજૂરી યોગ્ય છે?",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "gu",
+    "route": "/escalate",
+    "heading": "પહેલાં તમારી મજૂરી તપાસો.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "ur",
+    "route": "/",
+    "heading": "ایک بہتر کلآپ سے شروع ہوتا ہے۔",
+    "illustration": "Chennai",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "ur",
+    "route": "/predict",
+    "heading": "اپنے کام کی مزدوری جانیں۔",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "ur",
+    "route": "/opportunities",
+    "heading": "اپنا شہر چنیں۔",
+    "illustration": "Delhi",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "ur",
+    "route": "/route",
+    "heading": "اپنے سفر کی تیاری کریں۔",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "ur",
+    "route": "/guide",
+    "heading": "جب آپ پہنچیں۔",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "ur",
+    "route": "/check",
+    "heading": "کیا آپ کی مزدوری مناسب ہے؟",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "ur",
+    "route": "/escalate",
+    "heading": "پہلے اپنی مزدوری دیکھیں۔",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "kn",
+    "route": "/",
+    "heading": "ಒಳ್ಳೆಯ ನಾಳೆನಿಮ್ಮಿಂದಲೇ ಆರಂಭವಾಗುತ್ತದೆ.",
+    "illustration": "Chennai",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "kn",
+    "route": "/predict",
+    "heading": "ನಿಮ್ಮ ಕೆಲಸದ ಕೂಲಿ ತಿಳಿದುಕೊಳ್ಳಿ.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "kn",
+    "route": "/opportunities",
+    "heading": "ನಿಮ್ಮ ನಗರ ಆಯ್ಕೆ ಮಾಡಿ.",
+    "illustration": "Delhi",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "kn",
+    "route": "/route",
+    "heading": "ನಿಮ್ಮ ಪ್ರಯಾಣದ ಯೋಜನೆ ಮಾಡಿ.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "kn",
+    "route": "/guide",
+    "heading": "ನೀವು ತಲುಪಿದ ಮೇಲೆ.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "kn",
+    "route": "/check",
+    "heading": "ನಿಮಗೆ ನ್ಯಾಯವಾದ ಕೂಲಿ ಸಿಗುತ್ತಿದೆಯೇ?",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "kn",
+    "route": "/escalate",
+    "heading": "ಮೊದಲು ನಿಮ್ಮ ಕೂಲಿ ಪರಿಶೀಲಿಸಿ.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "or",
+    "route": "/",
+    "heading": "ଏକ ଭଲ ଆସନ୍ତାକାଲିଆପଣଙ୍କଠାରୁ ଆରମ୍ଭ ହୁଏ।",
+    "illustration": "Chennai",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "or",
+    "route": "/predict",
+    "heading": "ଆପଣଙ୍କ କାମର ମଜୁରି ଜାଣନ୍ତୁ।",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "or",
+    "route": "/opportunities",
+    "heading": "ଆପଣଙ୍କ ସହର ବାଛନ୍ତୁ।",
+    "illustration": "Delhi",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "or",
+    "route": "/route",
+    "heading": "ଆପଣଙ୍କ ଯାତ୍ରାର ଯୋଜନା କରନ୍ତୁ।",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "or",
+    "route": "/guide",
+    "heading": "ଆପଣ ପହଞ୍ଚିବା ପରେ।",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "or",
+    "route": "/check",
+    "heading": "ଆପଣଙ୍କ ମଜୁରି ଉଚିତ କି?",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "or",
+    "route": "/escalate",
+    "heading": "ପ୍ରଥମେ ଆପଣଙ୍କ ମଜୁରି ଯାଞ୍ଚ କରନ୍ତୁ।",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "ml",
+    "route": "/",
+    "heading": "ഒരു നല്ല നാളെനിങ്ങളിൽ നിന്നാണ് തുടങ്ങുന്നത്.",
+    "illustration": "Chennai",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "ml",
+    "route": "/predict",
+    "heading": "നിങ്ങളുടെ ജോലിയുടെ കൂലി അറിയൂ.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "ml",
+    "route": "/opportunities",
+    "heading": "നിങ്ങളുടെ നഗരം തിരഞ്ഞെടുക്കൂ.",
+    "illustration": "Delhi",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "ml",
+    "route": "/route",
+    "heading": "നിങ്ങളുടെ യാത്രയ്ക്ക് തയ്യാറാകൂ.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "ml",
+    "route": "/guide",
+    "heading": "നിങ്ങൾ എത്തുമ്പോൾ.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "ml",
+    "route": "/check",
+    "heading": "നിങ്ങൾക്ക് ന്യായമായ കൂലി കിട്ടുന്നുണ്ടോ?",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "desktop",
+    "language": "ml",
+    "route": "/escalate",
+    "heading": "ആദ്യം നിങ്ങളുടെ കൂലി പരിശോധിക്കൂ.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "en",
+    "route": "/",
+    "heading": "A better tomorrowstarts with you.",
+    "illustration": "Chennai",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "en",
+    "route": "/predict",
+    "heading": "Know what your work is worth.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "en",
+    "route": "/opportunities",
+    "heading": "Choose your city.",
+    "illustration": "Delhi",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "en",
+    "route": "/route",
+    "heading": "Plan your journey.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "en",
+    "route": "/guide",
+    "heading": "When you arrive.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "en",
+    "route": "/check",
+    "heading": "Is your pay fair?",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "en",
+    "route": "/escalate",
+    "heading": "Check your pay first.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "hi",
+    "route": "/",
+    "heading": "एक बेहतर कलकी शुरुआत आपसे होती है।",
+    "illustration": "Chennai",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "hi",
+    "route": "/predict",
+    "heading": "अपने काम की मज़दूरी जानें।",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "hi",
+    "route": "/opportunities",
+    "heading": "अपना शहर चुनें।",
+    "illustration": "Delhi",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "hi",
+    "route": "/route",
+    "heading": "अपनी यात्रा की योजना बनाएँ।",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "hi",
+    "route": "/guide",
+    "heading": "जब आप पहुँचें।",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "hi",
+    "route": "/check",
+    "heading": "क्या आपकी मज़दूरी सही है?",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "hi",
+    "route": "/escalate",
+    "heading": "पहले अपनी मज़दूरी जाँचें।",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "bn",
+    "route": "/",
+    "heading": "এক সুন্দর আগামীশুরু হয় আপনাকে নিয়ে।",
+    "illustration": "Chennai",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "bn",
+    "route": "/predict",
+    "heading": "আপনার কাজের মজুরি জানুন।",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "bn",
+    "route": "/opportunities",
+    "heading": "আপনার শহর বাছুন।",
+    "illustration": "Delhi",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "bn",
+    "route": "/route",
+    "heading": "আপনার যাত্রার পরিকল্পনা করুন।",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "bn",
+    "route": "/guide",
+    "heading": "আপনি পৌঁছানোর পর।",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "bn",
+    "route": "/check",
+    "heading": "আপনার মজুরি কি ন্যায্য?",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "bn",
+    "route": "/escalate",
+    "heading": "আগে আপনার মজুরি দেখুন।",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "mr",
+    "route": "/",
+    "heading": "एक चांगला उद्यातुमच्यापासून सुरू होतो.",
+    "illustration": "Chennai",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "mr",
+    "route": "/predict",
+    "heading": "तुमच्या कामाची मजुरी जाणून घ्या.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "mr",
+    "route": "/opportunities",
+    "heading": "तुमचे शहर निवडा.",
+    "illustration": "Delhi",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "mr",
+    "route": "/route",
+    "heading": "तुमच्या प्रवासाची योजना करा.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "mr",
+    "route": "/guide",
+    "heading": "तुम्ही पोहोचल्यावर.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "mr",
+    "route": "/check",
+    "heading": "तुमची मजुरी योग्य आहे का?",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "mr",
+    "route": "/escalate",
+    "heading": "आधी तुमची मजुरी तपासा.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "te",
+    "route": "/",
+    "heading": "మంచి రేపటి రోజుమీతోనే మొదలవుతుంది.",
+    "illustration": "Chennai",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "te",
+    "route": "/predict",
+    "heading": "మీ పనికి ఎంత కూలి వస్తుందో తెలుసుకోండి.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "te",
+    "route": "/opportunities",
+    "heading": "మీ నగరం ఎంచుకోండి.",
+    "illustration": "Delhi",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "te",
+    "route": "/route",
+    "heading": "మీ ప్రయాణం ప్లాన్ చేసుకోండి.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "te",
+    "route": "/guide",
+    "heading": "మీరు చేరుకున్నాక.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "te",
+    "route": "/check",
+    "heading": "మీకు తగిన కూలి వస్తోందా?",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "te",
+    "route": "/escalate",
+    "heading": "ముందుగా మీ కూలి చూడండి.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "ta",
+    "route": "/",
+    "heading": "நல்ல நாளைஉங்களிடமிருந்து தொடங்குகிறது.",
+    "illustration": "Chennai",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "ta",
+    "route": "/predict",
+    "heading": "உங்கள் வேலைக்கான கூலியைத் தெரிந்துகொள்ளுங்கள்.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "ta",
+    "route": "/opportunities",
+    "heading": "உங்கள் நகரத்தைத் தேர்ந்தெடுங்கள்.",
+    "illustration": "Delhi",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "ta",
+    "route": "/route",
+    "heading": "உங்கள் பயணத்தைத் திட்டமிடுங்கள்.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "ta",
+    "route": "/guide",
+    "heading": "நீங்கள் வந்துசேர்ந்ததும்.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "ta",
+    "route": "/check",
+    "heading": "உங்களுக்கு நியாயமான கூலி கிடைக்கிறதா?",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "ta",
+    "route": "/escalate",
+    "heading": "முதலில் உங்கள் கூலியைப் பாருங்கள்.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "gu",
+    "route": "/",
+    "heading": "વધુ સારો આવતીકાલતમારાથી શરૂ થાય છે.",
+    "illustration": "Chennai",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "gu",
+    "route": "/predict",
+    "heading": "તમારા કામની મજૂરી જાણો.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "gu",
+    "route": "/opportunities",
+    "heading": "તમારું શહેર પસંદ કરો.",
+    "illustration": "Delhi",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "gu",
+    "route": "/route",
+    "heading": "તમારી મુસાફરીની યોજના બનાવો.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "gu",
+    "route": "/guide",
+    "heading": "તમે પહોંચો ત્યારે.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "gu",
+    "route": "/check",
+    "heading": "શું તમારી મજૂરી યોગ્ય છે?",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "gu",
+    "route": "/escalate",
+    "heading": "પહેલાં તમારી મજૂરી તપાસો.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "ur",
+    "route": "/",
+    "heading": "ایک بہتر کلآپ سے شروع ہوتا ہے۔",
+    "illustration": "Chennai",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "ur",
+    "route": "/predict",
+    "heading": "اپنے کام کی مزدوری جانیں۔",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "ur",
+    "route": "/opportunities",
+    "heading": "اپنا شہر چنیں۔",
+    "illustration": "Delhi",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "ur",
+    "route": "/route",
+    "heading": "اپنے سفر کی تیاری کریں۔",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "ur",
+    "route": "/guide",
+    "heading": "جب آپ پہنچیں۔",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "ur",
+    "route": "/check",
+    "heading": "کیا آپ کی مزدوری مناسب ہے؟",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "ur",
+    "route": "/escalate",
+    "heading": "پہلے اپنی مزدوری دیکھیں۔",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "kn",
+    "route": "/",
+    "heading": "ಒಳ್ಳೆಯ ನಾಳೆನಿಮ್ಮಿಂದಲೇ ಆರಂಭವಾಗುತ್ತದೆ.",
+    "illustration": "Chennai",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "kn",
+    "route": "/predict",
+    "heading": "ನಿಮ್ಮ ಕೆಲಸದ ಕೂಲಿ ತಿಳಿದುಕೊಳ್ಳಿ.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "kn",
+    "route": "/opportunities",
+    "heading": "ನಿಮ್ಮ ನಗರ ಆಯ್ಕೆ ಮಾಡಿ.",
+    "illustration": "Delhi",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "kn",
+    "route": "/route",
+    "heading": "ನಿಮ್ಮ ಪ್ರಯಾಣದ ಯೋಜನೆ ಮಾಡಿ.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "kn",
+    "route": "/guide",
+    "heading": "ನೀವು ತಲುಪಿದ ಮೇಲೆ.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "kn",
+    "route": "/check",
+    "heading": "ನಿಮಗೆ ನ್ಯಾಯವಾದ ಕೂಲಿ ಸಿಗುತ್ತಿದೆಯೇ?",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "kn",
+    "route": "/escalate",
+    "heading": "ಮೊದಲು ನಿಮ್ಮ ಕೂಲಿ ಪರಿಶೀಲಿಸಿ.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "or",
+    "route": "/",
+    "heading": "ଏକ ଭଲ ଆସନ୍ତାକାଲିଆପଣଙ୍କଠାରୁ ଆରମ୍ଭ ହୁଏ।",
+    "illustration": "Chennai",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "or",
+    "route": "/predict",
+    "heading": "ଆପଣଙ୍କ କାମର ମଜୁରି ଜାଣନ୍ତୁ।",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "or",
+    "route": "/opportunities",
+    "heading": "ଆପଣଙ୍କ ସହର ବାଛନ୍ତୁ।",
+    "illustration": "Delhi",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "or",
+    "route": "/route",
+    "heading": "ଆପଣଙ୍କ ଯାତ୍ରାର ଯୋଜନା କରନ୍ତୁ।",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "or",
+    "route": "/guide",
+    "heading": "ଆପଣ ପହଞ୍ଚିବା ପରେ।",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "or",
+    "route": "/check",
+    "heading": "ଆପଣଙ୍କ ମଜୁରି ଉଚିତ କି?",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "or",
+    "route": "/escalate",
+    "heading": "ପ୍ରଥମେ ଆପଣଙ୍କ ମଜୁରି ଯାଞ୍ଚ କରନ୍ତୁ।",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "ml",
+    "route": "/",
+    "heading": "ഒരു നല്ല നാളെനിങ്ങളിൽ നിന്നാണ് തുടങ്ങുന്നത്.",
+    "illustration": "Chennai",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "ml",
+    "route": "/predict",
+    "heading": "നിങ്ങളുടെ ജോലിയുടെ കൂലി അറിയൂ.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "ml",
+    "route": "/opportunities",
+    "heading": "നിങ്ങളുടെ നഗരം തിരഞ്ഞെടുക്കൂ.",
+    "illustration": "Delhi",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "ml",
+    "route": "/route",
+    "heading": "നിങ്ങളുടെ യാത്രയ്ക്ക് തയ്യാറാകൂ.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "ml",
+    "route": "/guide",
+    "heading": "നിങ്ങൾ എത്തുമ്പോൾ.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "ml",
+    "route": "/check",
+    "heading": "നിങ്ങൾക്ക് ന്യായമായ കൂലി കിട്ടുന്നുണ്ടോ?",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  },
+  {
+    "viewport": "phone",
+    "language": "ml",
+    "route": "/escalate",
+    "heading": "ആദ്യം നിങ്ങളുടെ കൂലി പരിശോധിക്കൂ.",
+    "illustration": "Noida",
+    "lightTheme": true,
+    "overflow": false
+  }
+]

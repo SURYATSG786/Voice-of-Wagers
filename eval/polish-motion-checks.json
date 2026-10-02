@@ -1,0 +1,16 @@
+{
+  "passed": 11,
+  "checks": [
+    "count-up settles exactly: 13690",
+    "reduced motion immediate: 13690",
+    "count-up settles exactly: 15600",
+    "reduced motion immediate: 15600",
+    "count-up settles exactly: 3290",
+    "reduced motion immediate: 3290",
+    "count-up settles exactly: 0",
+    "reduced motion immediate: 0",
+    "count-up settles exactly: -10",
+    "reduced motion immediate: -10",
+    "live reduced-motion change cancels animation"
+  ]
+}

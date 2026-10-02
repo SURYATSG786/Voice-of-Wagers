@@ -1,0 +1,30 @@
+{
+  "disclaimer": "These are rough, non-official estimates for illustrative comparison only — unlike wage_table.json, these are NOT government-verified figures. Label them as such in the UI.",
+  "cities": [
+    {
+      "city": "Delhi",
+      "typical_shared_rent_monthly": 3500,
+      "typical_food_monthly": 4500
+    },
+    {
+      "city": "Gurgaon",
+      "typical_shared_rent_monthly": 3000,
+      "typical_food_monthly": 4200
+    },
+    {
+      "city": "Noida",
+      "typical_shared_rent_monthly": 2800,
+      "typical_food_monthly": 4000
+    },
+    {
+      "city": "Chennai",
+      "typical_shared_rent_monthly": 2200,
+      "typical_food_monthly": 3800
+    },
+    {
+      "city": "Mumbai",
+      "typical_shared_rent_monthly": 4500,
+      "typical_food_monthly": 5000
+    }
+  ]
+}

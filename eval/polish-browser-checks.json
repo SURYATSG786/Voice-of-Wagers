@@ -1,0 +1,1155 @@
+{
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 900
+    },
+    "phone": {
+      "width": 390,
+      "height": 844
+    }
+  },
+  "checks": [
+    {
+      "viewport": "desktop",
+      "language": "en",
+      "route": "/",
+      "overflow": false,
+      "title": "A better tomorrowstarts with you."
+    },
+    {
+      "viewport": "desktop",
+      "language": "en",
+      "route": "/predict",
+      "overflow": false,
+      "title": "Know what your work is worth."
+    },
+    {
+      "viewport": "desktop",
+      "language": "en",
+      "route": "/opportunities",
+      "overflow": false,
+      "title": "Choose your city."
+    },
+    {
+      "viewport": "desktop",
+      "language": "en",
+      "route": "/route",
+      "overflow": false,
+      "title": "Plan your journey."
+    },
+    {
+      "viewport": "desktop",
+      "language": "en",
+      "route": "/guide",
+      "overflow": false,
+      "title": "When you arrive."
+    },
+    {
+      "viewport": "desktop",
+      "language": "en",
+      "route": "/check",
+      "overflow": false,
+      "title": "Is your pay fair?"
+    },
+    {
+      "viewport": "desktop",
+      "language": "en",
+      "route": "/escalate",
+      "overflow": false,
+      "title": "Check your pay first."
+    },
+    {
+      "viewport": "desktop",
+      "language": "hi",
+      "route": "/",
+      "overflow": false,
+      "title": "एक बेहतर कलकी शुरुआत आपसे होती है।"
+    },
+    {
+      "viewport": "desktop",
+      "language": "hi",
+      "route": "/predict",
+      "overflow": false,
+      "title": "अपने काम की मज़दूरी जानें।"
+    },
+    {
+      "viewport": "desktop",
+      "language": "hi",
+      "route": "/opportunities",
+      "overflow": false,
+      "title": "अपना शहर चुनें।"
+    },
+    {
+      "viewport": "desktop",
+      "language": "hi",
+      "route": "/route",
+      "overflow": false,
+      "title": "अपनी यात्रा की योजना बनाएँ।"
+    },
+    {
+      "viewport": "desktop",
+      "language": "hi",
+      "route": "/guide",
+      "overflow": false,
+      "title": "जब आप पहुँचें।"
+    },
+    {
+      "viewport": "desktop",
+      "language": "hi",
+      "route": "/check",
+      "overflow": false,
+      "title": "क्या आपकी मज़दूरी सही है?"
+    },
+    {
+      "viewport": "desktop",
+      "language": "hi",
+      "route": "/escalate",
+      "overflow": false,
+      "title": "पहले अपनी मज़दूरी जाँचें।"
+    },
+    {
+      "viewport": "desktop",
+      "language": "bn",
+      "route": "/",
+      "dir": null,
+      "overflow": false,
+      "title": "এক সুন্দর আগামীশুরু হয় আপনাকে নিয়ে।"
+    },
+    {
+      "viewport": "desktop",
+      "language": "bn",
+      "route": "/predict",
+      "dir": null,
+      "overflow": false,
+      "title": "আপনার কাজের মজুরি জানুন।"
+    },
+    {
+      "viewport": "desktop",
+      "language": "bn",
+      "route": "/opportunities",
+      "dir": null,
+      "overflow": false,
+      "title": "আপনার শহর বাছুন।"
+    },
+    {
+      "viewport": "desktop",
+      "language": "bn",
+      "route": "/route",
+      "dir": null,
+      "overflow": false,
+      "title": "আপনার যাত্রার পরিকল্পনা করুন।"
+    },
+    {
+      "viewport": "desktop",
+      "language": "bn",
+      "route": "/guide",
+      "dir": null,
+      "overflow": false,
+      "title": "আপনি পৌঁছানোর পর।"
+    },
+    {
+      "viewport": "desktop",
+      "language": "bn",
+      "route": "/check",
+      "dir": null,
+      "overflow": false,
+      "title": "আপনার মজুরি কি ন্যায্য?"
+    },
+    {
+      "viewport": "desktop",
+      "language": "bn",
+      "route": "/escalate",
+      "dir": null,
+      "overflow": false,
+      "title": "আগে আপনার মজুরি দেখুন।"
+    },
+    {
+      "viewport": "desktop",
+      "language": "mr",
+      "route": "/",
+      "dir": null,
+      "overflow": false,
+      "title": "एक चांगला उद्यातुमच्यापासून सुरू होतो."
+    },
+    {
+      "viewport": "desktop",
+      "language": "mr",
+      "route": "/predict",
+      "dir": null,
+      "overflow": false,
+      "title": "तुमच्या कामाची मजुरी जाणून घ्या."
+    },
+    {
+      "viewport": "desktop",
+      "language": "mr",
+      "route": "/opportunities",
+      "dir": null,
+      "overflow": false,
+      "title": "तुमचे शहर निवडा."
+    },
+    {
+      "viewport": "desktop",
+      "language": "mr",
+      "route": "/route",
+      "dir": null,
+      "overflow": false,
+      "title": "तुमच्या प्रवासाची योजना करा."
+    },
+    {
+      "viewport": "desktop",
+      "language": "mr",
+      "route": "/guide",
+      "dir": null,
+      "overflow": false,
+      "title": "तुम्ही पोहोचल्यावर."
+    },
+    {
+      "viewport": "desktop",
+      "language": "mr",
+      "route": "/check",
+      "dir": null,
+      "overflow": false,
+      "title": "तुमची मजुरी योग्य आहे का?"
+    },
+    {
+      "viewport": "desktop",
+      "language": "mr",
+      "route": "/escalate",
+      "dir": null,
+      "overflow": false,
+      "title": "आधी तुमची मजुरी तपासा."
+    },
+    {
+      "viewport": "desktop",
+      "language": "te",
+      "route": "/",
+      "dir": null,
+      "overflow": false,
+      "title": "మంచి రేపటి రోజుమీతోనే మొదలవుతుంది."
+    },
+    {
+      "viewport": "desktop",
+      "language": "te",
+      "route": "/predict",
+      "dir": null,
+      "overflow": false,
+      "title": "మీ పనికి ఎంత కూలి వస్తుందో తెలుసుకోండి."
+    },
+    {
+      "viewport": "desktop",
+      "language": "te",
+      "route": "/opportunities",
+      "dir": null,
+      "overflow": false,
+      "title": "మీ నగరం ఎంచుకోండి."
+    },
+    {
+      "viewport": "desktop",
+      "language": "te",
+      "route": "/route",
+      "dir": null,
+      "overflow": false,
+      "title": "మీ ప్రయాణం ప్లాన్ చేసుకోండి."
+    },
+    {
+      "viewport": "desktop",
+      "language": "te",
+      "route": "/guide",
+      "dir": null,
+      "overflow": false,
+      "title": "మీరు చేరుకున్నాక."
+    },
+    {
+      "viewport": "desktop",
+      "language": "te",
+      "route": "/check",
+      "dir": null,
+      "overflow": false,
+      "title": "మీకు తగిన కూలి వస్తోందా?"
+    },
+    {
+      "viewport": "desktop",
+      "language": "te",
+      "route": "/escalate",
+      "dir": null,
+      "overflow": false,
+      "title": "ముందుగా మీ కూలి చూడండి."
+    },
+    {
+      "viewport": "desktop",
+      "language": "ta",
+      "route": "/",
+      "dir": null,
+      "overflow": false,
+      "title": "நல்ல நாளைஉங்களிடமிருந்து தொடங்குகிறது."
+    },
+    {
+      "viewport": "desktop",
+      "language": "ta",
+      "route": "/predict",
+      "dir": null,
+      "overflow": false,
+      "title": "உங்கள் வேலைக்கான கூலியைத் தெரிந்துகொள்ளுங்கள்."
+    },
+    {
+      "viewport": "desktop",
+      "language": "ta",
+      "route": "/opportunities",
+      "dir": null,
+      "overflow": false,
+      "title": "உங்கள் நகரத்தைத் தேர்ந்தெடுங்கள்."
+    },
+    {
+      "viewport": "desktop",
+      "language": "ta",
+      "route": "/route",
+      "dir": null,
+      "overflow": false,
+      "title": "உங்கள் பயணத்தைத் திட்டமிடுங்கள்."
+    },
+    {
+      "viewport": "desktop",
+      "language": "ta",
+      "route": "/guide",
+      "dir": null,
+      "overflow": false,
+      "title": "நீங்கள் வந்துசேர்ந்ததும்."
+    },
+    {
+      "viewport": "desktop",
+      "language": "ta",
+      "route": "/check",
+      "dir": null,
+      "overflow": false,
+      "title": "உங்களுக்கு நியாயமான கூலி கிடைக்கிறதா?"
+    },
+    {
+      "viewport": "desktop",
+      "language": "ta",
+      "route": "/escalate",
+      "dir": null,
+      "overflow": false,
+      "title": "முதலில் உங்கள் கூலியைப் பாருங்கள்."
+    },
+    {
+      "viewport": "desktop",
+      "language": "gu",
+      "route": "/",
+      "dir": null,
+      "overflow": false,
+      "title": "વધુ સારો આવતીકાલતમારાથી શરૂ થાય છે."
+    },
+    {
+      "viewport": "desktop",
+      "language": "gu",
+      "route": "/predict",
+      "dir": null,
+      "overflow": false,
+      "title": "તમારા કામની મજૂરી જાણો."
+    },
+    {
+      "viewport": "desktop",
+      "language": "gu",
+      "route": "/opportunities",
+      "dir": null,
+      "overflow": false,
+      "title": "તમારું શહેર પસંદ કરો."
+    },
+    {
+      "viewport": "desktop",
+      "language": "gu",
+      "route": "/route",
+      "dir": null,
+      "overflow": false,
+      "title": "તમારી મુસાફરીની યોજના બનાવો."
+    },
+    {
+      "viewport": "desktop",
+      "language": "gu",
+      "route": "/guide",
+      "dir": null,
+      "overflow": false,
+      "title": "તમે પહોંચો ત્યારે."
+    },
+    {
+      "viewport": "desktop",
+      "language": "gu",
+      "route": "/check",
+      "dir": null,
+      "overflow": false,
+      "title": "શું તમારી મજૂરી યોગ્ય છે?"
+    },
+    {
+      "viewport": "desktop",
+      "language": "gu",
+      "route": "/escalate",
+      "dir": null,
+      "overflow": false,
+      "title": "પહેલાં તમારી મજૂરી તપાસો."
+    },
+    {
+      "viewport": "desktop",
+      "language": "ur",
+      "route": "/",
+      "dir": null,
+      "overflow": false,
+      "title": "ایک بہتر کلآپ سے شروع ہوتا ہے۔"
+    },
+    {
+      "viewport": "desktop",
+      "language": "ur",
+      "route": "/predict",
+      "dir": null,
+      "overflow": false,
+      "title": "اپنے کام کی مزدوری جانیں۔"
+    },
+    {
+      "viewport": "desktop",
+      "language": "ur",
+      "route": "/opportunities",
+      "dir": null,
+      "overflow": false,
+      "title": "اپنا شہر چنیں۔"
+    },
+    {
+      "viewport": "desktop",
+      "language": "ur",
+      "route": "/route",
+      "dir": null,
+      "overflow": false,
+      "title": "اپنے سفر کی تیاری کریں۔"
+    },
+    {
+      "viewport": "desktop",
+      "language": "ur",
+      "route": "/guide",
+      "dir": null,
+      "overflow": false,
+      "title": "جب آپ پہنچیں۔"
+    },
+    {
+      "viewport": "desktop",
+      "language": "ur",
+      "route": "/check",
+      "dir": null,
+      "overflow": false,
+      "title": "کیا آپ کی مزدوری مناسب ہے؟"
+    },
+    {
+      "viewport": "desktop",
+      "language": "ur",
+      "route": "/escalate",
+      "dir": null,
+      "overflow": false,
+      "title": "پہلے اپنی مزدوری دیکھیں۔"
+    },
+    {
+      "viewport": "desktop",
+      "language": "kn",
+      "route": "/",
+      "dir": null,
+      "overflow": false,
+      "title": "ಒಳ್ಳೆಯ ನಾಳೆನಿಮ್ಮಿಂದಲೇ ಆರಂಭವಾಗುತ್ತದೆ."
+    },
+    {
+      "viewport": "desktop",
+      "language": "kn",
+      "route": "/predict",
+      "dir": null,
+      "overflow": false,
+      "title": "ನಿಮ್ಮ ಕೆಲಸದ ಕೂಲಿ ತಿಳಿದುಕೊಳ್ಳಿ."
+    },
+    {
+      "viewport": "desktop",
+      "language": "kn",
+      "route": "/opportunities",
+      "dir": null,
+      "overflow": false,
+      "title": "ನಿಮ್ಮ ನಗರ ಆಯ್ಕೆ ಮಾಡಿ."
+    },
+    {
+      "viewport": "desktop",
+      "language": "kn",
+      "route": "/route",
+      "dir": null,
+      "overflow": false,
+      "title": "ನಿಮ್ಮ ಪ್ರಯಾಣದ ಯೋಜನೆ ಮಾಡಿ."
+    },
+    {
+      "viewport": "desktop",
+      "language": "kn",
+      "route": "/guide",
+      "dir": null,
+      "overflow": false,
+      "title": "ನೀವು ತಲುಪಿದ ಮೇಲೆ."
+    },
+    {
+      "viewport": "desktop",
+      "language": "kn",
+      "route": "/check",
+      "dir": null,
+      "overflow": false,
+      "title": "ನಿಮಗೆ ನ್ಯಾಯವಾದ ಕೂಲಿ ಸಿಗುತ್ತಿದೆಯೇ?"
+    },
+    {
+      "viewport": "desktop",
+      "language": "kn",
+      "route": "/escalate",
+      "dir": null,
+      "overflow": false,
+      "title": "ಮೊದಲು ನಿಮ್ಮ ಕೂಲಿ ಪರಿಶೀಲಿಸಿ."
+    },
+    {
+      "viewport": "desktop",
+      "language": "or",
+      "route": "/",
+      "dir": null,
+      "overflow": false,
+      "title": "ଏକ ଭଲ ଆସନ୍ତାକାଲିଆପଣଙ୍କଠାରୁ ଆରମ୍ଭ ହୁଏ।"
+    },
+    {
+      "viewport": "desktop",
+      "language": "or",
+      "route": "/predict",
+      "dir": null,
+      "overflow": false,
+      "title": "ଆପଣଙ୍କ କାମର ମଜୁରି ଜାଣନ୍ତୁ।"
+    },
+    {
+      "viewport": "desktop",
+      "language": "or",
+      "route": "/opportunities",
+      "dir": null,
+      "overflow": false,
+      "title": "ଆପଣଙ୍କ ସହର ବାଛନ୍ତୁ।"
+    },
+    {
+      "viewport": "desktop",
+      "language": "or",
+      "route": "/route",
+      "dir": null,
+      "overflow": false,
+      "title": "ଆପଣଙ୍କ ଯାତ୍ରାର ଯୋଜନା କରନ୍ତୁ।"
+    },
+    {
+      "viewport": "desktop",
+      "language": "or",
+      "route": "/guide",
+      "dir": null,
+      "overflow": false,
+      "title": "ଆପଣ ପହଞ୍ଚିବା ପରେ।"
+    },
+    {
+      "viewport": "desktop",
+      "language": "or",
+      "route": "/check",
+      "dir": null,
+      "overflow": false,
+      "title": "ଆପଣଙ୍କ ମଜୁରି ଉଚିତ କି?"
+    },
+    {
+      "viewport": "desktop",
+      "language": "or",
+      "route": "/escalate",
+      "dir": null,
+      "overflow": false,
+      "title": "ପ୍ରଥମେ ଆପଣଙ୍କ ମଜୁରି ଯାଞ୍ଚ କରନ୍ତୁ।"
+    },
+    {
+      "viewport": "desktop",
+      "language": "ml",
+      "route": "/",
+      "dir": null,
+      "overflow": false,
+      "title": "ഒരു നല്ല നാളെനിങ്ങളിൽ നിന്നാണ് തുടങ്ങുന്നത്."
+    },
+    {
+      "viewport": "desktop",
+      "language": "ml",
+      "route": "/predict",
+      "dir": null,
+      "overflow": false,
+      "title": "നിങ്ങളുടെ ജോലിയുടെ കൂലി അറിയൂ."
+    },
+    {
+      "viewport": "desktop",
+      "language": "ml",
+      "route": "/opportunities",
+      "dir": null,
+      "overflow": false,
+      "title": "നിങ്ങളുടെ നഗരം തിരഞ്ഞെടുക്കൂ."
+    },
+    {
+      "viewport": "desktop",
+      "language": "ml",
+      "route": "/route",
+      "dir": null,
+      "overflow": false,
+      "title": "നിങ്ങളുടെ യാത്രയ്ക്ക് തയ്യാറാകൂ."
+    },
+    {
+      "viewport": "desktop",
+      "language": "ml",
+      "route": "/guide",
+      "dir": null,
+      "overflow": false,
+      "title": "നിങ്ങൾ എത്തുമ്പോൾ."
+    },
+    {
+      "viewport": "desktop",
+      "language": "ml",
+      "route": "/check",
+      "dir": null,
+      "overflow": false,
+      "title": "നിങ്ങൾക്ക് ന്യായമായ കൂലി കിട്ടുന്നുണ്ടോ?"
+    },
+    {
+      "viewport": "desktop",
+      "language": "ml",
+      "route": "/escalate",
+      "dir": null,
+      "overflow": false,
+      "title": "ആദ്യം നിങ്ങളുടെ കൂലി പരിശോധിക്കൂ."
+    },
+    {
+      "viewport": "phone",
+      "language": "en",
+      "route": "/",
+      "overflow": false,
+      "title": "A better tomorrowstarts with you."
+    },
+    {
+      "viewport": "phone",
+      "language": "en",
+      "route": "/predict",
+      "overflow": false,
+      "title": "Know what your work is worth."
+    },
+    {
+      "viewport": "phone",
+      "language": "en",
+      "route": "/opportunities",
+      "overflow": false,
+      "title": "Choose your city."
+    },
+    {
+      "viewport": "phone",
+      "language": "en",
+      "route": "/route",
+      "overflow": false,
+      "title": "Plan your journey."
+    },
+    {
+      "viewport": "phone",
+      "language": "en",
+      "route": "/guide",
+      "overflow": false,
+      "title": "When you arrive."
+    },
+    {
+      "viewport": "phone",
+      "language": "en",
+      "route": "/check",
+      "overflow": false,
+      "title": "Is your pay fair?"
+    },
+    {
+      "viewport": "phone",
+      "language": "en",
+      "route": "/escalate",
+      "overflow": false,
+      "title": "Check your pay first."
+    },
+    {
+      "viewport": "phone",
+      "language": "hi",
+      "route": "/",
+      "overflow": false,
+      "title": "एक बेहतर कलकी शुरुआत आपसे होती है।"
+    },
+    {
+      "viewport": "phone",
+      "language": "hi",
+      "route": "/predict",
+      "overflow": false,
+      "title": "अपने काम की मज़दूरी जानें।"
+    },
+    {
+      "viewport": "phone",
+      "language": "hi",
+      "route": "/opportunities",
+      "overflow": false,
+      "title": "अपना शहर चुनें।"
+    },
+    {
+      "viewport": "phone",
+      "language": "hi",
+      "route": "/route",
+      "overflow": false,
+      "title": "अपनी यात्रा की योजना बनाएँ।"
+    },
+    {
+      "viewport": "phone",
+      "language": "hi",
+      "route": "/guide",
+      "overflow": false,
+      "title": "जब आप पहुँचें।"
+    },
+    {
+      "viewport": "phone",
+      "language": "hi",
+      "route": "/check",
+      "overflow": false,
+      "title": "क्या आपकी मज़दूरी सही है?"
+    },
+    {
+      "viewport": "phone",
+      "language": "hi",
+      "route": "/escalate",
+      "overflow": false,
+      "title": "पहले अपनी मज़दूरी जाँचें।"
+    },
+    {
+      "viewport": "phone",
+      "language": "bn",
+      "route": "/",
+      "overflow": false,
+      "title": "এক সুন্দর আগামীশুরু হয় আপনাকে নিয়ে।"
+    },
+    {
+      "viewport": "phone",
+      "language": "bn",
+      "route": "/predict",
+      "overflow": false,
+      "title": "আপনার কাজের মজুরি জানুন।"
+    },
+    {
+      "viewport": "phone",
+      "language": "bn",
+      "route": "/opportunities",
+      "overflow": false,
+      "title": "আপনার শহর বাছুন।"
+    },
+    {
+      "viewport": "phone",
+      "language": "bn",
+      "route": "/route",
+      "overflow": false,
+      "title": "আপনার যাত্রার পরিকল্পনা করুন।"
+    },
+    {
+      "viewport": "phone",
+      "language": "bn",
+      "route": "/guide",
+      "overflow": false,
+      "title": "আপনি পৌঁছানোর পর।"
+    },
+    {
+      "viewport": "phone",
+      "language": "bn",
+      "route": "/check",
+      "overflow": false,
+      "title": "আপনার মজুরি কি ন্যায্য?"
+    },
+    {
+      "viewport": "phone",
+      "language": "bn",
+      "route": "/escalate",
+      "overflow": false,
+      "title": "আগে আপনার মজুরি দেখুন।"
+    },
+    {
+      "viewport": "phone",
+      "language": "mr",
+      "route": "/",
+      "overflow": false,
+      "title": "एक चांगला उद्यातुमच्यापासून सुरू होतो."
+    },
+    {
+      "viewport": "phone",
+      "language": "mr",
+      "route": "/predict",
+      "overflow": false,
+      "title": "तुमच्या कामाची मजुरी जाणून घ्या."
+    },
+    {
+      "viewport": "phone",
+      "language": "mr",
+      "route": "/opportunities",
+      "overflow": false,
+      "title": "तुमचे शहर निवडा."
+    },
+    {
+      "viewport": "phone",
+      "language": "mr",
+      "route": "/route",
+      "overflow": false,
+      "title": "तुमच्या प्रवासाची योजना करा."
+    },
+    {
+      "viewport": "phone",
+      "language": "mr",
+      "route": "/guide",
+      "overflow": false,
+      "title": "तुम्ही पोहोचल्यावर."
+    },
+    {
+      "viewport": "phone",
+      "language": "mr",
+      "route": "/check",
+      "overflow": false,
+      "title": "तुमची मजुरी योग्य आहे का?"
+    },
+    {
+      "viewport": "phone",
+      "language": "mr",
+      "route": "/escalate",
+      "overflow": false,
+      "title": "आधी तुमची मजुरी तपासा."
+    },
+    {
+      "viewport": "phone",
+      "language": "te",
+      "route": "/",
+      "overflow": false,
+      "title": "మంచి రేపటి రోజుమీతోనే మొదలవుతుంది."
+    },
+    {
+      "viewport": "phone",
+      "language": "te",
+      "route": "/predict",
+      "overflow": false,
+      "title": "మీ పనికి ఎంత కూలి వస్తుందో తెలుసుకోండి."
+    },
+    {
+      "viewport": "phone",
+      "language": "te",
+      "route": "/opportunities",
+      "overflow": false,
+      "title": "మీ నగరం ఎంచుకోండి."
+    },
+    {
+      "viewport": "phone",
+      "language": "te",
+      "route": "/route",
+      "overflow": false,
+      "title": "మీ ప్రయాణం ప్లాన్ చేసుకోండి."
+    },
+    {
+      "viewport": "phone",
+      "language": "te",
+      "route": "/guide",
+      "overflow": false,
+      "title": "మీరు చేరుకున్నాక."
+    },
+    {
+      "viewport": "phone",
+      "language": "te",
+      "route": "/check",
+      "overflow": false,
+      "title": "మీకు తగిన కూలి వస్తోందా?"
+    },
+    {
+      "viewport": "phone",
+      "language": "te",
+      "route": "/escalate",
+      "overflow": false,
+      "title": "ముందుగా మీ కూలి చూడండి."
+    },
+    {
+      "viewport": "phone",
+      "language": "ta",
+      "route": "/",
+      "overflow": false,
+      "title": "நல்ல நாளைஉங்களிடமிருந்து தொடங்குகிறது."
+    },
+    {
+      "viewport": "phone",
+      "language": "ta",
+      "route": "/predict",
+      "overflow": false,
+      "title": "உங்கள் வேலைக்கான கூலியைத் தெரிந்துகொள்ளுங்கள்."
+    },
+    {
+      "viewport": "phone",
+      "language": "ta",
+      "route": "/opportunities",
+      "overflow": false,
+      "title": "உங்கள் நகரத்தைத் தேர்ந்தெடுங்கள்."
+    },
+    {
+      "viewport": "phone",
+      "language": "ta",
+      "route": "/route",
+      "overflow": false,
+      "title": "உங்கள் பயணத்தைத் திட்டமிடுங்கள்."
+    },
+    {
+      "viewport": "phone",
+      "language": "ta",
+      "route": "/guide",
+      "overflow": false,
+      "title": "நீங்கள் வந்துசேர்ந்ததும்."
+    },
+    {
+      "viewport": "phone",
+      "language": "ta",
+      "route": "/check",
+      "overflow": false,
+      "title": "உங்களுக்கு நியாயமான கூலி கிடைக்கிறதா?"
+    },
+    {
+      "viewport": "phone",
+      "language": "ta",
+      "route": "/escalate",
+      "overflow": false,
+      "title": "முதலில் உங்கள் கூலியைப் பாருங்கள்."
+    },
+    {
+      "viewport": "phone",
+      "language": "gu",
+      "route": "/",
+      "overflow": false,
+      "title": "વધુ સારો આવતીકાલતમારાથી શરૂ થાય છે."
+    },
+    {
+      "viewport": "phone",
+      "language": "gu",
+      "route": "/predict",
+      "overflow": false,
+      "title": "તમારા કામની મજૂરી જાણો."
+    },
+    {
+      "viewport": "phone",
+      "language": "gu",
+      "route": "/opportunities",
+      "overflow": false,
+      "title": "તમારું શહેર પસંદ કરો."
+    },
+    {
+      "viewport": "phone",
+      "language": "gu",
+      "route": "/route",
+      "overflow": false,
+      "title": "તમારી મુસાફરીની યોજના બનાવો."
+    },
+    {
+      "viewport": "phone",
+      "language": "gu",
+      "route": "/guide",
+      "overflow": false,
+      "title": "તમે પહોંચો ત્યારે."
+    },
+    {
+      "viewport": "phone",
+      "language": "gu",
+      "route": "/check",
+      "overflow": false,
+      "title": "શું તમારી મજૂરી યોગ્ય છે?"
+    },
+    {
+      "viewport": "phone",
+      "language": "gu",
+      "route": "/escalate",
+      "overflow": false,
+      "title": "પહેલાં તમારી મજૂરી તપાસો."
+    },
+    {
+      "viewport": "phone",
+      "language": "ur",
+      "route": "/",
+      "overflow": false,
+      "title": "ایک بہتر کلآپ سے شروع ہوتا ہے۔"
+    },
+    {
+      "viewport": "phone",
+      "language": "ur",
+      "route": "/predict",
+      "overflow": false,
+      "title": "اپنے کام کی مزدوری جانیں۔"
+    },
+    {
+      "viewport": "phone",
+      "language": "ur",
+      "route": "/opportunities",
+      "overflow": false,
+      "title": "اپنا شہر چنیں۔"
+    },
+    {
+      "viewport": "phone",
+      "language": "ur",
+      "route": "/route",
+      "overflow": false,
+      "title": "اپنے سفر کی تیاری کریں۔"
+    },
+    {
+      "viewport": "phone",
+      "language": "ur",
+      "route": "/guide",
+      "overflow": false,
+      "title": "جب آپ پہنچیں۔"
+    },
+    {
+      "viewport": "phone",
+      "language": "ur",
+      "route": "/check",
+      "overflow": false,
+      "title": "کیا آپ کی مزدوری مناسب ہے؟"
+    },
+    {
+      "viewport": "phone",
+      "language": "ur",
+      "route": "/escalate",
+      "overflow": false,
+      "title": "پہلے اپنی مزدوری دیکھیں۔"
+    },
+    {
+      "viewport": "phone",
+      "language": "kn",
+      "route": "/",
+      "overflow": false,
+      "title": "ಒಳ್ಳೆಯ ನಾಳೆನಿಮ್ಮಿಂದಲೇ ಆರಂಭವಾಗುತ್ತದೆ."
+    },
+    {
+      "viewport": "phone",
+      "language": "kn",
+      "route": "/predict",
+      "overflow": false,
+      "title": "ನಿಮ್ಮ ಕೆಲಸದ ಕೂಲಿ ತಿಳಿದುಕೊಳ್ಳಿ."
+    },
+    {
+      "viewport": "phone",
+      "language": "kn",
+      "route": "/opportunities",
+      "overflow": false,
+      "title": "ನಿಮ್ಮ ನಗರ ಆಯ್ಕೆ ಮಾಡಿ."
+    },
+    {
+      "viewport": "phone",
+      "language": "kn",
+      "route": "/route",
+      "overflow": false,
+      "title": "ನಿಮ್ಮ ಪ್ರಯಾಣದ ಯೋಜನೆ ಮಾಡಿ."
+    },
+    {
+      "viewport": "phone",
+      "language": "kn",
+      "route": "/guide",
+      "overflow": false,
+      "title": "ನೀವು ತಲುಪಿದ ಮೇಲೆ."
+    },
+    {
+      "viewport": "phone",
+      "language": "kn",
+      "route": "/check",
+      "overflow": false,
+      "title": "ನಿಮಗೆ ನ್ಯಾಯವಾದ ಕೂಲಿ ಸಿಗುತ್ತಿದೆಯೇ?"
+    },
+    {
+      "viewport": "phone",
+      "language": "kn",
+      "route": "/escalate",
+      "overflow": false,
+      "title": "ಮೊದಲು ನಿಮ್ಮ ಕೂಲಿ ಪರಿಶೀಲಿಸಿ."
+    },
+    {
+      "viewport": "phone",
+      "language": "or",
+      "route": "/",
+      "overflow": false,
+      "title": "ଏକ ଭଲ ଆସନ୍ତାକାଲିଆପଣଙ୍କଠାରୁ ଆରମ୍ଭ ହୁଏ।"
+    },
+    {
+      "viewport": "phone",
+      "language": "or",
+      "route": "/predict",
+      "overflow": false,
+      "title": "ଆପଣଙ୍କ କାମର ମଜୁରି ଜାଣନ୍ତୁ।"
+    },
+    {
+      "viewport": "phone",
+      "language": "or",
+      "route": "/opportunities",
+      "overflow": false,
+      "title": "ଆପଣଙ୍କ ସହର ବାଛନ୍ତୁ।"
+    },
+    {
+      "viewport": "phone",
+      "language": "or",
+      "route": "/route",
+      "overflow": false,
+      "title": "ଆପଣଙ୍କ ଯାତ୍ରାର ଯୋଜନା କରନ୍ତୁ।"
+    },
+    {
+      "viewport": "phone",
+      "language": "or",
+      "route": "/guide",
+      "overflow": false,
+      "title": "ଆପଣ ପହଞ୍ଚିବା ପରେ।"
+    },
+    {
+      "viewport": "phone",
+      "language": "or",
+      "route": "/check",
+      "overflow": false,
+      "title": "ଆପଣଙ୍କ ମଜୁରି ଉଚିତ କି?"
+    },
+    {
+      "viewport": "phone",
+      "language": "or",
+      "route": "/escalate",
+      "overflow": false,
+      "title": "ପ୍ରଥମେ ଆପଣଙ୍କ ମଜୁରି ଯାଞ୍ଚ କରନ୍ତୁ।"
+    },
+    {
+      "viewport": "phone",
+      "language": "ml",
+      "route": "/",
+      "overflow": false,
+      "title": "ഒരു നല്ല നാളെനിങ്ങളിൽ നിന്നാണ് തുടങ്ങുന്നത്."
+    },
+    {
+      "viewport": "phone",
+      "language": "ml",
+      "route": "/predict",
+      "overflow": false,
+      "title": "നിങ്ങളുടെ ജോലിയുടെ കൂലി അറിയൂ."
+    },
+    {
+      "viewport": "phone",
+      "language": "ml",
+      "route": "/opportunities",
+      "overflow": false,
+      "title": "നിങ്ങളുടെ നഗരം തിരഞ്ഞെടുക്കൂ."
+    },
+    {
+      "viewport": "phone",
+      "language": "ml",
+      "route": "/route",
+      "overflow": false,
+      "title": "നിങ്ങളുടെ യാത്രയ്ക്ക് തയ്യാറാകൂ."
+    },
+    {
+      "viewport": "phone",
+      "language": "ml",
+      "route": "/guide",
+      "overflow": false,
+      "title": "നിങ്ങൾ എത്തുമ്പോൾ."
+    },
+    {
+      "viewport": "phone",
+      "language": "ml",
+      "route": "/check",
+      "overflow": false,
+      "title": "നിങ്ങൾക്ക് ന്യായമായ കൂലി കിട്ടുന്നുണ്ടോ?"
+    },
+    {
+      "viewport": "phone",
+      "language": "ml",
+      "route": "/escalate",
+      "overflow": false,
+      "title": "ആദ്യം നിങ്ങളുടെ കൂലി പരിശോധിക്കൂ."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-02",
+  "engine": "mms-vits-local",
+  "checks": [
+    {
+      "language": "ml",
+      "context": "welcome",
+      "first": {
+        "controls": false,
+        "duration": 11.186,
+        "hidden": true,
+        "locale": "ml-IN",
+        "paused": false,
+        "time": 0.045776
+      },
+      "next": {
+        "paused": false,
+        "time": 0.111175
+      },
+      "stopped": {
+        "paused": true,
+        "src": null
+      }
+    },
+    {
+      "language": "or",
+      "context": "welcome",
+      "observation": {
+        "controls": false,
+        "duration": 10.77,
+        "hidden": true,
+        "paused": false,
+        "time": 0.049812
+      },
+      "stopPassed": true
+    },
+    {
+      "language": "ml",
+      "context": "verdict",
+      "obs": {
+        "controls": false,
+        "duration": 29.636,
+        "gapCorrect": true,
+        "paused": false,
+        "time": 0.111136
+      },
+      "stopPassed": true
+    },
+    {
+      "language": "or",
+      "context": "verdict",
+      "obs": {
+        "controls": false,
+        "duration": 27.716,
+        "gapCorrect": true,
+        "paused": false,
+        "time": 0.043395
+      },
+      "stopPassed": true
+    },
+    {
+      "language": "ml",
+      "context": "predict",
+      "obs": {
+        "controls": false,
+        "duration": 22.222,
+        "paused": false,
+        "time": 0.016591
+      },
+      "stopPassed": true
+    },
+    {
+      "language": "ml",
+      "context": "guide",
+      "obs": {
+        "controls": false,
+        "duration": 24.266,
+        "paused": false,
+        "time": 0.044015
+      },
+      "stopPassed": true
+    },
+    {
+      "language": "or",
+      "context": "predict",
+      "obs": {
+        "controls": false,
+        "duration": 19.838,
+        "paused": false,
+        "time": 0.043031
+      },
+      "stopPassed": true
+    },
+    {
+      "language": "or",
+      "context": "guide",
+      "obs": {
+        "controls": false,
+        "duration": 25.77,
+        "ended": true,
+        "paused": true,
+        "time": 25.77
+      },
+      "played": true
+    }
+  ],
+  "englishNative": true,
+  "tamilNative": true,
+  "consoleErrors": []
+}
