@@ -2,7 +2,9 @@
 
 A multilingual companion for migrant construction workers. Compare wages and living costs, plan a journey, find arrival help and check your pay in simple words.
 
-![Voice of Wagers city chooser](screenshots/city-details.png)
+![Voice of Wagers arrival guide](screenshots/arrival-tabs.png)
+
+Arrival offers four simple sections: Help, Stay, Documents and Local words. Supplied city illustrations follow the chosen destination, with the route picture immediately above the pay summary.
 
 ## Get started
 

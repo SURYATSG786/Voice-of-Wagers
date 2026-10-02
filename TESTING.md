@@ -135,3 +135,10 @@ The city Details button now opens a centred native dialog with pay/cost/savings 
 ## Arrival yellow destination buttons
 
 All Arrival service/document/telephone links use yellow buttons with localized destination labels and unchanged URLs. Desktop panels fill the remaining viewport, with the checklist at the bottom; phones scroll naturally. 110 browser checks passed (five cities × eleven languages × 1366×768 desktop and 390×844 phone): no horizontal overflow, all links labelled and yellow, all desktop links visible and checklist within the viewport. Tamil checklist interaction passed. 155 automated tests and production build passed. Evidence: `eval/arrival-yellow-browser-checks.json`, `screenshots/arrival-yellow.png`.
+
+
+## Arrival tabs and supplied city pictures — October 2, 2026
+
+Arrival now shows Help, Stay, Documents and Local words one section at a time, with keyboard-accessible tabs and the first-day checklist retained. The six supplied illustrations appear above the route pay summary and update with the destination; small accents appear in page headings and the dashboard. Other page structures, sourced figures, URLs and speech behavior are unchanged.
+
+155 automated tests and the production build pass. 188 browser checks cover all four Arrival sections in eleven languages at 1366×768 and 390×844, all six route pictures in eleven languages, phone destination pictures, and seven page layouts in English and Tamil. No horizontal overflow or missing images was found. Following the last spacing adjustment, 66 additional desktop checks verified every destination in every language, including the source summary fitting inside the route panel. Evidence: `eval/pictures-browser-checks.json`, `eval/pictures-route-fit-checks.json` and picture test/build logs. Loaded final previews: `screenshots/arrival-tabs.png` and `screenshots/route-illustration.png`. Phones and expanded disclosures scroll naturally. These checks verify rendering and interaction; they do not certify native pronunciation or grammar.
