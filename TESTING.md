@@ -146,3 +146,7 @@ Arrival now shows Help, Stay, Documents and Local words one section at a time, w
 ## Arrival welcome without panel — October 2, 2026
 
 Removed only the initial Arrival mascot panel, preserving the companion, translated heading and description. The Arrival background overlay is lighter; other pages keep their existing background treatment. Production build passes. Eleven browser checks confirmed a transparent, borderless welcome with mascot and translated wording retained and no horizontal overflow. The populated guide still opens from Show Help. Preview: `screenshots/arrival-welcome.png`; evidence: `eval/arrival-welcome-checks.json`.
+
+## Supplied app icon — October 2, 2026
+
+The supplied PNG is preserved intact as the header logo, browser favicon, Apple touch icon and web manifest icon. The production build passes; both PNG and manifest are served successfully. Browser verification confirmed the header image loaded at its reserved size, all icon references point to the supplied asset, and the dashboard has no horizontal overflow. This verifies web icon integration, not installation on a physical device.

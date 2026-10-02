@@ -1,0 +1,16 @@
+{
+  "name": "Voice of Wagers",
+  "short_name": "Voice of Wagers",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e6f5fc",
+  "theme_color": "#e6f5fc",
+  "icons": [
+    {
+      "src": "/app-icon.png",
+      "sizes": "1280x1280",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
