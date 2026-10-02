@@ -305,7 +305,7 @@ Open **http://127.0.0.1:5173**. Starts Vite and the Express API together.
 
 <img src="./assets/divider.svg" width="100%" height="4"/>
 
-## Two-Minute Demo For Judges
+## Two-Minute Demo 
 
 | Step | Action |
 |---|---|
