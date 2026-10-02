@@ -1,0 +1,19 @@
+✔ readable Word copy in en (46.522916ms)
+✔ readable Word copy in hi (10.167959ms)
+✔ readable Word copy in bn (8.43525ms)
+✔ readable Word copy in mr (9.639458ms)
+✔ readable Word copy in te (9.83125ms)
+✔ readable Word copy in ta (8.722166ms)
+✔ readable Word copy in gu (7.343042ms)
+✔ readable Word copy in ur (7.973333ms)
+✔ readable Word copy in kn (7.695ms)
+✔ readable Word copy in or (8.417084ms)
+✔ readable Word copy in ml (6.860583ms)
+ℹ tests 11
+ℹ suites 0
+ℹ pass 11
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 249.745167

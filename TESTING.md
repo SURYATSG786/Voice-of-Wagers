@@ -150,3 +150,9 @@ Removed only the initial Arrival mascot panel, preserving the companion, transla
 ## Supplied app icon — October 2, 2026
 
 The supplied PNG is preserved intact as the header logo, browser favicon, Apple touch icon and web manifest icon. The production build passes; both PNG and manifest are served successfully. Browser verification confirmed the header image loaded at its reserved size, all icon references point to the supplied asset, and the dashboard has no horizontal overflow. This verifies web icon integration, not installation on a physical device.
+
+## Readable Word download — October 2, 2026
+
+Download My Copy now exports a genuine Word DOCX in the selected language, with plain labels for city, work, supplied pay, monthly comparison, calculation assumptions and source. The note keeps the provisional comparison and privacy guidance; JSON field names are absent. Document generation is loaded only when requested, and errors are displayed. No external delivery is added.
+
+166 automated tests pass, including eleven Word package/content checks for all languages and Urdu paragraph direction. After the final wording refinement all eleven document checks pass again and the production build passes. The real browser flow (pay check, consent, preparation, download) saved a valid DOCX to Downloads with correct amounts and no app errors. The English export rendered to one page and was visually inspected. Other languages have structural/content verification; their printed layouts were not visually certified.

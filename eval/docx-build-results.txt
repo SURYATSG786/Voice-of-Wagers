@@ -1,0 +1,21 @@
+
+> shram-saathi@1.0.0 build
+> vite build --config client/vite.config.js
+
+vite v7.3.6 building client environment for production...
+transforming...
+node_modules/react-router/dist/development/index.mjs (11:0): Module level directives cause errors when bundled, "use client" in "node_modules/react-router/dist/development/index.mjs" was ignored.
+node_modules/react-router/dist/development/dom-export.mjs (1:0): Module level directives cause errors when bundled, "use client" in "node_modules/react-router/dist/development/dom-export.mjs" was ignored.
+✓ 1604 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                           0.76 kB │ gzip:   0.45 kB
+dist/assets/index-CisCbWyf.css          109.86 kB │ gzip:  26.16 kB
+dist/assets/caseDocument-BruJlyio.js    362.05 kB │ gzip: 106.17 kB
+dist/assets/index-BiMT2Quy.js         1,041.60 kB │ gzip: 282.67 kB
+
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 2.54s
