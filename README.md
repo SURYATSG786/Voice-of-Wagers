@@ -55,6 +55,7 @@ TESTING.md    Verification evidence and known limits
 ## Verification
 
 ```sh
+npm run setup:speech  # required for the real speech tests
 npm test
 npm run eval
 npm run build
