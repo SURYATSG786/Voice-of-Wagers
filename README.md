@@ -74,3 +74,9 @@ Chennai and Gurgaon show official **state-wide** worker records with distinct me
 Speech recognition depends on browser/device support and microphone permission. Optional Gemini extraction needs your own server-side key: copy `.env.example` to `.env` and configure it locally. Keep personal details out of free text when enabling that external service. No keys are included.
 
 Runtime searches and consented cases are stored locally under ignored `.runtime/`. Dependencies, model weights, caches, runtime records and secrets are excluded from this repository. This app is a local demo; public hosting and real human case review require additional setup.
+
+### Landing page and dashboard
+
+Open `/` for the introduction. Scroll through the page and choose **Start with Saathi** to open the dashboard at `/home`. The top navigation also offers the same entry button. Existing feature URLs, such as `/guide` and `/route`, still open directly.
+
+The supplied introduction is stored in `client/public/welcome/`, with its images, stylesheet and script kept separately. City cards and the sample pay comparison use the app’s existing API, so they follow the same figures and calculations as the dashboard.

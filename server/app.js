@@ -65,6 +65,7 @@ export function createApp({runtimeDir=path.join(root,'.runtime'),enableAI=true,r
  app.post('/api/pulse/log-search',action((req,res)=>{const city=cityRecord(req.body.destination_city).city;events.push({city,at:new Date().toISOString()});events=events.filter(e=>Date.now()-Date.parse(e.at)<7*86400000);save('pulse.json',events);res.json({logged:true});}));
  app.get('/api/pulse/top',(_,res)=>{const week=events.filter(e=>Date.now()-Date.parse(e.at)<7*86400000),counts={};week.forEach(e=>counts[e.city]=(counts[e.city]||0)+1);res.json({has_sufficient_data:week.length>=10,threshold:10,top_destinations:week.length>=10?Object.entries(counts).map(([city,count])=>({city,count})).sort((a,b)=>b.count-a.count||a.city.localeCompare(b.city)):[],total_logged_searches:week.length,data_source:'live_app_usage',window:'last_7_days',note:'Searches, not unique workers; includes real testing activity.'});});
  app.use('/api',(_,res)=>res.status(404).json({error:'Endpoint not found.'}));
+ app.get('/',(_,res)=>res.sendFile(path.join(root,'client/dist/welcome/index.html')));
  app.use(express.static(path.join(root,'client/dist')));
  app.get('/{*splat}',(_,res)=>res.sendFile(path.join(root,'client/dist/index.html')));
  app.use((err,req,res,next)=>{res.status(err.status||500).json({error:err.status?err.message:'Something went wrong. Please try again.'});});

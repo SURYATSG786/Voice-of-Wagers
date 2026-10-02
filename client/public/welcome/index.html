@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"/><link rel="icon" href="/app-icon.png"/><link rel="apple-touch-icon" href="/app-icon.png"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>
+<title>Voice of Wagers — Know Your Worth, in Your Own Language</title>
+<meta name="description" content="An AI migration companion that helps workers plan the move, arrive with confidence and compare their pay — in English and 10 Indian languages."/>
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;800&family=Nunito:wght@500;700;800&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet"/>
+<link rel="stylesheet" href="/welcome/landing.css"/><noscript><style>.rev{opacity:1;transform:none}</style></noscript></head><body><a class="skip-link" href="#top">Skip to content</a><nav aria-label="Introduction navigation"><a class="brand" href="#top">Voice of Wagers</a><a href="#saathi">How it helps</a><a href="#cities">Cities</a><a href="#langs">Languages</a><a class="btn cta" href="/home">Start with Saathi</a></nav>
+<div id="stage"><div class="night"></div><div class="dawn"></div>
+<div class="orb"><div class="moon" id="moon"><i style="width:24px;height:24px;top:20px;left:28px"></i><i style="width:14px;height:14px;top:56px;left:72px"></i><i style="width:12px;height:12px;top:80px;left:38px"></i></div><div class="sun"></div></div></div>
+<canvas id="fx"></canvas>
+<svg class="skyline" viewBox="0 0 1200 300" preserveAspectRatio="none"><path fill="#050a1c" d="M0 300V210h50v-40h40v50h40v-90h50v70h30v-30h50v110h40v-60h40v-80h60v90h40v-40h50v70h40v-100h50v60h50v-50h40v120h50v-70h40v-40h50v80h60v-60h40v90h50V300z"/><path fill="#0a1330" opacity=".8" d="M0 300v-60h80v-30h60v50h70v-70h40v60h90v-40h60v70h80v-50h70v30h90v-60h60v80h80v-30h70v50h80v-40h80V300z"/></svg>
+<main>
+<section id="top"><div class="wrap hero">
+<div class="rev"><div class="kick">BFWAI/HACK 26 · PS-06 · AI FOR BHARAT</div>
+<h1>Know your worth. <span class="grad">Wherever you work.</span></h1>
+<p class="lead">An AI migration companion that helps workers plan the move, arrive with confidence and compare their pay — in English and 10 Indian languages.</p>
+<a class="btn" href="#pay" id="start">Check my pay</a> <a class="btn ghost" href="#cities">Compare cities</a>
+<div class="pills"><span class="pill">Patna → Delhi</span><span class="pill">Gurgaon</span><span class="pill">Noida</span><span class="pill">Chennai</span><span class="pill">Mumbai</span></div></div>
+<div class="mascot rev"><div class="bubble" id="bub">Namaste! I'm Saathi. Scroll down to reach the app.</div><br><img id="mas" src="/welcome/assets/8c57d9ad8aff.webp" alt="Saathi, the Voice of Wagers mascot"/></div>
+</div></section>
+
+<section id="problem"><div class="wrap"><div class="kick rev">THE PROBLEM</div><h2 class="rev">Three blind spots on every migrant journey</h2>
+<p class="lead rev">Migrant construction workers hit the same gaps at every stage — and rarely get help in their own language.</p>
+<div class="grid g3">
+<div class="card rev"><div class="ico">🧭</div><div class="num grad" data-n="1891">1,891</div><h3>approx. road km, Patna → Chennai</h3><p>Planning blind: workers commit to long moves without a clear view of pay, rent, food or savings.</p></div>
+<div class="card rev"><div class="ico">🏗️</div><div class="num grad" data-n="4">4</div><h3>needs on day one</h3><p>Arriving alone: labour office, hospital, housing and documents — and an unfamiliar language.</p></div>
+<div class="card rev"><div class="ico">💸</div><div class="num grad">₹<span data-n="3290">3,290</span></div><h3>monthly gap, worked example</h3><p>₹400 a day sounds fair until it is set against the ₹13,690 monthly benchmark for the same work.</p></div></div></div></section>
+
+<section id="saathi"><div class="wrap"><div class="kick rev">THE SOLUTION</div><h2 class="rev">Meet Saathi: one companion, the whole journey</h2>
+<div class="grid g3" style="margin-top:20px">
+<div class="card rev"><div class="ico">📈</div><h3>Wage outlook</h3><p>See the pay figure for your city and work, and where it came from.</p></div>
+<div class="card rev"><div class="ico">🏙️</div><h3>Compare cities</h3><p>Pay, rent, food and estimated savings across five cities.</p></div>
+<div class="card rev"><div class="ico">🗺️</div><h3>Plan your route</h3><p>Road map and kilometres between Patna, Noida, Chennai, Delhi, Gurgaon and Mumbai.</p></div>
+<div class="card rev"><div class="ico">📍</div><h3>Arrival guide</h3><p>Help, stay, documents and local words, plus a first-day checklist.</p></div>
+<div class="card rev"><div class="ico">🎙️</div><h3>Fair pay check</h3><p>Speak or type your pay and get a clear verdict against the benchmark.</p></div>
+<div class="card rev"><div class="ico">🤝</div><h3>Get help</h3><p>Save a readable pay note for a trusted person to check. The app does not send it to a help organisation.</p></div></div></div></section>
+
+<section id="cities"><div class="wrap split">
+<div><div class="kick rev">COMPARE CITIES</div><h2 class="rev">See what you may save</h2>
+<p class="lead rev">Monthly pay, shared rent, food and savings — one card per city. Tap a city.</p>
+<div class="cities" id="cityGrid"></div>
+<div class="card" id="cityInfo"></div></div>
+<div class="rev"><img loading="lazy" decoding="async" class="shot" src="/welcome/assets/8a247513a6df.webp" alt="Cities comparison screen"/><div class="phones" style="margin-top:16px"><img loading="lazy" decoding="async" src="/welcome/assets/fca35b54b457.webp" alt="Route planner" style="width:48%;transform:none"/><img loading="lazy" decoding="async" src="/welcome/assets/c69f0cb6170b.webp" alt="Arrival guide" style="width:48%;transform:none"/></div></div>
+</div></section>
+
+<section id="pay"><div class="wrap split">
+<div><div class="kick rev">TRY A PAY COMPARISON</div><h2 class="rev">Know your pay. <span class="grad">See the difference.</span></h2>
+<p class="lead rev">Enter your daily pay. We use 26 paid days a month to compare it with the city’s pay figure. Confirm the figure with the labour office.</p>
+<div class="card">
+<div class="field"><select id="pc" aria-label="City and work"><option value="Noida">Noida · Helper</option><option value="Chennai">Chennai · Construction work</option><option value="Delhi">Delhi · Helper</option><option value="Gurgaon">Gurgaon · Helper</option><option value="Mumbai">Mumbai · Helper</option></select>
+<input id="pd" type="number" inputmode="numeric" min="0" step="any" value="400" aria-label="Daily pay in rupees"/></div>
+<button class="btn" id="chk" style="width:100%">Check my pay</button>
+<div class="verdict" id="vd"><img id="vimg" src="/welcome/assets/31ba58496956.webp" alt=""/><div id="vtx"></div></div></div></div>
+<div class="rev"><img loading="lazy" decoding="async" class="shot" src="/welcome/assets/3b27217b12fd.jpeg" alt="Fair pay screen"/></div>
+</div></section>
+
+<section id="langs"><div class="wrap"><div class="kick rev">LANGUAGES AND VOICE</div><h2 class="rev">English + 10 Indian languages, made for phones</h2>
+<div class="tabs" id="tabs"></div><div class="card"><div class="say" id="say"></div><p style="color:var(--tm);margin-top:8px" id="sub"></p></div>
+<div class="phones" style="margin-top:34px"><img loading="lazy" decoding="async" src="/welcome/assets/4ceaca1d12ce.webp" alt="Hindi"/><img loading="lazy" decoding="async" src="/welcome/assets/c62f3f211aca.webp" alt="Tamil"/><img loading="lazy" decoding="async" src="/welcome/assets/9b294007c2d3.webp" alt="Urdu right-to-left"/></div>
+<div class="pills" style="justify-content:center"><span class="pill">Speak or type</span><span class="pill">Native-script digits</span><span class="pill">Read aloud</span><span class="pill">Urdu RTL</span></div></div></section>
+
+<section id="trust"><div class="wrap split"><div><div class="kick rev">TRUST</div><h2 class="rev">Honest by design: we show the gaps</h2>
+<ul class="trust rev"><li><b>Wages say “needs checking.”</b> Sourced, dated, never a legal ruling.</li><li><b>Estimates are tagged.</b> Rent, food and savings carry an Estimated badge.</li><li><b>Records stay in scope.</b> State-wide figures, never presented as city counts.</li><li><b>Nothing is invented.</b> Missing data shows as unavailable.</li><li><b>You decide what to share.</b> Pay notes stay on this app’s server. If AI is enabled, entered details may be sent to Gemini.</li></ul></div>
+<div class="grid" style="grid-template-columns:1fr 1fr"><div class="card stat rev"><div class="num">160+</div><p>automated tests passing</p></div><div class="card stat rev"><div class="num" data-n="6">6</div><p>cities for road routes</p></div><div class="card stat rev"><div class="num">40/40</div><p>wage-verdict scenarios</p></div><div class="card stat rev"><div class="num">15/15</div><p>wage-prediction scenarios</p></div>
+<div class="card rev" style="grid-column:1/-1"><p><b>How it works:</b> Clear screens, sourced city information, road maps, fixed pay calculations and read-aloud support. Optional AI helps read entered details and phrase English responses.</p></div></div></div></section>
+
+<section id="finale"><div class="wrap finale"><div class="mascot rev"><img loading="lazy" decoding="async" src="/welcome/assets/0b8c9ce6cfe2.webp" alt="Saathi celebrating"/></div>
+<h2 class="rev">Ready to <span class="grad">rise</span>?</h2><p class="lead rev" style="margin-inline:auto">Your work deserves respect. Let’s take the next step together.</p>
+<a class="btn" id="rise" href="/home">Start with Saathi</a> <a class="btn ghost" href="https://github.com/SURYATSG786/Voice-of-Wagers" target="_blank" rel="noopener">View on GitHub</a></div></section>
+</main>
+<footer>Voice of Wagers · Team Akatsuki · BFWAI/HACK 26 · Wage figures need confirmation with the labour office; not a legal ruling.</footer>
+<script src="/welcome/landing.js" defer></script></body></html>
