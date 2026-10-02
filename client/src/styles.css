@@ -290,3 +290,9 @@ main[data-page='/guide'] .arrival-content{padding:20px;gap:12px}main[data-page='
  .route-tool-grid .input-context .cost-grid>div{padding:9px 12px}
  .route-tool-grid>.panel:first-child>.input-context{padding-top:4px}
 }
+/* Arrival welcome: let the city scene show behind the companion. */
+main[data-page='/guide'] .arrival-welcome{flex:1;display:grid;place-items:center;min-height:230px;padding:20px 12px;background:none;border:0;box-shadow:none;backdrop-filter:none}
+main[data-page='/guide'] .arrival-welcome .empty{width:100%;gap:14px}
+main[data-page='/guide'] .arrival-welcome .empty h3,main[data-page='/guide'] .arrival-welcome .empty p{text-shadow:0 1px 5px #fff,0 0 16px #ffffffe6}
+main[data-page='/guide'] .scene-backdrop::after{background:linear-gradient(180deg,#f1f9fbee 0%,#f3fafac9 35%,#f5fafa99 70%,#f1f8fa8c 100%)}
+@media(max-width:900px){main[data-page='/guide'] .arrival-welcome{min-height:300px}}

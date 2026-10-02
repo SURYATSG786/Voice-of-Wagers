@@ -1,0 +1,90 @@
+[
+  {
+    "language": "en",
+    "border": true,
+    "mascot": true,
+    "overflow": false,
+    "transparent": true,
+    "words": true
+  },
+  {
+    "language": "hi",
+    "border": true,
+    "mascot": true,
+    "overflow": false,
+    "transparent": true,
+    "words": true
+  },
+  {
+    "language": "bn",
+    "border": true,
+    "mascot": true,
+    "overflow": false,
+    "transparent": true,
+    "words": true
+  },
+  {
+    "language": "mr",
+    "border": true,
+    "mascot": true,
+    "overflow": false,
+    "transparent": true,
+    "words": true
+  },
+  {
+    "language": "te",
+    "border": true,
+    "mascot": true,
+    "overflow": false,
+    "transparent": true,
+    "words": true
+  },
+  {
+    "language": "ta",
+    "border": true,
+    "mascot": true,
+    "overflow": false,
+    "transparent": true,
+    "words": true
+  },
+  {
+    "language": "gu",
+    "border": true,
+    "mascot": true,
+    "overflow": false,
+    "transparent": true,
+    "words": true
+  },
+  {
+    "language": "ur",
+    "border": true,
+    "mascot": true,
+    "overflow": false,
+    "transparent": true,
+    "words": true
+  },
+  {
+    "language": "kn",
+    "border": true,
+    "mascot": true,
+    "overflow": false,
+    "transparent": true,
+    "words": true
+  },
+  {
+    "language": "or",
+    "border": true,
+    "mascot": true,
+    "overflow": false,
+    "transparent": true,
+    "words": true
+  },
+  {
+    "language": "ml",
+    "border": true,
+    "mascot": true,
+    "overflow": false,
+    "transparent": true,
+    "words": true
+  }
+]
