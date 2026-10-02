@@ -130,3 +130,8 @@ All 155 automated tests pass, including three new tests for metric/scope/source 
 ## Focused city details dialog
 
 The city Details button now opens a centred native dialog with pay/cost/savings summaries, three next steps and two source disclosures. 155 automated tests passed and the production build passed. `eval/city-dialog-browser-checks.json` records 110 checks: five cities × eleven languages × desktop (1366×768) and phone (390×844). All dialogs stayed within viewport bounds with no horizontal overflow, three action links and focus inside the open dialog. Tamil sources, Escape close, focus restoration and Chennai journey navigation were checked interactively. Expanded source content scrolls inside the dialog on smaller screens.
+
+
+## Arrival yellow destination buttons
+
+All Arrival service/document/telephone links use yellow buttons with localized destination labels and unchanged URLs. Desktop panels fill the remaining viewport, with the checklist at the bottom; phones scroll naturally. 110 browser checks passed (five cities × eleven languages × 1366×768 desktop and 390×844 phone): no horizontal overflow, all links labelled and yellow, all desktop links visible and checklist within the viewport. Tamil checklist interaction passed. 155 automated tests and production build passed. Evidence: `eval/arrival-yellow-browser-checks.json`, `screenshots/arrival-yellow.png`.

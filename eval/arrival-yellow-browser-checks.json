@@ -1,0 +1,4919 @@
+[
+  {
+    "lang": "en",
+    "city": "Chennai",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "Labour office",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "Emergency\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "About emergency number 112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "eShram registration",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "Jan Dhan bank account",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "State construction worker welfare board",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "en",
+    "city": "Delhi",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://labour.delhi.gov.in/",
+        "text": "Labour office",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "Emergency\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:155214",
+        "text": "Labour office\n155214",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "About emergency number 112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://labour.delhi.gov.in/labour/current-minimum-wage-rate",
+        "text": "Labour office contact details",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "eShram registration",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "Jan Dhan bank account",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://bocw.delhi.gov.in/",
+        "text": "State construction worker welfare board",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "en",
+    "city": "Gurgaon",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "Labour office",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "Emergency\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "About emergency number 112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "eShram registration",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "Jan Dhan bank account",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "State construction worker welfare board",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "en",
+    "city": "Mumbai",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://mahakamgar.maharashtra.gov.in/",
+        "text": "Labour office",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "Emergency\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "About emergency number 112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "eShram registration",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "Jan Dhan bank account",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://mahabocw.in/",
+        "text": "State construction worker welfare board",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "en",
+    "city": "Noida",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://gbnagar.nic.in/",
+        "text": "Labour office",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "Emergency\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "About emergency number 112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "eShram registration",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "Jan Dhan bank account",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://upbocw.in/",
+        "text": "State construction worker welfare board",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "hi",
+    "city": "Chennai",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "श्रम कार्यालय",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "मुसीबत में मदद\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "आपातकालीन नंबर 112 की जानकारी",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ई-श्रम पंजीकरण",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "जन धन बैंक खाता",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "राज्य निर्माण मज़दूर कल्याण बोर्ड",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "hi",
+    "city": "Delhi",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://labour.delhi.gov.in/",
+        "text": "श्रम कार्यालय",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "मुसीबत में मदद\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:155214",
+        "text": "श्रम कार्यालय\n155214",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "आपातकालीन नंबर 112 की जानकारी",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://labour.delhi.gov.in/labour/current-minimum-wage-rate",
+        "text": "श्रम कार्यालय के संपर्क",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ई-श्रम पंजीकरण",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "जन धन बैंक खाता",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://bocw.delhi.gov.in/",
+        "text": "राज्य निर्माण मज़दूर कल्याण बोर्ड",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "hi",
+    "city": "Gurgaon",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "श्रम कार्यालय",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "मुसीबत में मदद\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "आपातकालीन नंबर 112 की जानकारी",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ई-श्रम पंजीकरण",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "जन धन बैंक खाता",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "राज्य निर्माण मज़दूर कल्याण बोर्ड",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "hi",
+    "city": "Mumbai",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://mahakamgar.maharashtra.gov.in/",
+        "text": "श्रम कार्यालय",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "मुसीबत में मदद\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "आपातकालीन नंबर 112 की जानकारी",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ई-श्रम पंजीकरण",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "जन धन बैंक खाता",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://mahabocw.in/",
+        "text": "राज्य निर्माण मज़दूर कल्याण बोर्ड",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "hi",
+    "city": "Noida",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://gbnagar.nic.in/",
+        "text": "श्रम कार्यालय",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "मुसीबत में मदद\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "आपातकालीन नंबर 112 की जानकारी",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ई-श्रम पंजीकरण",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "जन धन बैंक खाता",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://upbocw.in/",
+        "text": "राज्य निर्माण मज़दूर कल्याण बोर्ड",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "bn",
+    "city": "Chennai",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "শ্রম দপ্তর",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "জরুরি সাহায্য\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "জরুরি নম্বর 112 সম্পর্কে",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ই-শ্রমে নাম লেখানো",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "জন ধন ব্যাঙ্ক অ্যাকাউন্ট",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "রাজ্য নির্মাণ শ্রমিক কল্যাণ বোর্ড",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "bn",
+    "city": "Delhi",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://labour.delhi.gov.in/",
+        "text": "শ্রম দপ্তর",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "জরুরি সাহায্য\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:155214",
+        "text": "শ্রম দপ্তর\n155214",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "জরুরি নম্বর 112 সম্পর্কে",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://labour.delhi.gov.in/labour/current-minimum-wage-rate",
+        "text": "শ্রম দপ্তরের যোগাযোগ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ই-শ্রমে নাম লেখানো",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "জন ধন ব্যাঙ্ক অ্যাকাউন্ট",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://bocw.delhi.gov.in/",
+        "text": "রাজ্য নির্মাণ শ্রমিক কল্যাণ বোর্ড",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "bn",
+    "city": "Gurgaon",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "শ্রম দপ্তর",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "জরুরি সাহায্য\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "জরুরি নম্বর 112 সম্পর্কে",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ই-শ্রমে নাম লেখানো",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "জন ধন ব্যাঙ্ক অ্যাকাউন্ট",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "রাজ্য নির্মাণ শ্রমিক কল্যাণ বোর্ড",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "bn",
+    "city": "Mumbai",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://mahakamgar.maharashtra.gov.in/",
+        "text": "শ্রম দপ্তর",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "জরুরি সাহায্য\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "জরুরি নম্বর 112 সম্পর্কে",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ই-শ্রমে নাম লেখানো",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "জন ধন ব্যাঙ্ক অ্যাকাউন্ট",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://mahabocw.in/",
+        "text": "রাজ্য নির্মাণ শ্রমিক কল্যাণ বোর্ড",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "bn",
+    "city": "Noida",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://gbnagar.nic.in/",
+        "text": "শ্রম দপ্তর",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "জরুরি সাহায্য\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "জরুরি নম্বর 112 সম্পর্কে",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ই-শ্রমে নাম লেখানো",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "জন ধন ব্যাঙ্ক অ্যাকাউন্ট",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://upbocw.in/",
+        "text": "রাজ্য নির্মাণ শ্রমিক কল্যাণ বোর্ড",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "mr",
+    "city": "Chennai",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "कामगार कार्यालय",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "तातडीची मदत\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "तातडीच्या मदतीचा क्रमांक 112 बद्दल",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ई-श्रम नोंदणी",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "जन धन बँक खाते",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "राज्य बांधकाम कामगार कल्याण मंडळ",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "mr",
+    "city": "Delhi",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://labour.delhi.gov.in/",
+        "text": "कामगार कार्यालय",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "तातडीची मदत\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:155214",
+        "text": "कामगार कार्यालय\n155214",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "तातडीच्या मदतीचा क्रमांक 112 बद्दल",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://labour.delhi.gov.in/labour/current-minimum-wage-rate",
+        "text": "कामगार कार्यालयाचा संपर्क",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ई-श्रम नोंदणी",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "जन धन बँक खाते",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://bocw.delhi.gov.in/",
+        "text": "राज्य बांधकाम कामगार कल्याण मंडळ",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "mr",
+    "city": "Gurgaon",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "कामगार कार्यालय",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "तातडीची मदत\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "तातडीच्या मदतीचा क्रमांक 112 बद्दल",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ई-श्रम नोंदणी",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "जन धन बँक खाते",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "राज्य बांधकाम कामगार कल्याण मंडळ",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "mr",
+    "city": "Mumbai",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://mahakamgar.maharashtra.gov.in/",
+        "text": "कामगार कार्यालय",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "तातडीची मदत\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "तातडीच्या मदतीचा क्रमांक 112 बद्दल",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ई-श्रम नोंदणी",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "जन धन बँक खाते",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://mahabocw.in/",
+        "text": "राज्य बांधकाम कामगार कल्याण मंडळ",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "mr",
+    "city": "Noida",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://gbnagar.nic.in/",
+        "text": "कामगार कार्यालय",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "तातडीची मदत\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "तातडीच्या मदतीचा क्रमांक 112 बद्दल",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ई-श्रम नोंदणी",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "जन धन बँक खाते",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://upbocw.in/",
+        "text": "राज्य बांधकाम कामगार कल्याण मंडळ",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "te",
+    "city": "Chennai",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "కార్మిక శాఖ కార్యాలయం",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "అత్యవసర సాయం\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "అత్యవసర నంబరు 112 గురించి",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ఈ-శ్రమ్ నమోదు",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "జన్ ధన్ బ్యాంకు ఖాతా",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "రాష్ట్ర నిర్మాణ కార్మిక సంక్షేమ బోర్డు",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "te",
+    "city": "Delhi",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://labour.delhi.gov.in/",
+        "text": "కార్మిక శాఖ కార్యాలయం",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "అత్యవసర సాయం\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:155214",
+        "text": "కార్మిక శాఖ కార్యాలయం\n155214",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "అత్యవసర నంబరు 112 గురించి",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://labour.delhi.gov.in/labour/current-minimum-wage-rate",
+        "text": "కార్మిక శాఖ సంప్రదింపు వివరాలు",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ఈ-శ్రమ్ నమోదు",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "జన్ ధన్ బ్యాంకు ఖాతా",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://bocw.delhi.gov.in/",
+        "text": "రాష్ట్ర నిర్మాణ కార్మిక సంక్షేమ బోర్డు",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "te",
+    "city": "Gurgaon",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "కార్మిక శాఖ కార్యాలయం",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "అత్యవసర సాయం\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "అత్యవసర నంబరు 112 గురించి",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ఈ-శ్రమ్ నమోదు",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "జన్ ధన్ బ్యాంకు ఖాతా",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "రాష్ట్ర నిర్మాణ కార్మిక సంక్షేమ బోర్డు",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "te",
+    "city": "Mumbai",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://mahakamgar.maharashtra.gov.in/",
+        "text": "కార్మిక శాఖ కార్యాలయం",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "అత్యవసర సాయం\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "అత్యవసర నంబరు 112 గురించి",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ఈ-శ్రమ్ నమోదు",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "జన్ ధన్ బ్యాంకు ఖాతా",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://mahabocw.in/",
+        "text": "రాష్ట్ర నిర్మాణ కార్మిక సంక్షేమ బోర్డు",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "te",
+    "city": "Noida",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://gbnagar.nic.in/",
+        "text": "కార్మిక శాఖ కార్యాలయం",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "అత్యవసర సాయం\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "అత్యవసర నంబరు 112 గురించి",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ఈ-శ్రమ్ నమోదు",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "జన్ ధన్ బ్యాంకు ఖాతా",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://upbocw.in/",
+        "text": "రాష్ట్ర నిర్మాణ కార్మిక సంక్షేమ బోర్డు",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ta",
+    "city": "Chennai",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "தொழிலாளர் அலுவலகம்",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "அவசர உதவி\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "அவசர எண் 112 பற்றி",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "இ-ஷ்ரம் பதிவு",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ஜன் தன் வங்கிக் கணக்கு",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "மாநில கட்டுமானத் தொழிலாளர் நல வாரியம்",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ta",
+    "city": "Delhi",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://labour.delhi.gov.in/",
+        "text": "தொழிலாளர் அலுவலகம்",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "அவசர உதவி\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:155214",
+        "text": "தொழிலாளர் அலுவலகம்\n155214",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "அவசர எண் 112 பற்றி",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://labour.delhi.gov.in/labour/current-minimum-wage-rate",
+        "text": "தொழிலாளர் அலுவலகத் தொடர்புகள்",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "இ-ஷ்ரம் பதிவு",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ஜன் தன் வங்கிக் கணக்கு",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://bocw.delhi.gov.in/",
+        "text": "மாநில கட்டுமானத் தொழிலாளர் நல வாரியம்",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ta",
+    "city": "Gurgaon",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "தொழிலாளர் அலுவலகம்",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "அவசர உதவி\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "அவசர எண் 112 பற்றி",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "இ-ஷ்ரம் பதிவு",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ஜன் தன் வங்கிக் கணக்கு",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "மாநில கட்டுமானத் தொழிலாளர் நல வாரியம்",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ta",
+    "city": "Mumbai",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://mahakamgar.maharashtra.gov.in/",
+        "text": "தொழிலாளர் அலுவலகம்",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "அவசர உதவி\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "அவசர எண் 112 பற்றி",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "இ-ஷ்ரம் பதிவு",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ஜன் தன் வங்கிக் கணக்கு",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://mahabocw.in/",
+        "text": "மாநில கட்டுமானத் தொழிலாளர் நல வாரியம்",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ta",
+    "city": "Noida",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://gbnagar.nic.in/",
+        "text": "தொழிலாளர் அலுவலகம்",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "அவசர உதவி\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "அவசர எண் 112 பற்றி",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "இ-ஷ்ரம் பதிவு",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ஜன் தன் வங்கிக் கணக்கு",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://upbocw.in/",
+        "text": "மாநில கட்டுமானத் தொழிலாளர் நல வாரியம்",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "gu",
+    "city": "Chennai",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "શ્રમ કચેરી",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "તાત્કાલિક મદદ\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "તાત્કાલિક મદદના નંબર 112 વિશે",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ઈ-શ્રમ નોંધણી",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "જન ધન બેંક ખાતું",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "રાજ્ય બાંધકામ મજૂર કલ્યાણ બોર્ડ",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "gu",
+    "city": "Delhi",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://labour.delhi.gov.in/",
+        "text": "શ્રમ કચેરી",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "તાત્કાલિક મદદ\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:155214",
+        "text": "શ્રમ કચેરી\n155214",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "તાત્કાલિક મદદના નંબર 112 વિશે",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://labour.delhi.gov.in/labour/current-minimum-wage-rate",
+        "text": "શ્રમ કચેરીનો સંપર્ક",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ઈ-શ્રમ નોંધણી",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "જન ધન બેંક ખાતું",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://bocw.delhi.gov.in/",
+        "text": "રાજ્ય બાંધકામ મજૂર કલ્યાણ બોર્ડ",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "gu",
+    "city": "Gurgaon",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "શ્રમ કચેરી",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "તાત્કાલિક મદદ\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "તાત્કાલિક મદદના નંબર 112 વિશે",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ઈ-શ્રમ નોંધણી",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "જન ધન બેંક ખાતું",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "રાજ્ય બાંધકામ મજૂર કલ્યાણ બોર્ડ",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "gu",
+    "city": "Mumbai",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://mahakamgar.maharashtra.gov.in/",
+        "text": "શ્રમ કચેરી",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "તાત્કાલિક મદદ\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "તાત્કાલિક મદદના નંબર 112 વિશે",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ઈ-શ્રમ નોંધણી",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "જન ધન બેંક ખાતું",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://mahabocw.in/",
+        "text": "રાજ્ય બાંધકામ મજૂર કલ્યાણ બોર્ડ",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "gu",
+    "city": "Noida",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://gbnagar.nic.in/",
+        "text": "શ્રમ કચેરી",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "તાત્કાલિક મદદ\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "તાત્કાલિક મદદના નંબર 112 વિશે",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ઈ-શ્રમ નોંધણી",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "જન ધન બેંક ખાતું",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://upbocw.in/",
+        "text": "રાજ્ય બાંધકામ મજૂર કલ્યાણ બોર્ડ",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ur",
+    "city": "Chennai",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "محکمۂ محنت کا دفتر",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ہنگامی مدد\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ہنگامی نمبر 112 کی معلومات",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ای شرم میں اندراج",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "جن دھن بینک کھاتہ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "ریاستی تعمیراتی مزدور فلاحی بورڈ",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ur",
+    "city": "Delhi",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://labour.delhi.gov.in/",
+        "text": "محکمۂ محنت کا دفتر",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ہنگامی مدد\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:155214",
+        "text": "محکمۂ محنت کا دفتر\n155214",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ہنگامی نمبر 112 کی معلومات",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://labour.delhi.gov.in/labour/current-minimum-wage-rate",
+        "text": "محکمۂ محنت کے دفتر کا رابطہ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ای شرم میں اندراج",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "جن دھن بینک کھاتہ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://bocw.delhi.gov.in/",
+        "text": "ریاستی تعمیراتی مزدور فلاحی بورڈ",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ur",
+    "city": "Gurgaon",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "محکمۂ محنت کا دفتر",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ہنگامی مدد\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ہنگامی نمبر 112 کی معلومات",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ای شرم میں اندراج",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "جن دھن بینک کھاتہ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "ریاستی تعمیراتی مزدور فلاحی بورڈ",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ur",
+    "city": "Mumbai",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://mahakamgar.maharashtra.gov.in/",
+        "text": "محکمۂ محنت کا دفتر",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ہنگامی مدد\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ہنگامی نمبر 112 کی معلومات",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ای شرم میں اندراج",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "جن دھن بینک کھاتہ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://mahabocw.in/",
+        "text": "ریاستی تعمیراتی مزدور فلاحی بورڈ",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ur",
+    "city": "Noida",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://gbnagar.nic.in/",
+        "text": "محکمۂ محنت کا دفتر",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ہنگامی مدد\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ہنگامی نمبر 112 کی معلومات",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ای شرم میں اندراج",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "جن دھن بینک کھاتہ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://upbocw.in/",
+        "text": "ریاستی تعمیراتی مزدور فلاحی بورڈ",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "kn",
+    "city": "Chennai",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "ಕಾರ್ಮಿಕ ಕಚೇರಿ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ತುರ್ತು ಸಹಾಯ\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ತುರ್ತು ಸಂಖ್ಯೆ 112 ಬಗ್ಗೆ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ಇ-ಶ್ರಮ ನೋಂದಣಿ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ಜನ್ ಧನ್ ಬ್ಯಾಂಕ್ ಖಾತೆ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "ರಾಜ್ಯ ಕಟ್ಟಡ ಕಾರ್ಮಿಕ ಕಲ್ಯಾಣ ಮಂಡಳಿ",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "kn",
+    "city": "Delhi",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://labour.delhi.gov.in/",
+        "text": "ಕಾರ್ಮಿಕ ಕಚೇರಿ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ತುರ್ತು ಸಹಾಯ\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:155214",
+        "text": "ಕಾರ್ಮಿಕ ಕಚೇರಿ\n155214",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ತುರ್ತು ಸಂಖ್ಯೆ 112 ಬಗ್ಗೆ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://labour.delhi.gov.in/labour/current-minimum-wage-rate",
+        "text": "ಕಾರ್ಮಿಕ ಕಚೇರಿಯ ಸಂಪರ್ಕ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ಇ-ಶ್ರಮ ನೋಂದಣಿ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ಜನ್ ಧನ್ ಬ್ಯಾಂಕ್ ಖಾತೆ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://bocw.delhi.gov.in/",
+        "text": "ರಾಜ್ಯ ಕಟ್ಟಡ ಕಾರ್ಮಿಕ ಕಲ್ಯಾಣ ಮಂಡಳಿ",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "kn",
+    "city": "Gurgaon",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "ಕಾರ್ಮಿಕ ಕಚೇರಿ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ತುರ್ತು ಸಹಾಯ\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ತುರ್ತು ಸಂಖ್ಯೆ 112 ಬಗ್ಗೆ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ಇ-ಶ್ರಮ ನೋಂದಣಿ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ಜನ್ ಧನ್ ಬ್ಯಾಂಕ್ ಖಾತೆ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "ರಾಜ್ಯ ಕಟ್ಟಡ ಕಾರ್ಮಿಕ ಕಲ್ಯಾಣ ಮಂಡಳಿ",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "kn",
+    "city": "Mumbai",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://mahakamgar.maharashtra.gov.in/",
+        "text": "ಕಾರ್ಮಿಕ ಕಚೇರಿ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ತುರ್ತು ಸಹಾಯ\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ತುರ್ತು ಸಂಖ್ಯೆ 112 ಬಗ್ಗೆ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ಇ-ಶ್ರಮ ನೋಂದಣಿ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ಜನ್ ಧನ್ ಬ್ಯಾಂಕ್ ಖಾತೆ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://mahabocw.in/",
+        "text": "ರಾಜ್ಯ ಕಟ್ಟಡ ಕಾರ್ಮಿಕ ಕಲ್ಯಾಣ ಮಂಡಳಿ",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "kn",
+    "city": "Noida",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://gbnagar.nic.in/",
+        "text": "ಕಾರ್ಮಿಕ ಕಚೇರಿ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ತುರ್ತು ಸಹಾಯ\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ತುರ್ತು ಸಂಖ್ಯೆ 112 ಬಗ್ಗೆ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ಇ-ಶ್ರಮ ನೋಂದಣಿ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ಜನ್ ಧನ್ ಬ್ಯಾಂಕ್ ಖಾತೆ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://upbocw.in/",
+        "text": "ರಾಜ್ಯ ಕಟ್ಟಡ ಕಾರ್ಮಿಕ ಕಲ್ಯಾಣ ಮಂಡಳಿ",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "or",
+    "city": "Chennai",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "ଶ୍ରମ କାର୍ଯ୍ୟାଳୟ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ଜରୁରୀ ସାହାଯ୍ୟ\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ଜରୁରୀ ନମ୍ବର 112 ବିଷୟରେ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ଇ-ଶ୍ରମ ପଞ୍ଜୀକରଣ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ଜନ ଧନ ବ୍ୟାଙ୍କ ଖାତା",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "ରାଜ୍ୟ ନିର୍ମାଣ ଶ୍ରମିକ କଲ୍ୟାଣ ବୋର୍ଡ",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "or",
+    "city": "Delhi",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://labour.delhi.gov.in/",
+        "text": "ଶ୍ରମ କାର୍ଯ୍ୟାଳୟ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ଜରୁରୀ ସାହାଯ୍ୟ\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:155214",
+        "text": "ଶ୍ରମ କାର୍ଯ୍ୟାଳୟ\n155214",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ଜରୁରୀ ନମ୍ବର 112 ବିଷୟରେ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://labour.delhi.gov.in/labour/current-minimum-wage-rate",
+        "text": "ଶ୍ରମ କାର୍ଯ୍ୟାଳୟର ଯୋଗାଯୋଗ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ଇ-ଶ୍ରମ ପଞ୍ଜୀକରଣ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ଜନ ଧନ ବ୍ୟାଙ୍କ ଖାତା",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://bocw.delhi.gov.in/",
+        "text": "ରାଜ୍ୟ ନିର୍ମାଣ ଶ୍ରମିକ କଲ୍ୟାଣ ବୋର୍ଡ",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "or",
+    "city": "Gurgaon",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "ଶ୍ରମ କାର୍ଯ୍ୟାଳୟ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ଜରୁରୀ ସାହାଯ୍ୟ\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ଜରୁରୀ ନମ୍ବର 112 ବିଷୟରେ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ଇ-ଶ୍ରମ ପଞ୍ଜୀକରଣ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ଜନ ଧନ ବ୍ୟାଙ୍କ ଖାତା",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "ରାଜ୍ୟ ନିର୍ମାଣ ଶ୍ରମିକ କଲ୍ୟାଣ ବୋର୍ଡ",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "or",
+    "city": "Mumbai",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://mahakamgar.maharashtra.gov.in/",
+        "text": "ଶ୍ରମ କାର୍ଯ୍ୟାଳୟ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ଜରୁରୀ ସାହାଯ୍ୟ\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ଜରୁରୀ ନମ୍ବର 112 ବିଷୟରେ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ଇ-ଶ୍ରମ ପଞ୍ଜୀକରଣ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ଜନ ଧନ ବ୍ୟାଙ୍କ ଖାତା",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://mahabocw.in/",
+        "text": "ରାଜ୍ୟ ନିର୍ମାଣ ଶ୍ରମିକ କଲ୍ୟାଣ ବୋର୍ଡ",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "or",
+    "city": "Noida",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://gbnagar.nic.in/",
+        "text": "ଶ୍ରମ କାର୍ଯ୍ୟାଳୟ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ଜରୁରୀ ସାହାଯ୍ୟ\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ଜରୁରୀ ନମ୍ବର 112 ବିଷୟରେ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ଇ-ଶ୍ରମ ପଞ୍ଜୀକରଣ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ଜନ ଧନ ବ୍ୟାଙ୍କ ଖାତା",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://upbocw.in/",
+        "text": "ରାଜ୍ୟ ନିର୍ମାଣ ଶ୍ରମିକ କଲ୍ୟାଣ ବୋର୍ଡ",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ml",
+    "city": "Chennai",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "തൊഴിൽ വകുപ്പ് ഓഫീസ്",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "അടിയന്തര സഹായം\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "അടിയന്തര നമ്പർ 112 സംബന്ധിച്ച്",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ഇ-ശ്രം രജിസ്ട്രേഷൻ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ജൻ ധൻ ബാങ്ക് അക്കൗണ്ട്",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "സംസ്ഥാന നിർമാണ തൊഴിലാളി ക്ഷേമ ബോർഡ്",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ml",
+    "city": "Delhi",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://labour.delhi.gov.in/",
+        "text": "തൊഴിൽ വകുപ്പ് ഓഫീസ്",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "അടിയന്തര സഹായം\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:155214",
+        "text": "തൊഴിൽ വകുപ്പ് ഓഫീസ്\n155214",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "അടിയന്തര നമ്പർ 112 സംബന്ധിച്ച്",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://labour.delhi.gov.in/labour/current-minimum-wage-rate",
+        "text": "തൊഴിൽ വകുപ്പ് ഓഫീസിന്റെ ബന്ധപ്പെടാനുള്ള വിവരങ്ങൾ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ഇ-ശ്രം രജിസ്ട്രേഷൻ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ജൻ ധൻ ബാങ്ക് അക്കൗണ്ട്",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://bocw.delhi.gov.in/",
+        "text": "സംസ്ഥാന നിർമാണ തൊഴിലാളി ക്ഷേമ ബോർഡ്",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ml",
+    "city": "Gurgaon",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "തൊഴിൽ വകുപ്പ് ഓഫീസ്",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "അടിയന്തര സഹായം\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "അടിയന്തര നമ്പർ 112 സംബന്ധിച്ച്",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ഇ-ശ്രം രജിസ്ട്രേഷൻ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ജൻ ധൻ ബാങ്ക് അക്കൗണ്ട്",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "സംസ്ഥാന നിർമാണ തൊഴിലാളി ക്ഷേമ ബോർഡ്",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ml",
+    "city": "Mumbai",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://mahakamgar.maharashtra.gov.in/",
+        "text": "തൊഴിൽ വകുപ്പ് ഓഫീസ്",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "അടിയന്തര സഹായം\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "അടിയന്തര നമ്പർ 112 സംബന്ധിച്ച്",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ഇ-ശ്രം രജിസ്ട്രേഷൻ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ജൻ ധൻ ബാങ്ക് അക്കൗണ്ട്",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://mahabocw.in/",
+        "text": "സംസ്ഥാന നിർമാണ തൊഴിലാളി ക്ഷേമ ബോർഡ്",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ml",
+    "city": "Noida",
+    "width": 1366,
+    "height": 768,
+    "checklistBottom": 754,
+    "links": [
+      {
+        "href": "https://gbnagar.nic.in/",
+        "text": "തൊഴിൽ വകുപ്പ് ഓഫീസ്",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "അടിയന്തര സഹായം\n112",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "അടിയന്തര നമ്പർ 112 സംബന്ധിച്ച്",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ഇ-ശ്രം രജിസ്ട്രേഷൻ",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ജൻ ധൻ ബാങ്ക് അക്കൗണ്ട്",
+        "visible": true,
+        "yellow": true
+      },
+      {
+        "href": "https://upbocw.in/",
+        "text": "സംസ്ഥാന നിർമാണ തൊഴിലാളി ക്ഷേമ ബോർഡ്",
+        "visible": true,
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "en",
+    "city": "Chennai",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "Labour office",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "Emergency\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "About emergency number 112",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "eShram registration",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "Jan Dhan bank account",
+        "yellow": true
+      },
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "State construction worker welfare board",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "en",
+    "city": "Delhi",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://labour.delhi.gov.in/",
+        "text": "Labour office",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "Emergency\n112",
+        "yellow": true
+      },
+      {
+        "href": "tel:155214",
+        "text": "Labour office\n155214",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "About emergency number 112",
+        "yellow": true
+      },
+      {
+        "href": "https://labour.delhi.gov.in/labour/current-minimum-wage-rate",
+        "text": "Labour office contact details",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "eShram registration",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "Jan Dhan bank account",
+        "yellow": true
+      },
+      {
+        "href": "https://bocw.delhi.gov.in/",
+        "text": "State construction worker welfare board",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "en",
+    "city": "Gurgaon",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "Labour office",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "Emergency\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "About emergency number 112",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "eShram registration",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "Jan Dhan bank account",
+        "yellow": true
+      },
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "State construction worker welfare board",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "en",
+    "city": "Mumbai",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://mahakamgar.maharashtra.gov.in/",
+        "text": "Labour office",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "Emergency\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "About emergency number 112",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "eShram registration",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "Jan Dhan bank account",
+        "yellow": true
+      },
+      {
+        "href": "https://mahabocw.in/",
+        "text": "State construction worker welfare board",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "en",
+    "city": "Noida",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://gbnagar.nic.in/",
+        "text": "Labour office",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "Emergency\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "About emergency number 112",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "eShram registration",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "Jan Dhan bank account",
+        "yellow": true
+      },
+      {
+        "href": "https://upbocw.in/",
+        "text": "State construction worker welfare board",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "hi",
+    "city": "Chennai",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "श्रम कार्यालय",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "मुसीबत में मदद\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "आपातकालीन नंबर 112 की जानकारी",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ई-श्रम पंजीकरण",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "जन धन बैंक खाता",
+        "yellow": true
+      },
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "राज्य निर्माण मज़दूर कल्याण बोर्ड",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "hi",
+    "city": "Delhi",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://labour.delhi.gov.in/",
+        "text": "श्रम कार्यालय",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "मुसीबत में मदद\n112",
+        "yellow": true
+      },
+      {
+        "href": "tel:155214",
+        "text": "श्रम कार्यालय\n155214",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "आपातकालीन नंबर 112 की जानकारी",
+        "yellow": true
+      },
+      {
+        "href": "https://labour.delhi.gov.in/labour/current-minimum-wage-rate",
+        "text": "श्रम कार्यालय के संपर्क",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ई-श्रम पंजीकरण",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "जन धन बैंक खाता",
+        "yellow": true
+      },
+      {
+        "href": "https://bocw.delhi.gov.in/",
+        "text": "राज्य निर्माण मज़दूर कल्याण बोर्ड",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "hi",
+    "city": "Gurgaon",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "श्रम कार्यालय",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "मुसीबत में मदद\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "आपातकालीन नंबर 112 की जानकारी",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ई-श्रम पंजीकरण",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "जन धन बैंक खाता",
+        "yellow": true
+      },
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "राज्य निर्माण मज़दूर कल्याण बोर्ड",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "hi",
+    "city": "Mumbai",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://mahakamgar.maharashtra.gov.in/",
+        "text": "श्रम कार्यालय",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "मुसीबत में मदद\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "आपातकालीन नंबर 112 की जानकारी",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ई-श्रम पंजीकरण",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "जन धन बैंक खाता",
+        "yellow": true
+      },
+      {
+        "href": "https://mahabocw.in/",
+        "text": "राज्य निर्माण मज़दूर कल्याण बोर्ड",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "hi",
+    "city": "Noida",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://gbnagar.nic.in/",
+        "text": "श्रम कार्यालय",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "मुसीबत में मदद\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "आपातकालीन नंबर 112 की जानकारी",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ई-श्रम पंजीकरण",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "जन धन बैंक खाता",
+        "yellow": true
+      },
+      {
+        "href": "https://upbocw.in/",
+        "text": "राज्य निर्माण मज़दूर कल्याण बोर्ड",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "bn",
+    "city": "Chennai",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "শ্রম দপ্তর",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "জরুরি সাহায্য\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "জরুরি নম্বর 112 সম্পর্কে",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ই-শ্রমে নাম লেখানো",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "জন ধন ব্যাঙ্ক অ্যাকাউন্ট",
+        "yellow": true
+      },
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "রাজ্য নির্মাণ শ্রমিক কল্যাণ বোর্ড",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "bn",
+    "city": "Delhi",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://labour.delhi.gov.in/",
+        "text": "শ্রম দপ্তর",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "জরুরি সাহায্য\n112",
+        "yellow": true
+      },
+      {
+        "href": "tel:155214",
+        "text": "শ্রম দপ্তর\n155214",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "জরুরি নম্বর 112 সম্পর্কে",
+        "yellow": true
+      },
+      {
+        "href": "https://labour.delhi.gov.in/labour/current-minimum-wage-rate",
+        "text": "শ্রম দপ্তরের যোগাযোগ",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ই-শ্রমে নাম লেখানো",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "জন ধন ব্যাঙ্ক অ্যাকাউন্ট",
+        "yellow": true
+      },
+      {
+        "href": "https://bocw.delhi.gov.in/",
+        "text": "রাজ্য নির্মাণ শ্রমিক কল্যাণ বোর্ড",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "bn",
+    "city": "Gurgaon",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "শ্রম দপ্তর",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "জরুরি সাহায্য\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "জরুরি নম্বর 112 সম্পর্কে",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ই-শ্রমে নাম লেখানো",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "জন ধন ব্যাঙ্ক অ্যাকাউন্ট",
+        "yellow": true
+      },
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "রাজ্য নির্মাণ শ্রমিক কল্যাণ বোর্ড",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "bn",
+    "city": "Mumbai",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://mahakamgar.maharashtra.gov.in/",
+        "text": "শ্রম দপ্তর",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "জরুরি সাহায্য\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "জরুরি নম্বর 112 সম্পর্কে",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ই-শ্রমে নাম লেখানো",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "জন ধন ব্যাঙ্ক অ্যাকাউন্ট",
+        "yellow": true
+      },
+      {
+        "href": "https://mahabocw.in/",
+        "text": "রাজ্য নির্মাণ শ্রমিক কল্যাণ বোর্ড",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "bn",
+    "city": "Noida",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://gbnagar.nic.in/",
+        "text": "শ্রম দপ্তর",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "জরুরি সাহায্য\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "জরুরি নম্বর 112 সম্পর্কে",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ই-শ্রমে নাম লেখানো",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "জন ধন ব্যাঙ্ক অ্যাকাউন্ট",
+        "yellow": true
+      },
+      {
+        "href": "https://upbocw.in/",
+        "text": "রাজ্য নির্মাণ শ্রমিক কল্যাণ বোর্ড",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "mr",
+    "city": "Chennai",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "कामगार कार्यालय",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "तातडीची मदत\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "तातडीच्या मदतीचा क्रमांक 112 बद्दल",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ई-श्रम नोंदणी",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "जन धन बँक खाते",
+        "yellow": true
+      },
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "राज्य बांधकाम कामगार कल्याण मंडळ",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "mr",
+    "city": "Delhi",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://labour.delhi.gov.in/",
+        "text": "कामगार कार्यालय",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "तातडीची मदत\n112",
+        "yellow": true
+      },
+      {
+        "href": "tel:155214",
+        "text": "कामगार कार्यालय\n155214",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "तातडीच्या मदतीचा क्रमांक 112 बद्दल",
+        "yellow": true
+      },
+      {
+        "href": "https://labour.delhi.gov.in/labour/current-minimum-wage-rate",
+        "text": "कामगार कार्यालयाचा संपर्क",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ई-श्रम नोंदणी",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "जन धन बँक खाते",
+        "yellow": true
+      },
+      {
+        "href": "https://bocw.delhi.gov.in/",
+        "text": "राज्य बांधकाम कामगार कल्याण मंडळ",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "mr",
+    "city": "Gurgaon",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "कामगार कार्यालय",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "तातडीची मदत\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "तातडीच्या मदतीचा क्रमांक 112 बद्दल",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ई-श्रम नोंदणी",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "जन धन बँक खाते",
+        "yellow": true
+      },
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "राज्य बांधकाम कामगार कल्याण मंडळ",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "mr",
+    "city": "Mumbai",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://mahakamgar.maharashtra.gov.in/",
+        "text": "कामगार कार्यालय",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "तातडीची मदत\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "तातडीच्या मदतीचा क्रमांक 112 बद्दल",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ई-श्रम नोंदणी",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "जन धन बँक खाते",
+        "yellow": true
+      },
+      {
+        "href": "https://mahabocw.in/",
+        "text": "राज्य बांधकाम कामगार कल्याण मंडळ",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "mr",
+    "city": "Noida",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://gbnagar.nic.in/",
+        "text": "कामगार कार्यालय",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "तातडीची मदत\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "तातडीच्या मदतीचा क्रमांक 112 बद्दल",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ई-श्रम नोंदणी",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "जन धन बँक खाते",
+        "yellow": true
+      },
+      {
+        "href": "https://upbocw.in/",
+        "text": "राज्य बांधकाम कामगार कल्याण मंडळ",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "te",
+    "city": "Chennai",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "కార్మిక శాఖ కార్యాలయం",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "అత్యవసర సాయం\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "అత్యవసర నంబరు 112 గురించి",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ఈ-శ్రమ్ నమోదు",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "జన్ ధన్ బ్యాంకు ఖాతా",
+        "yellow": true
+      },
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "రాష్ట్ర నిర్మాణ కార్మిక సంక్షేమ బోర్డు",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "te",
+    "city": "Delhi",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://labour.delhi.gov.in/",
+        "text": "కార్మిక శాఖ కార్యాలయం",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "అత్యవసర సాయం\n112",
+        "yellow": true
+      },
+      {
+        "href": "tel:155214",
+        "text": "కార్మిక శాఖ కార్యాలయం\n155214",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "అత్యవసర నంబరు 112 గురించి",
+        "yellow": true
+      },
+      {
+        "href": "https://labour.delhi.gov.in/labour/current-minimum-wage-rate",
+        "text": "కార్మిక శాఖ సంప్రదింపు వివరాలు",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ఈ-శ్రమ్ నమోదు",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "జన్ ధన్ బ్యాంకు ఖాతా",
+        "yellow": true
+      },
+      {
+        "href": "https://bocw.delhi.gov.in/",
+        "text": "రాష్ట్ర నిర్మాణ కార్మిక సంక్షేమ బోర్డు",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "te",
+    "city": "Gurgaon",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "కార్మిక శాఖ కార్యాలయం",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "అత్యవసర సాయం\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "అత్యవసర నంబరు 112 గురించి",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ఈ-శ్రమ్ నమోదు",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "జన్ ధన్ బ్యాంకు ఖాతా",
+        "yellow": true
+      },
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "రాష్ట్ర నిర్మాణ కార్మిక సంక్షేమ బోర్డు",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "te",
+    "city": "Mumbai",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://mahakamgar.maharashtra.gov.in/",
+        "text": "కార్మిక శాఖ కార్యాలయం",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "అత్యవసర సాయం\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "అత్యవసర నంబరు 112 గురించి",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ఈ-శ్రమ్ నమోదు",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "జన్ ధన్ బ్యాంకు ఖాతా",
+        "yellow": true
+      },
+      {
+        "href": "https://mahabocw.in/",
+        "text": "రాష్ట్ర నిర్మాణ కార్మిక సంక్షేమ బోర్డు",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "te",
+    "city": "Noida",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://gbnagar.nic.in/",
+        "text": "కార్మిక శాఖ కార్యాలయం",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "అత్యవసర సాయం\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "అత్యవసర నంబరు 112 గురించి",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ఈ-శ్రమ్ నమోదు",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "జన్ ధన్ బ్యాంకు ఖాతా",
+        "yellow": true
+      },
+      {
+        "href": "https://upbocw.in/",
+        "text": "రాష్ట్ర నిర్మాణ కార్మిక సంక్షేమ బోర్డు",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ta",
+    "city": "Chennai",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "தொழிலாளர் அலுவலகம்",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "அவசர உதவி\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "அவசர எண் 112 பற்றி",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "இ-ஷ்ரம் பதிவு",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ஜன் தன் வங்கிக் கணக்கு",
+        "yellow": true
+      },
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "மாநில கட்டுமானத் தொழிலாளர் நல வாரியம்",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ta",
+    "city": "Delhi",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://labour.delhi.gov.in/",
+        "text": "தொழிலாளர் அலுவலகம்",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "அவசர உதவி\n112",
+        "yellow": true
+      },
+      {
+        "href": "tel:155214",
+        "text": "தொழிலாளர் அலுவலகம்\n155214",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "அவசர எண் 112 பற்றி",
+        "yellow": true
+      },
+      {
+        "href": "https://labour.delhi.gov.in/labour/current-minimum-wage-rate",
+        "text": "தொழிலாளர் அலுவலகத் தொடர்புகள்",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "இ-ஷ்ரம் பதிவு",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ஜன் தன் வங்கிக் கணக்கு",
+        "yellow": true
+      },
+      {
+        "href": "https://bocw.delhi.gov.in/",
+        "text": "மாநில கட்டுமானத் தொழிலாளர் நல வாரியம்",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ta",
+    "city": "Gurgaon",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "தொழிலாளர் அலுவலகம்",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "அவசர உதவி\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "அவசர எண் 112 பற்றி",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "இ-ஷ்ரம் பதிவு",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ஜன் தன் வங்கிக் கணக்கு",
+        "yellow": true
+      },
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "மாநில கட்டுமானத் தொழிலாளர் நல வாரியம்",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ta",
+    "city": "Mumbai",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://mahakamgar.maharashtra.gov.in/",
+        "text": "தொழிலாளர் அலுவலகம்",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "அவசர உதவி\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "அவசர எண் 112 பற்றி",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "இ-ஷ்ரம் பதிவு",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ஜன் தன் வங்கிக் கணக்கு",
+        "yellow": true
+      },
+      {
+        "href": "https://mahabocw.in/",
+        "text": "மாநில கட்டுமானத் தொழிலாளர் நல வாரியம்",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ta",
+    "city": "Noida",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://gbnagar.nic.in/",
+        "text": "தொழிலாளர் அலுவலகம்",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "அவசர உதவி\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "அவசர எண் 112 பற்றி",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "இ-ஷ்ரம் பதிவு",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ஜன் தன் வங்கிக் கணக்கு",
+        "yellow": true
+      },
+      {
+        "href": "https://upbocw.in/",
+        "text": "மாநில கட்டுமானத் தொழிலாளர் நல வாரியம்",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "gu",
+    "city": "Chennai",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "શ્રમ કચેરી",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "તાત્કાલિક મદદ\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "તાત્કાલિક મદદના નંબર 112 વિશે",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ઈ-શ્રમ નોંધણી",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "જન ધન બેંક ખાતું",
+        "yellow": true
+      },
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "રાજ્ય બાંધકામ મજૂર કલ્યાણ બોર્ડ",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "gu",
+    "city": "Delhi",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://labour.delhi.gov.in/",
+        "text": "શ્રમ કચેરી",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "તાત્કાલિક મદદ\n112",
+        "yellow": true
+      },
+      {
+        "href": "tel:155214",
+        "text": "શ્રમ કચેરી\n155214",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "તાત્કાલિક મદદના નંબર 112 વિશે",
+        "yellow": true
+      },
+      {
+        "href": "https://labour.delhi.gov.in/labour/current-minimum-wage-rate",
+        "text": "શ્રમ કચેરીનો સંપર્ક",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ઈ-શ્રમ નોંધણી",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "જન ધન બેંક ખાતું",
+        "yellow": true
+      },
+      {
+        "href": "https://bocw.delhi.gov.in/",
+        "text": "રાજ્ય બાંધકામ મજૂર કલ્યાણ બોર્ડ",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "gu",
+    "city": "Gurgaon",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "શ્રમ કચેરી",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "તાત્કાલિક મદદ\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "તાત્કાલિક મદદના નંબર 112 વિશે",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ઈ-શ્રમ નોંધણી",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "જન ધન બેંક ખાતું",
+        "yellow": true
+      },
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "રાજ્ય બાંધકામ મજૂર કલ્યાણ બોર્ડ",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "gu",
+    "city": "Mumbai",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://mahakamgar.maharashtra.gov.in/",
+        "text": "શ્રમ કચેરી",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "તાત્કાલિક મદદ\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "તાત્કાલિક મદદના નંબર 112 વિશે",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ઈ-શ્રમ નોંધણી",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "જન ધન બેંક ખાતું",
+        "yellow": true
+      },
+      {
+        "href": "https://mahabocw.in/",
+        "text": "રાજ્ય બાંધકામ મજૂર કલ્યાણ બોર્ડ",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "gu",
+    "city": "Noida",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://gbnagar.nic.in/",
+        "text": "શ્રમ કચેરી",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "તાત્કાલિક મદદ\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "તાત્કાલિક મદદના નંબર 112 વિશે",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ઈ-શ્રમ નોંધણી",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "જન ધન બેંક ખાતું",
+        "yellow": true
+      },
+      {
+        "href": "https://upbocw.in/",
+        "text": "રાજ્ય બાંધકામ મજૂર કલ્યાણ બોર્ડ",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ur",
+    "city": "Chennai",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "محکمۂ محنت کا دفتر",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ہنگامی مدد\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ہنگامی نمبر 112 کی معلومات",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ای شرم میں اندراج",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "جن دھن بینک کھاتہ",
+        "yellow": true
+      },
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "ریاستی تعمیراتی مزدور فلاحی بورڈ",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ur",
+    "city": "Delhi",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://labour.delhi.gov.in/",
+        "text": "محکمۂ محنت کا دفتر",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ہنگامی مدد\n112",
+        "yellow": true
+      },
+      {
+        "href": "tel:155214",
+        "text": "محکمۂ محنت کا دفتر\n155214",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ہنگامی نمبر 112 کی معلومات",
+        "yellow": true
+      },
+      {
+        "href": "https://labour.delhi.gov.in/labour/current-minimum-wage-rate",
+        "text": "محکمۂ محنت کے دفتر کا رابطہ",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ای شرم میں اندراج",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "جن دھن بینک کھاتہ",
+        "yellow": true
+      },
+      {
+        "href": "https://bocw.delhi.gov.in/",
+        "text": "ریاستی تعمیراتی مزدور فلاحی بورڈ",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ur",
+    "city": "Gurgaon",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "محکمۂ محنت کا دفتر",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ہنگامی مدد\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ہنگامی نمبر 112 کی معلومات",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ای شرم میں اندراج",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "جن دھن بینک کھاتہ",
+        "yellow": true
+      },
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "ریاستی تعمیراتی مزدور فلاحی بورڈ",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ur",
+    "city": "Mumbai",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://mahakamgar.maharashtra.gov.in/",
+        "text": "محکمۂ محنت کا دفتر",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ہنگامی مدد\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ہنگامی نمبر 112 کی معلومات",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ای شرم میں اندراج",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "جن دھن بینک کھاتہ",
+        "yellow": true
+      },
+      {
+        "href": "https://mahabocw.in/",
+        "text": "ریاستی تعمیراتی مزدور فلاحی بورڈ",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ur",
+    "city": "Noida",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://gbnagar.nic.in/",
+        "text": "محکمۂ محنت کا دفتر",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ہنگامی مدد\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ہنگامی نمبر 112 کی معلومات",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ای شرم میں اندراج",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "جن دھن بینک کھاتہ",
+        "yellow": true
+      },
+      {
+        "href": "https://upbocw.in/",
+        "text": "ریاستی تعمیراتی مزدور فلاحی بورڈ",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "kn",
+    "city": "Chennai",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "ಕಾರ್ಮಿಕ ಕಚೇರಿ",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ತುರ್ತು ಸಹಾಯ\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ತುರ್ತು ಸಂಖ್ಯೆ 112 ಬಗ್ಗೆ",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ಇ-ಶ್ರಮ ನೋಂದಣಿ",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ಜನ್ ಧನ್ ಬ್ಯಾಂಕ್ ಖಾತೆ",
+        "yellow": true
+      },
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "ರಾಜ್ಯ ಕಟ್ಟಡ ಕಾರ್ಮಿಕ ಕಲ್ಯಾಣ ಮಂಡಳಿ",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "kn",
+    "city": "Delhi",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://labour.delhi.gov.in/",
+        "text": "ಕಾರ್ಮಿಕ ಕಚೇರಿ",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ತುರ್ತು ಸಹಾಯ\n112",
+        "yellow": true
+      },
+      {
+        "href": "tel:155214",
+        "text": "ಕಾರ್ಮಿಕ ಕಚೇರಿ\n155214",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ತುರ್ತು ಸಂಖ್ಯೆ 112 ಬಗ್ಗೆ",
+        "yellow": true
+      },
+      {
+        "href": "https://labour.delhi.gov.in/labour/current-minimum-wage-rate",
+        "text": "ಕಾರ್ಮಿಕ ಕಚೇರಿಯ ಸಂಪರ್ಕ",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ಇ-ಶ್ರಮ ನೋಂದಣಿ",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ಜನ್ ಧನ್ ಬ್ಯಾಂಕ್ ಖಾತೆ",
+        "yellow": true
+      },
+      {
+        "href": "https://bocw.delhi.gov.in/",
+        "text": "ರಾಜ್ಯ ಕಟ್ಟಡ ಕಾರ್ಮಿಕ ಕಲ್ಯಾಣ ಮಂಡಳಿ",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "kn",
+    "city": "Gurgaon",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "ಕಾರ್ಮಿಕ ಕಚೇರಿ",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ತುರ್ತು ಸಹಾಯ\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ತುರ್ತು ಸಂಖ್ಯೆ 112 ಬಗ್ಗೆ",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ಇ-ಶ್ರಮ ನೋಂದಣಿ",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ಜನ್ ಧನ್ ಬ್ಯಾಂಕ್ ಖಾತೆ",
+        "yellow": true
+      },
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "ರಾಜ್ಯ ಕಟ್ಟಡ ಕಾರ್ಮಿಕ ಕಲ್ಯಾಣ ಮಂಡಳಿ",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "kn",
+    "city": "Mumbai",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://mahakamgar.maharashtra.gov.in/",
+        "text": "ಕಾರ್ಮಿಕ ಕಚೇರಿ",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ತುರ್ತು ಸಹಾಯ\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ತುರ್ತು ಸಂಖ್ಯೆ 112 ಬಗ್ಗೆ",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ಇ-ಶ್ರಮ ನೋಂದಣಿ",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ಜನ್ ಧನ್ ಬ್ಯಾಂಕ್ ಖಾತೆ",
+        "yellow": true
+      },
+      {
+        "href": "https://mahabocw.in/",
+        "text": "ರಾಜ್ಯ ಕಟ್ಟಡ ಕಾರ್ಮಿಕ ಕಲ್ಯಾಣ ಮಂಡಳಿ",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "kn",
+    "city": "Noida",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://gbnagar.nic.in/",
+        "text": "ಕಾರ್ಮಿಕ ಕಚೇರಿ",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ತುರ್ತು ಸಹಾಯ\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ತುರ್ತು ಸಂಖ್ಯೆ 112 ಬಗ್ಗೆ",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ಇ-ಶ್ರಮ ನೋಂದಣಿ",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ಜನ್ ಧನ್ ಬ್ಯಾಂಕ್ ಖಾತೆ",
+        "yellow": true
+      },
+      {
+        "href": "https://upbocw.in/",
+        "text": "ರಾಜ್ಯ ಕಟ್ಟಡ ಕಾರ್ಮಿಕ ಕಲ್ಯಾಣ ಮಂಡಳಿ",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "or",
+    "city": "Chennai",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "ଶ୍ରମ କାର୍ଯ୍ୟାଳୟ",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ଜରୁରୀ ସାହାଯ୍ୟ\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ଜରୁରୀ ନମ୍ବର 112 ବିଷୟରେ",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ଇ-ଶ୍ରମ ପଞ୍ଜୀକରଣ",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ଜନ ଧନ ବ୍ୟାଙ୍କ ଖାତା",
+        "yellow": true
+      },
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "ରାଜ୍ୟ ନିର୍ମାଣ ଶ୍ରମିକ କଲ୍ୟାଣ ବୋର୍ଡ",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "or",
+    "city": "Delhi",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://labour.delhi.gov.in/",
+        "text": "ଶ୍ରମ କାର୍ଯ୍ୟାଳୟ",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ଜରୁରୀ ସାହାଯ୍ୟ\n112",
+        "yellow": true
+      },
+      {
+        "href": "tel:155214",
+        "text": "ଶ୍ରମ କାର୍ଯ୍ୟାଳୟ\n155214",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ଜରୁରୀ ନମ୍ବର 112 ବିଷୟରେ",
+        "yellow": true
+      },
+      {
+        "href": "https://labour.delhi.gov.in/labour/current-minimum-wage-rate",
+        "text": "ଶ୍ରମ କାର୍ଯ୍ୟାଳୟର ଯୋଗାଯୋଗ",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ଇ-ଶ୍ରମ ପଞ୍ଜୀକରଣ",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ଜନ ଧନ ବ୍ୟାଙ୍କ ଖାତା",
+        "yellow": true
+      },
+      {
+        "href": "https://bocw.delhi.gov.in/",
+        "text": "ରାଜ୍ୟ ନିର୍ମାଣ ଶ୍ରମିକ କଲ୍ୟାଣ ବୋର୍ଡ",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "or",
+    "city": "Gurgaon",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "ଶ୍ରମ କାର୍ଯ୍ୟାଳୟ",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ଜରୁରୀ ସାହାଯ୍ୟ\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ଜରୁରୀ ନମ୍ବର 112 ବିଷୟରେ",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ଇ-ଶ୍ରମ ପଞ୍ଜୀକରଣ",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ଜନ ଧନ ବ୍ୟାଙ୍କ ଖାତା",
+        "yellow": true
+      },
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "ରାଜ୍ୟ ନିର୍ମାଣ ଶ୍ରମିକ କଲ୍ୟାଣ ବୋର୍ଡ",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "or",
+    "city": "Mumbai",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://mahakamgar.maharashtra.gov.in/",
+        "text": "ଶ୍ରମ କାର୍ଯ୍ୟାଳୟ",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ଜରୁରୀ ସାହାଯ୍ୟ\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ଜରୁରୀ ନମ୍ବର 112 ବିଷୟରେ",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ଇ-ଶ୍ରମ ପଞ୍ଜୀକରଣ",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ଜନ ଧନ ବ୍ୟାଙ୍କ ଖାତା",
+        "yellow": true
+      },
+      {
+        "href": "https://mahabocw.in/",
+        "text": "ରାଜ୍ୟ ନିର୍ମାଣ ଶ୍ରମିକ କଲ୍ୟାଣ ବୋର୍ଡ",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "or",
+    "city": "Noida",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://gbnagar.nic.in/",
+        "text": "ଶ୍ରମ କାର୍ଯ୍ୟାଳୟ",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "ଜରୁରୀ ସାହାଯ୍ୟ\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "ଜରୁରୀ ନମ୍ବର 112 ବିଷୟରେ",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ଇ-ଶ୍ରମ ପଞ୍ଜୀକରଣ",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ଜନ ଧନ ବ୍ୟାଙ୍କ ଖାତା",
+        "yellow": true
+      },
+      {
+        "href": "https://upbocw.in/",
+        "text": "ରାଜ୍ୟ ନିର୍ମାଣ ଶ୍ରମିକ କଲ୍ୟାଣ ବୋର୍ଡ",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ml",
+    "city": "Chennai",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "തൊഴിൽ വകുപ്പ് ഓഫീസ്",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "അടിയന്തര സഹായം\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "അടിയന്തര നമ്പർ 112 സംബന്ധിച്ച്",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ഇ-ശ്രം രജിസ്ട്രേഷൻ",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ജൻ ധൻ ബാങ്ക് അക്കൗണ്ട്",
+        "yellow": true
+      },
+      {
+        "href": "https://labour.tn.gov.in/",
+        "text": "സംസ്ഥാന നിർമാണ തൊഴിലാളി ക്ഷേമ ബോർഡ്",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ml",
+    "city": "Delhi",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://labour.delhi.gov.in/",
+        "text": "തൊഴിൽ വകുപ്പ് ഓഫീസ്",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "അടിയന്തര സഹായം\n112",
+        "yellow": true
+      },
+      {
+        "href": "tel:155214",
+        "text": "തൊഴിൽ വകുപ്പ് ഓഫീസ്\n155214",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "അടിയന്തര നമ്പർ 112 സംബന്ധിച്ച്",
+        "yellow": true
+      },
+      {
+        "href": "https://labour.delhi.gov.in/labour/current-minimum-wage-rate",
+        "text": "തൊഴിൽ വകുപ്പ് ഓഫീസിന്റെ ബന്ധപ്പെടാനുള്ള വിവരങ്ങൾ",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ഇ-ശ്രം രജിസ്ട്രേഷൻ",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ജൻ ധൻ ബാങ്ക് അക്കൗണ്ട്",
+        "yellow": true
+      },
+      {
+        "href": "https://bocw.delhi.gov.in/",
+        "text": "സംസ്ഥാന നിർമാണ തൊഴിലാളി ക്ഷേമ ബോർഡ്",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ml",
+    "city": "Gurgaon",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "തൊഴിൽ വകുപ്പ് ഓഫീസ്",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "അടിയന്തര സഹായം\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "അടിയന്തര നമ്പർ 112 സംബന്ധിച്ച്",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ഇ-ശ്രം രജിസ്ട്രേഷൻ",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ജൻ ധൻ ബാങ്ക് അക്കൗണ്ട്",
+        "yellow": true
+      },
+      {
+        "href": "https://hrylabour.gov.in/",
+        "text": "സംസ്ഥാന നിർമാണ തൊഴിലാളി ക്ഷേമ ബോർഡ്",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ml",
+    "city": "Mumbai",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://mahakamgar.maharashtra.gov.in/",
+        "text": "തൊഴിൽ വകുപ്പ് ഓഫീസ്",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "അടിയന്തര സഹായം\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "അടിയന്തര നമ്പർ 112 സംബന്ധിച്ച്",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ഇ-ശ്രം രജിസ്ട്രേഷൻ",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ജൻ ധൻ ബാങ്ക് അക്കൗണ്ട്",
+        "yellow": true
+      },
+      {
+        "href": "https://mahabocw.in/",
+        "text": "സംസ്ഥാന നിർമാണ തൊഴിലാളി ക്ഷേമ ബോർഡ്",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  },
+  {
+    "lang": "ml",
+    "city": "Noida",
+    "width": 390,
+    "height": 844,
+    "links": [
+      {
+        "href": "https://gbnagar.nic.in/",
+        "text": "തൊഴിൽ വകുപ്പ് ഓഫീസ്",
+        "yellow": true
+      },
+      {
+        "href": "tel:112",
+        "text": "അടിയന്തര സഹായം\n112",
+        "yellow": true
+      },
+      {
+        "href": "https://112.gov.in/",
+        "text": "അടിയന്തര നമ്പർ 112 സംബന്ധിച്ച്",
+        "yellow": true
+      },
+      {
+        "href": "https://eshram.gov.in/",
+        "text": "ഇ-ശ്രം രജിസ്ട്രേഷൻ",
+        "yellow": true
+      },
+      {
+        "href": "https://pmjdy.gov.in/",
+        "text": "ജൻ ധൻ ബാങ്ക് അക്കൗണ്ട്",
+        "yellow": true
+      },
+      {
+        "href": "https://upbocw.in/",
+        "text": "സംസ്ഥാന നിർമാണ തൊഴിലാളി ക്ഷേമ ബോർഡ്",
+        "yellow": true
+      }
+    ],
+    "pageOverflow": false
+  }
+]
