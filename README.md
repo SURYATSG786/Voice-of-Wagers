@@ -2,6 +2,8 @@
 
 <img src="./assets/hero-banner.svg" width="100%" alt="Voice of Wagers: Your work. Your worth. Your next step."/>
 
+<p align="center"><strong>🚀 <a href="https://voiceofwagers.vercel.app">Try Voice of Wagers — Live App</a></strong></p>
+
 <img src="./assets/divider.svg" width="100%" height="4"/>
 
 <p align="center">
@@ -15,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=SURYATSG786-Voice-of-Wagers&style=for-the-badge&color=9B5DE5&labelColor=0d1117&label=VIEWING%20THIS" alt="live views"/>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=400&color=FFD60A&center=true&vCenter=true&width=820&lines=%24+npm+run+build;%E2%9C%93+React+19+client+built+with+Vite+7;%24+npm+start;%E2%9C%93+Express+API+live+on+127.0.0.1%3A3001;%E2%9C%93+11+languages+loaded+%7C+Urdu+RTL+ready;%E2%9C%93+Noida+Helper+Rs+300%2Fday+%E2%86%92+Rs+5%2C890+below+benchmark" alt="terminal session" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=400&color=FFD60A&center=true&vCenter=true&width=820&lines=%24+npm+run+build;%E2%9C%93+React+19+client+built+with+Vite+7;%24+npm+start;%E2%9C%93+Live+app%3A+voiceofwagers.vercel.app;%E2%9C%93+11+languages+loaded+%7C+Urdu+RTL+ready;%E2%9C%93+Noida+Helper+Rs+300%2Fday+%E2%86%92+Rs+5%2C890+below+benchmark" alt="terminal session" />
 
 </div>
 
@@ -267,7 +269,9 @@ npm run build
 npm start
 ```
 
-Open **http://127.0.0.1:3001** for the landing page. Choose **Start with Saathi** to reach the dashboard at `/home`. No API key is required for the core demo.
+Try the live app at **[voiceofwagers.vercel.app](https://voiceofwagers.vercel.app)**. Choose **Start with Saathi** to reach the dashboard at `/home`. No API key is required for the core demo.
+
+After running the installation steps above, your local copy is available at **http://127.0.0.1:3001**.
 
 <details>
 <summary><strong>Optional: local speech for Malayalam and Odia</strong></summary>
