@@ -125,3 +125,8 @@ All 155 automated tests pass, including three new tests for metric/scope/source 
 ## Selected-city panel redesign
 
 155 automated tests pass and the production build succeeds. `eval/city-detail-redesign-checks.json` records 66 Chennai/Gurgaon checks across all eleven languages at 1366×768, 1280×900 and 390×844: no horizontal overflow or desktop detail-panel clipping. Tamil source/worker-record disclosures opened and closed correctly; the journey tile navigated to `/route?city=Chennai`. Primary actions precede compact source disclosures; expanded information can scroll naturally. Screenshot: `screenshots/city-details.png`.
+
+
+## Focused city details dialog
+
+The city Details button now opens a centred native dialog with pay/cost/savings summaries, three next steps and two source disclosures. 155 automated tests passed and the production build passed. `eval/city-dialog-browser-checks.json` records 110 checks: five cities × eleven languages × desktop (1366×768) and phone (390×844). All dialogs stayed within viewport bounds with no horizontal overflow, three action links and focus inside the open dialog. Tamil sources, Escape close, focus restoration and Chennai journey navigation were checked interactively. Expanded source content scrolls inside the dialog on smaller screens.

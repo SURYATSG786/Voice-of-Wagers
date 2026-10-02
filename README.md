@@ -29,7 +29,7 @@ This downloads pinned local speech models and creates an isolated Python environ
 ## What you can do
 
 - **My Wage:** see the supplied wage benchmark and its source.
-- **Cities:** compare pay, rent, food and estimated savings using clear city cards.
+- **Cities:** compare pay, rent, food and estimated savings using clear city cards. Tap Details for a focused, accessible panel with next steps and sources.
 - **My Route:** choose any of Patna, Noida, Chennai, Delhi, Gurgaon or Mumbai as the start or destination; see a road map and kilometres inside the app.
 - **Arrival:** find official help, useful phrases and a simple arrival checklist.
 - **Fair Pay:** compare entered pay with the supplied benchmark.
@@ -61,7 +61,7 @@ npm run eval
 npm run build
 ```
 
-Latest local result: **155 automated tests passed**, production build passed, and **66 city-detail language/layout checks passed** across eleven languages at desktop and phone sizes. See [TESTING.md](TESTING.md). GitHub Actions repeats the automated tests and build on pushes and pull requests.
+Latest local result: **155 automated tests passed**, production build passed, and **110 city-dialog language/layout checks passed** across all five cities and eleven languages at desktop and phone sizes. See [TESTING.md](TESTING.md). GitHub Actions repeats the automated tests and build on pushes and pull requests.
 
 ## Data and service limits
 
